@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Parsons-Prayer-08-Holkham-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Holkham Prayers and Meditations</title><author>Parsons, Ben</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-03">Copyedited and proofread</resp><resp from="2023-02" to="2023-03">Entered corrections for print edition</resp><resp from="2023-02" to="2023-03">Formatted for print edition</resp><resp from="2023-02" to="2023-03">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Fein, Susanna</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2022-04" to="2022-03">Copyedited and proofread</resp><resp from="2022-04" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2022-09" to="2022-10">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2022-09" to="2024-02">Entered corrections for print edition</resp><resp from="2022-09" to="2022-10">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-04" to="2024-02">Audited documents prior to print/export</resp><resp from="2022-04" to="2022-07">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2024-02">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-02" to="2024-02">Formatted for XML export</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Emmarae Stein</persName><orgName>University of Rochester</orgName><resp>Social Media Manager, Editorial Staff</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Appulby, Simon</author><author>Unknown</author><editor>Parsons, Ben</editor><title>Two Middle English Prayer Cycles: Holkham Prayers and Meditations and Simon Appulby, The Fruyte of Redempcyon</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/parsons-prayer/blob/main/parsons-prayer-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Parsons-Prayer-08-Holkham-Tnotes"/><div type="text">
+ <p style="heading4">Prologue, Paragraph 1</p>
+ <note type="tnote" n="1"><space rend="indent1"/><hi rend="italic">Religious sustir</hi>. MS begins at this point, with no title or rubric; all titles and rubrics are editorial.</note>
+ <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">festis</hi>. In MS the two central letters are concealed by nineteenth-century patching, making exact interpretation difficult. Since this statement is often treated as the title of the cycle, the letter-forms in question are a major interpretive crux. Barratt (<hi rend="italic">Women’s </hi><hi rend="italic">Writing</hi>, p. 211) and Colledge and Chadwick (Flete, <hi rend="italic">Remedies Against </hi><hi rend="italic">Temptations</hi>, p. 210) suggest <hi rend="italic">feitis</hi> or <hi rend="italic">faits</hi>, a reading that has been taken up by some subsequent writers. However, <hi rend="italic">festes</hi>, the alternative proposed by Pollard (“Bodleian MS Holkham Misc. 41,” p. 48n7) and Koster (“Gender, Text, Critic,” pp. 234–35), seems likelier, given the mention of <hi rend="italic">yowr festes</hi> in the first prayer, the absence of <hi rend="italic">feit</hi> at any later stage in the cycle, and the fact that Pseudo-Bonaventure also describes key events in the life of Christ as “feasts.” The Incarnation, for instance, is the “foundation of all solemn feasts” (<hi rend="italic">MLC</hi>, pp. 16–17). See the <ref target="insert-internal-link" type="internal">Holkham Introduction, p. 21</ref>, for fuller discussion.</note>
+ <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">Jhesu</hi>. MS uses the abbreviation <hi rend="italic">Ihu</hi> here and throughout.</note>
+ <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">folwe</hi>. MS worn; the final two letters have partly flaked away.</note>
+ <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">usen</hi>. MS badly worn; a hole in the parchment has obliterated the final two letters, but the infinitive is required for sense.</note>
+ <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">meditacions</hi>. MS badly worn; a hole midway through the word makes the exact spelling uncertain, but the word itself is clear.</note>
+ <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">yef yt</hi>. MS worn; the letter-forms cannot be precisely identified.</note>
+ <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">techinges</hi>. MS worn and patched; the word can only be read by comparing the remaining traces of ink to the scribe’s characteristic letter-forms.</note>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">I</hi><hi rend="italic"> hope my</hi>. MS worn; exact reading uncertain, but remaining ink traces enable a best guess.</note>
+ <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">man</hi>. MS badly worn; holes and patching cover the upper and lower parts of the characters.</note>
+ <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">grace</hi>. MS damaged, partly obscuring the central three letters.</note>
+ <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">from</hi>. MS torn and patched; only the final letter is intelligible, although the author’s biblical allusion makes a preposition likely.</note>
+ <p style="heading4">Prologue, Paragraph 2</p>
+ <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">And I preye</hi>. MS torn, obscuring much of the first word.</note>
+ <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">preie my lord</hi>. MS: <hi rend="italic">pie my lord</hi>. On the face of it, MS is nonsensical; however, it is likely that a suspension mark was placed over the initial letter of <hi rend="italic">preie</hi> to show elision of <hi rend="italic">re</hi>, and was subsequently erased by wear, damp or mold. The scribe routinely abbreviates similar syllables by setting a dot over the preceding letter, and MS is severely mildewed here.</note>
+ <p style="heading4">Prologue, Paragraph 3</p>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">much as</hi><hi rend="italic"> a</hi>. MS damaged; patching has obscured most of the first word.</note>
+ <p style="heading4">Prologue, Paragraph 4</p>
+ <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">wrathe</hi>. MS: <hi rend="italic">warthe</hi>; the scribe has mistakenly transposed the central letters.</note>
+ <p style="heading4">Prayer 5, Paragraph 1</p>
+ <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">make me milde</hi>. MS omits <hi rend="italic">me</hi>, although the pronoun is required for sense.</note>
+ <p style="heading4">Prayer 7, Paragraph 1</p>
+ <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">the pope, and alle the cardinalis</hi>. An attempt has been made to delete the passage, probably by an early modern reader, although the text is still partly visible. See the <ref target="insert-internal-link" type="internal">Holkham Introduction, pp. 22–24</ref>, for fuller discussion.</note>
+ <p style="heading4">Prayer 9, Paragraph 1</p>
+ <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">yowr vertues</hi>. MS: <hi rend="italic">yow vertues</hi>. MS is evidently in error here, since the context requires a possessive rather than nominative pronoun.</note>
+ <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">so to </hi><hi rend="italic">love</hi>. <hi rend="italic">so</hi> is largely unreadable in MS owing to patching.</note>
+ <p style="heading4">Prayer 11, Paragraph 1</p>
+ <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">ye wer</hi>. MS may read <hi rend="italic">yewe</hi> or <hi rend="italic">yewr</hi>; the ink is worn and the end of the word covered by a patch. However, an auxiliary verb makes better grammatical sense than a lone pronoun.</note>
+ <p style="heading4">Prayer 13, Paragraph 1</p>
+ <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">vertuousli</hi>. MS: <hi rend="italic">utuousli</hi>. A suspension mark over the initial letter has likely been lost to mold, since the ink has flaked from the leaf in several places.</note>
+ <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">gostli</hi>. MS only partly readable owing to mold damage; <hi rend="italic">goode</hi> may be another possibility, especially since the author uses both adjectives in her prologue when describing virtue.</note>
+ <p style="heading4">Prayer 15, Paragraph 1</p>
+ <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">hereth</hi>. MS: <hi rend="italic">herieth</hi>. Although MS makes some sense, using a common synonym for “praise” (see prayer 33), it is a poor fit for the prayer’s emphasis on language and teaching and is most likely a mistranscription. Since a line-break interrupts the word halfway through, it would be especially prone to scribal error.</note>
+ <p style="heading4">Prayer 16, Paragraph 1</p>
+ <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">ye hadden</hi>. MS omits <hi rend="italic">ye</hi>, but it has been added here for sense.</note>
+ <p style="heading4">Prayer 20, Paragraph 2</p>
+ <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">weie</hi>. MS is damaged part-way through the word, which could read either <hi rend="italic">weie</hi> or <hi rend="italic">wele</hi>; however, the former gives the more logical reading.</note>
+ <p style="heading4">Prayer 22, Paragraph 1</p>
+ <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">derkhed of defaute</hi>. MS: <hi rend="italic">derkhed defaute</hi>. The two consecutive nouns must be an error. Barratt inserts the equally tenable <hi rend="italic">and</hi> (<hi rend="italic">Women’s Writing</hi>, p. 213).</note>
+ <p style="heading4">Prayer 24, Paragraph 1</p>
+ <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">min sinnes</hi>. MS damaged; the initial two letters of <hi rend="italic">sinnes</hi> have been almost entirely erased by mold, but can be approximated from context.</note>
+ <p style="heading4">Prayer 25, Paragraph 1</p>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">she wepte</hi>. MS: <hi rend="italic">ye</hi><hi rend="italic"> wepte</hi>. The MS reading is clearly confused, and has probably been influenced by the second-person pronouns in the same sentence.</note>
+ <p style="heading4">Prayer 26, Paragraph 2</p>
+ <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">Mercyful</hi>. A loop has been added to the final downward stroke of the initial letter; this stretches into the bottom margin before turning into a vertical column of u-shaped lines. As the ink is slightly paler than the main text, the design may be a reader’s doodle. Compare however the scribal ornamentation in the <ref target="insert-internal-link" type="internal">note to Epilogue.1</ref>, below.</note>
+ <p style="heading4">Prayer 28, Paragraph 1</p>
+ <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">and accusid hem</hi>. MS damaged; mold has erased much of the word <hi rend="italic">hem</hi>, but the syntax makes a repeated pronoun likely.</note>
+ <p style="heading4">Prayer 29, Paragraph 1</p>
+ <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">magnifie</hi>. MS worn, causing ink to flake from several letters; however, the word is doubtless some form of the author’s usual introductory formula.</note>
+ <p style="heading4">Prayer 29, Paragraph 2</p>
+ <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">defautes see</hi>. MS has no verb in this clause; <hi rend="italic">see</hi> is a best guess added for sense.</note>
+ <p style="heading4">Prayer 32, Paragraph 1</p>
+ <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">evil</hi>. MS: <hi rend="italic">evid</hi>, an error probably induced by the initial of the following word.</note>
+ <p style="heading4">Prayer 34, Paragraph 1</p>
+ <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">haddyn</hi>. MS badly worn; a hole has rendered the final few characters unreadable, but the context implies an infinitive.</note>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">worldli</hi>. MS: <hi rend="italic">wordli</hi>, a clear slip, perhaps induced by <hi rend="italic">ore</hi> [mouth] in the preceding sentence.</note>
+ <p style="heading4">Prayer 36, Pararaph 1</p>
+ <note type="tnote" n="37"><space rend="indent1"/><hi rend="italic">youre precious body . . .</hi> MS breaks off here; an unknown number of folia are missing. See the <ref target="insert-internal-link" type="internal">Holkham Introduction, pp. 23–24</ref>, for further discussion.</note>
+ <p style="heading4">Prayer 37, Paragraph 1</p>
+ <note type="tnote" n="38"><space rend="indent1"/><hi rend="italic">. . </hi><hi rend="italic">. nifie yow</hi>. The start of this prayer is missing, although it is most likely some variant of the formula <hi rend="italic">I thanke and magnifie yow</hi>.</note>
+ <p style="heading4">Prayer 40, Paragraph 1</p>
+ <note type="tnote" n="39"><space rend="indent1"/><hi rend="italic">thise</hi>. MS: <hi rend="italic">thises</hi>. It is unclear whether the final letter is intended as a character or an otiose flourish. If the former, it is the only time the text pluralizes the pronoun in this way, and the hooked mark in question appears in MS only rarely.</note>
+ <p style="heading4">Prayer 42, Paragraph 1</p>
+ <note type="tnote" n="40"><space rend="indent1"/><hi rend="italic">hem</hi>. MS: <hi rend="italic">he</hi>. Since the accusative is required for sense, MS is either in error or a suspension mark has been lost to damp or mold.</note>
+ <p style="heading4">Prayer 44, Paragraph 1</p>
+ <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">I may have</hi>. MS: <hi rend="italic">I</hi><hi rend="italic"> may have have</hi>, an obvious dittographic error.</note>
+ <p style="heading4">Prayer 46, Paragraph 1</p>
+ <note type="tnote" n="42"><space rend="indent1"/><hi rend="italic">al that holi cumpanie</hi>. The word <hi rend="italic">al</hi> was originally missing from MS and has been inserted in a different hand above the line, perhaps by a later reader, perhaps by the scribe or their supervisor. It is the only such correction in MS, but suggests that the text was compared to a second copy at some stage during its production or circulation.</note>
+ <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">spirituali</hi>. MS: <hi rend="italic">sprituali</hi>, a simple misspelling.</note>
+ <p style="heading4">Prayer 47, Paragraph 1</p>
+ <note type="tnote" n="44"><space rend="indent1"/><hi rend="italic">myhtili</hi>. MS damaged by mold; the central characters are only partly readable.</note>
+ <p style="heading4">Prayer 49, Paragraph 1</p>
+ <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">Esterne</hi>. MS: <hi rend="italic">Estene</hi>, a slip probably caused by a line-break occurring midway through the word.</note>
+ <p style="heading4">Prayer 51, Paragraph 1</p>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">Thursday</hi>. MS: <hi rend="italic">thusday</hi> or <hi rend="italic">thurday</hi>; the third character is affected by mold, but both potential spellings are equally problematic and suggest the scribe has overlooked a letter.</note>
+ <note type="tnote" n="47"><space rend="indent1"/><hi rend="italic">riht</hi>. MS damaged, obscuring the final two letters, but the word can be inferred from context.</note>
+ <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">regnum a constitutione</hi>. MS: <hi rend="italic">regnum constitutione</hi>. The scribe has omitted the preposition <hi rend="italic">a</hi>, most likely due to eyeskip.</note>
+ <p style="heading4">Prayer 52, Paragraph 1</p>
+ <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">never</hi>. MS damaged by mold; the word is only partly legible.</note>
+ <p style="heading4">Prayer 53, Paragraph 1</p>
+ <note type="tnote" n="50"><space rend="indent1"/><hi rend="italic">frutes</hi>. MS mold-damaged, partially deleting the first three letters; the word can nonetheless be inferred from context.</note>
+ <p style="heading4">Epilogue, Paragraph 1</p>
+ <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">that of his benigne</hi>. MS incorporates a curious design here, elongating the tail of the thorn of <hi rend="italic">that</hi> into the bottom margin and intersecting it with five horizontal strokes. The purpose of this motif is unclear, and part of it may have been lost when the pages were trimmed by the nineteenth-century binder.</note>
+ <p style="heading4">Epilogue, Paragraph 4</p>
+ <note type="tnote" n="52"><space rend="indent1"/><hi rend="italic">receyved</hi>. MS worn at the margin; the final two letters are unreadable, but the perfect tense is required for sense.</note>
+ <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">neythir</hi>. MS deteriorated; a hole has obliterated the initial letter, but the word is obvious from context.</note>
+ </div></body></text></TEI>

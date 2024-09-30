@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Parsons-Prayer-12-Fruyte-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Simon Appulby's The Fruyte of Redempcyon</title><author>Parsons, Ben</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-03">Copyedited and proofread</resp><resp from="2023-02" to="2023-03">Entered corrections for print edition</resp><resp from="2023-02" to="2023-03">Formatted for print edition</resp><resp from="2023-02" to="2023-03">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Fein, Susanna</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2022-04" to="2022-03">Copyedited and proofread</resp><resp from="2022-04" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2022-09" to="2022-10">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2022-09" to="2024-02">Entered corrections for print edition</resp><resp from="2022-09" to="2022-10">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-04" to="2024-02">Audited documents prior to print/export</resp><resp from="2022-04" to="2022-07">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2024-02">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-02" to="2024-02">Formatted for XML export</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Emmarae Stein</persName><orgName>University of Rochester</orgName><resp>Social Media Manager, Editorial Staff</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Appulby, Simon</author><author>Unknown</author><editor>Parsons, Ben</editor><title>Two Middle English Prayer Cycles: Holkham Prayers and Meditations and Simon Appulby, The Fruyte of Redempcyon</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/parsons-prayer/blob/main/parsons-prayer-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Parsons-Prayer-12-Fruyte-Tnotes"/><div type="text">
+ <p style="heading4">Prologue, Rubric</p>
+ <note type="tnote" n="1"><space rend="indent1"/>Appulby’s brief introduction, like his closing statement, has no given title.</note>
+ <p style="heading4">Chapter 4, Paragraph 1</p>
+ <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">lyvynge</hi>. Marginal note: <hi rend="italic">Liber primo reuelationum beate Brigitte. </hi><hi rend="italic">capitulum x. A</hi> [The first book of the revelation of the blessed Bridget. Chapter 10. A]. The function of the letter here and in subsequent marginalia is not immediately clear. The letters do not correspond to recognizable subsections in <hi rend="italic">BSR</hi>, or even consistently show Appulby moving between different passages within it. Since they work through the alphabet in sequential pairs, albeit with some unaccountable omissions, they are perhaps intended to help the reader piece together the quotations from Bridget into some form of ordered whole, but it remains difficult to discern any pattern or purpose. See Dowding, “For your ghostly conforte,” pp. 157–59.</note>
+ <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">charyté</hi>. Marginal note: <hi rend="italic">Ibidem</hi> [As before].</note>
+ <p style="heading4">Chapter 4, Paragraph 2</p>
+ <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">frendes</hi>. Marginal note: <hi rend="italic">Ibidem.</hi></note>
+ <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">wylled ever</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">moost hyghly</hi>. Marginal note: <hi rend="italic">Ibidem. B.</hi></note>
+ <p style="heading4">Chapter 4, Paragraph 3</p>
+ <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">dayly</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <p style="heading4">Chapter 4, Paragraph 4</p>
+ <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">joye and exultacyon</hi>. Marginal note: <hi rend="italic">Liber x reuelatio beatem brigitte. capitulum x. D</hi> [Book 10 of the revelation of the blessed Bridget. Chapter 10. D]. The note is erroneous, since in its medieval form <hi rend="italic">BSR</hi> only consisted of seven or eight books; it should refer to Book 1, but remains uncorrected in all editions.</note>
+ <p style="heading4">Chapter 4, Paragraph 5</p>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">thou behelde his</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">fayre and delectable</hi>. Marginal note: <hi rend="italic">Liber vi reuelatio capitulum </hi><hi rend="italic">primo</hi> [Book 6 of the revelation, the first chapter].</note>
+ <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">we</hi><hi rend="italic"> may fynde</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">And good lady</hi>. Marginal note: <hi rend="italic">Liber x reuelatio capitulum x. D</hi> [Book 10 of the revelation, chapter 10. D]. The mistake has obviously been carried over from earlier in the chapter.</note>
+ <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">good lady thy</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <p style="heading4">Chapter 5, Paragraph 1</p>
+ <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">Swete Jhesu, I beseche thee</hi>. Marginal note: <hi rend="italic">Oratio</hi> [Prayer].</note>
+ <p style="heading4">Chapter 6, Paragraph 1</p>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">Benygne Jesu, I praye thee to</hi><hi rend="italic"> sende</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 7, Rubric</p>
+ <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">our lorde </hi><hi rend="italic">Jesu</hi>. 1514, 1517, 1531, 1532: <hi rend="italic">our lorde</hi>. Although 1530 is alone here, it offers a tenable correction; across all five editions, the opening <hi rend="italic">contentes of this boke</hi> includes Jesus’s forename as part of the chapter heading even when it does not appear in the actual chapter itself.</note>
+ <p style="heading4">Chapter 7, Paragraph 1</p>
+ <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">that every thynge . . . unto the instytucyons</hi>. In 1514 the accompanying woodcut is oversized, and smudges the initial letters of <hi rend="italic">that</hi>, <hi rend="italic">submytte</hi>, and <hi rend="italic">instytucyons</hi>, but the text is clear from context and from subsequent imprints.</note>
+ <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">for onely unto this lawe</hi>. Marginal note: <hi rend="italic">Leuiti. x</hi> [Leviticus 10].</note>
+ <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">of profounde humylyté</hi>. Marginal note: <hi rend="italic">Bernardus</hi> (i.e., St. Bernard of Clairvaux).</note>
+ <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">Therfore </hi><hi rend="italic">make us, good lady</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 8, Rubric</p>
+ <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">persecucyon of Jhesu</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">persecucyon </hi><hi rend="italic">of our lorde Jesu</hi>. Perhaps a correction, although the modified phrasing does not appear on the contents page of any edition.</note>
+ <p style="heading4">Chapter 8, Paragraph 1</p>
+ <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">two yere of aege</hi>. 1514, 1517, 1531, 1532: <hi rend="italic">two yere aege</hi>. The 1530 emendation is required for sense.</note>
+ <p style="heading4">Chapter 9, Paragraph 1</p>
+ <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">I praye thee, good Jhesu</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 10, Paragraph 1</p>
+ <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">to halowe therby our baptym</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">to have therby our baptym</hi>. There is no obvious reason for the change, since the majority reading makes equally good sense.</note>
+ <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">Lorde Jhesu, I thanke </hi><hi rend="italic">thee</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 11, Rubric</p>
+ <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">fastynge of Jhesu</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">fastynge of our lord Jesu</hi>, although the header remains unchanged on the contents page.</note>
+ <p style="heading4">Chapter 11, Paragraph 1</p>
+ <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">O good Jhesu, I beseche thee</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 13, Paragraph 2</p>
+ <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">one after an other</hi>. 1514, 1517, 1531, 1532: <hi rend="italic">one after other</hi>. Although <hi rend="italic">an</hi> only appears in 1530, it is a convincing correction.</note>
+ <p style="heading4">Chapter 13, Paragraph 3</p>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">Benygne Jhesu, </hi><hi rend="italic">I praye</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 14, Rubric</p>
+ <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">that our</hi><hi rend="italic"> lorde made</hi>. 1514, 1532: <hi rend="italic">our lorde made</hi>. 1517: <hi rend="italic">of</hi><hi rend="italic"> our lorde made</hi>. The contents pages of all five editions make clear that 1530 is correct. This is only one of two emendations 1530 shares with 1531; the second occurs in chapter 24, paragraph 1.</note>
+ <p style="heading4">Chapter 15, Paragraph 2</p>
+ <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">worthy deth</hi>. While we might expect “of” or a similar preposition here, all copies contain the same formulation.</note>
+ <p style="heading4">Chapter 15, Paragraph 3</p>
+ <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">Meke Jhesu, I beseche</hi><hi rend="italic"> thee</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 16, Paragraph 2</p>
+ <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">erubescensy of</hi>. Marginal note: <hi rend="italic">Liber reuelatio capitulum x. E</hi> [Book of the revelation chapter 10. E]. The book number is missing in 1514; the omission is rectified in 1517 and 1532 (albeit to an erroneous <hi rend="italic">x</hi>), although the numeral disappears again in 1530 and is overlooked by Redman in 1531.</note>
+ <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">fresshely in syght</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">flesshely in syght</hi>. It is entirely possible that 1530 has corrected a misreading in the previous versions, but either variant is plausible.</note>
+ <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">beauteful skynne</hi>. Marginal note: <hi rend="italic">Liber x. reuelatio beatem Brigitte capitulum x. E</hi> [Book 10 of the revelation of the blessed Bridget chapter 10. E], repeating the same dittographic error from chapter 4, paragraphs 4 and 5.</note>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">moost bytter of all</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="37"><space rend="indent1"/><hi rend="italic">one moved </hi><hi rend="italic">in spyryte asked</hi>. 1514, 1517, 1531, 1532: <hi rend="italic">one moved in </hi><hi rend="italic">spyryte</hi>. 1530 has obviously emended a recurring error caused by the page break; the alternate reading garbles the translation from Bridget. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <p style="heading4">Chapter 16, Paragraph 3</p>
+ <note type="tnote" n="38"><space rend="indent1"/><hi rend="italic">sawe it replete</hi>. Marginal note: <hi rend="italic">Ibidem. E</hi>.</note>
+ <p style="heading4">Chapter 18, Paragraph 1</p>
+ <note type="tnote" n="39"><space rend="indent1"/><hi rend="italic">Beholde man</hi>. It is tempting to assume that an article has been missed here, and that Pilate is meant to say “the man,” but all surviving copies contain the same formulation.</note>
+ <p style="heading4">Chapter 19, Paragraph 1</p>
+ <note type="tnote" n="40"><space rend="indent1"/><hi rend="italic">thy</hi><hi rend="italic"> sorowfull</hi>. Marginal note: <hi rend="italic">Liber primo reuelatio capitulum x. E</hi> [The first book of the revelation chapter 10. E].</note>
+ <p style="heading4">Chapter 19, Paragraph 3</p>
+ <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">may no more</hi>. Marginal note: <hi rend="italic">Liber x reuelatio capitulum </hi><hi rend="italic">x. F</hi> [Book 10 of the revelation chapter 10. F], again reprising an error from chapter 4, paragraph 5.</note>
+ <note type="tnote" n="42"><space rend="indent1"/><hi rend="italic">wherof inwardly</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">with two nayles</hi>. Marginal note: <hi rend="italic">Ibidem. G</hi>.</note>
+ <p style="heading4">Chapter 19, Paragraph 4</p>
+ <note type="tnote" n="44"><space rend="indent1"/><hi rend="italic">O good Jesu, for all these dolours</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 20, Paragraph 1</p>
+ <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">suffred many grete</hi>. Marginal note: <hi rend="italic">Liber primo reuelatio capitulum x. G</hi> [The first book of the revelation chapter 10. G].</note>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">Jhesu, I praye thee for</hi><hi rend="italic"> thy passyon</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 21, Rubric</p>
+ <note type="tnote" n="47"><space rend="indent1"/><hi rend="italic">mercy </hi><hi rend="italic">of Jhesu</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">mercy of our </hi><hi rend="italic">lorde Jesu</hi>. Although the 1530 reading makes sense, it is unsupported by the contents pages.</note>
+ <p style="heading4">Chapter 21, Paragraph 1</p>
+ <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">Mercyful Jesu, I</hi><hi rend="italic"> praye</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 22, Paragraph 2</p>
+ <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">other that loved</hi>. Marginal note: <hi rend="italic">Liber primo reuelatio capitulum decimo. H</hi> [The first book of the revelation, the tenth chapter. H].</note>
+ <note type="tnote" n="50"><space rend="indent1"/><hi rend="italic">brenne in</hi><hi rend="italic"> hell</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">bytternesse and trybulacyons</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">bytternesse of trybulacyons</hi>. The change seems to be a simple error rather than a revision; 1514 mirrors Bridget’s Latin more effectively [<hi rend="italic">amaritudinem et tribulacionem</hi>].</note>
+ <note type="tnote" n="52"><space rend="indent1"/><hi rend="italic">in thy</hi><hi rend="italic"> herte</hi>. Marginal note: <hi rend="italic">Ibidem.</hi></note>
+ <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">Jhesu, I beseche thee</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 23, Paragraph 1</p>
+ <note type="tnote" n="54"><space rend="indent1"/><hi rend="italic">For this thurste and bytter drynke</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 24, Paragraph 1</p>
+ <note type="tnote" n="55"><space rend="indent1"/><hi rend="italic">And for as moche</hi>. Marginal note: <hi rend="italic">Liber reuelatio capitulum x. H</hi> [The book of revelation chapter 10. H].</note>
+ <note type="tnote" n="56"><space rend="indent1"/><hi rend="italic">dolour and passion</hi>. So 1530, 1531, 1532. 1514, 1517: <hi rend="italic">dolour a passion</hi>. The later editions are obviously correct; an ampersand has been confused with an article in the early imprints. Redman seems to have emended the text independently, since he usually follows 1514 or 1517 rather than 1530.</note>
+ <note type="tnote" n="57"><space rend="indent1"/><hi rend="italic">dolour descended from</hi>. Marginal note: <hi rend="italic">Ibidem.</hi></note>
+ <p style="heading4">Chapter 24, Paragraph 3</p>
+ <note type="tnote" n="58"><space rend="indent1"/><hi rend="italic">O swete Jhesu, hertely I praye</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <note type="tnote" n="59"><space rend="indent1"/><hi rend="italic">and for the bytter wepynges</hi>. The British Library copy of 1514 (shelfmark C.21.c.23) has an extra (and redundant) <hi rend="italic">oratio</hi> in the margin which does not appear elsewhere; Dowding takes this as evidence that de Worde issued the book twice that year (“For your ghostly conforte,” pp. 23–24).</note>
+ <p style="heading4">Chapter 26, Paragraph 1</p>
+ <note type="tnote" n="60"><space rend="indent1"/><hi rend="italic">Than the virgyn</hi>. Marginal note: <hi rend="italic">Liber primo</hi><hi rend="italic"> reuelatio beate Brigitte capitulum x. H</hi> [The first book of the revelation of blessed Bridget chapter 10. H].</note>
+ <p style="heading4">Chapter 26, Paragraph 2</p>
+ <note type="tnote" n="61"><space rend="indent1"/><hi rend="italic">on thy sholdre</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <note type="tnote" n="62"><space rend="indent1"/><hi rend="italic">fyngers and armes</hi>. Marginal note: <hi rend="italic">Ibidem. I</hi>.</note>
+ <note type="tnote" n="63"><space rend="indent1"/><hi rend="italic">in sondre</hi>. So 1517, 1530, 1531, 1532. 1514: <hi rend="italic">in sondee</hi>. The first imprint is clearly in error; each subsequent edition has recognized and emended the slip.</note>
+ <note type="tnote" n="64"><space rend="indent1"/><hi rend="italic">all the holy soules</hi>. 1514, 1517, 1531, 1532: <hi rend="italic">all</hi><hi rend="italic"> holy soules</hi>. 1530 is probably emending an earlier slip here.</note>
+ <p style="heading4">Chapter 26, Paragraph 4</p>
+ <note type="tnote" n="65"><space rend="indent1"/><hi rend="italic">wayled for thee</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">wayle for thee</hi>, an obvious misprint.</note>
+ <note type="tnote" n="66"><space rend="indent1"/><hi rend="italic">For this dolorous</hi><hi rend="italic"> passion and deth</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 27, Paragraph 1</p>
+ <note type="tnote" n="67"><space rend="indent1"/><hi rend="italic">O </hi><hi rend="italic">swete Jhesu, hertely I praye thee</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <p style="heading4">Chapter 28, Paragraph 1</p>
+ <note type="tnote" n="68"><space rend="indent1"/><hi rend="italic">deed eyen</hi>. Marginal note: <hi rend="italic">Liber primo reuelatio ca. x</hi><hi rend="italic">. I</hi> [The first book of the revelation chapter 10. I].</note>
+ <note type="tnote" n="69"><space rend="indent1"/><hi rend="italic">deifyed body</hi>. Marginal note: <hi rend="italic">Ibidem</hi>.</note>
+ <p style="heading4">Chapter 29, Paragraph 1</p>
+ <note type="tnote" n="70"><space rend="indent1"/><hi rend="italic">ryse from</hi><hi rend="italic"> deth</hi>. So 1517, 1531, 1532. 1530: <hi rend="italic">ryse from dethes</hi>, a clear misreading.</note>
+ <p style="heading4">Chapter 30, Paragraph 1</p>
+ <note type="tnote" n="71"><space rend="indent1"/><hi rend="italic">Lorde Jhesu Cryste, for the </hi><hi rend="italic">glory</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">ye heed</hi>. An alternative reading might be <hi rend="italic">the heed</hi>, since <hi rend="italic">y</hi> and thorn are indistinguishable in blackletter type. Although the same ambiguity is present across all five editions, Redman’s punctuation suggests that he read the first word as a pronoun rather than an article.</note>
+ <p style="heading4">Chapter 31, Paragraph 1</p>
+ <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">Benynge Jhesu, I praye</hi>. Marginal note: <hi rend="italic">Oratio</hi>.</note>
+ </div></body></text></TEI>

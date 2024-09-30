@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Parsons-Prayer-10-Fruyte-Prose-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Simon Appulby's The Fruyte of Redempcyon</title><author>Appulby, Simon</author><editor>Parsons, Ben</editor><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-03">Copyedited and proofread</resp><resp from="2023-02" to="2023-03">Entered corrections for print edition</resp><resp from="2023-02" to="2023-03">Formatted for print edition</resp><resp from="2023-02" to="2023-03">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Fein, Susanna</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2022-09" to="2022-10">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2022-09" to="2024-02">Entered corrections for print edition</resp><resp from="2022-09" to="2022-10">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2023-03" to="2024-02">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-04" to="2023-03">Copyedited and proofread</resp><resp from="2022-04" to="2024-02">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-02" to="2024-02">Formatted for XML export</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2023-03">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2023-03">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Emmarae Stein</persName><orgName>University of Rochester</orgName><resp>Social Media Manager, Editorial Staff</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Appulby, Simon</author><author>Unknown</author><editor>Parsons, Ben</editor><title>Two Middle English Prayer Cycles: Holkham Prayers and Meditations and Simon Appulby, The Fruyte of Redempcyon</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/parsons-prayer/blob/main/parsons-prayer-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="enm">English, Middle (1100-1500)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Parsons-Prayer-10-Fruyte-Prose"/>
+<div type="chapter" n="1"><head type="rubric">The Author’s Prologue<note type="tnote-indicator" n="1">T</note> </head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 2v]</locus> Here foloweth prayers and full devoute contemplacyons, with thankynges of all the benefytes<note target="#1" type="footnotelink">G</note> <note type="enote-indicator" n="1">N</note>  gyven to mankynde, and specyally in the werke of our redempcyon, of the incarnacyon and passyon of <persName>Cryste</persName>, called the <title>Fruyte of Redempcyon</title>.<note type="enote-indicator" n="2">N</note>  And fyrst it putteth a prayer<note type="enote-indicator" n="3">N</note>  to move the mynde of man to laude<note target="#2" type="footnotelink">G</note>  <persName>God</persName>:</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="1"><space rend="indent1"/><gloss>gifts (favors)</gloss></note>
+ 
+ 
+ <note type="footnote" n="2"><space rend="indent1"/><gloss>praise</gloss></note>
+ 
+ </div><div type="chapter" n="2"><head type="rubric"><locus type="foliation">[fol. 3r]</locus> 1: A prayer to move the mynde of man to laude <persName>God</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Lorde my <persName>God</persName>, I desyre to laude thee, for I knowe my selfe to be made to laud thee. Open my mouth in thy laude that I may synge joye to thy name. Stere my hert in thee, put away every tedyous<note target="#3" type="footnotelink">G</note>  thynge, infunde<note target="#4" type="footnotelink">G</note>  grace, kendle<note target="#5" type="footnotelink">G</note>  love, take awaye wyckednesse of thy servaunte, clense me from all unclennesse of body and soule, that I may be founde worthy unto the honour of thy name, and therto open my lyppes. But the dygnyté of thy depe majesté who may prayse worthely? Beholde: all the vertues of <placeName>hevens</placeName> and every aungelyke potestaté<note target="#6" type="footnotelink">G</note>  suffyseth not to laude condyngly<note target="#7" type="footnotelink">G</note>  the magnytude of thy hyghnesse. How moche lesse a frayle man, fylth and wormes mete,<note type="enote-indicator" n="4">N</note>  fayleth in thy con|dynge <locus type="foliation">[fol. 3v]</locus> laude! And so dooth also every creature, every oryson, every tonge, and sermocynacyon.<note target="#8" type="footnotelink">G</note>  What now therfore, I shall cease fro laude, for I can not worthely laude thee, or elles therfore I shall cease and holde me styll, for I knowe myselfe unclene and unsuffycyent. Be it forbode suche ingratitude that I sholde cease to laude thee, for every creature sholde laude thee, moost of all truly resonable man,<note type="enote-indicator" n="5">N</note>  to whome thou hast gyven so grete benefytes.<note type="enote-indicator" n="6">N</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="3"><space rend="indent1"/><gloss>wearying</gloss></note>
+ 
+ 
+ <note type="footnote" n="4"><space rend="indent1"/><gloss>infuse</gloss></note>
+ 
+ 
+ <note type="footnote" n="5"><space rend="indent1"/><gloss>kindle</gloss></note>
+ 
+ 
+ <note type="footnote" n="6"><space rend="indent1"/>angelyke potestaté, <gloss>angelic power</gloss></note>
+ 
+ 
+ <note type="footnote" n="7"><space rend="indent1"/><gloss>appropriately</gloss></note>
+ 
+ 
+ <note type="footnote" n="8"><space rend="indent1"/><gloss>discourse</gloss></note>
+ 
+ </div><div type="chapter" n="3"><head type="rubric">2: Laude to the Holy Trynyté for hymselfe, and for the creacyon of <placeName>heven</placeName> and <placeName>erth</placeName>, of aungell and man, and for his benefytes<note type="enote-indicator" n="7">N</note> </head>
+ <ab><milestone n="1" unit="prose-textblock"/>O Blessyd lorde <persName>God</persName>, fader, sone and Holy Ghost, thre persones and one god, my lorde, my <persName>God</persName>, my maker, my redemptour, my nouryssher, my defender, my swetnesse, my mercy, my refuge, my strength, my victory, my savyour, my joye, and my glorye eternall: I laude thee, I gloryfye thee, I honour and worshyp thee.<note type="enote-indicator" n="8">N</note>  O blessyd Trinité, for that thou arte in thy selfe, for thou arte the hyghest good, from whome floweth all goodnesse. Thou art gracyous eternyté, thou arte eternal felicité, thou arte the depnesse of felicité, thou arte onely <persName>God</persName> and there is none without thee.<note type="enote-indicator" n="9">N</note>  I laude and honour thee, O blessyd Trinité, that myghtfully hast made of nought <placeName>heven</placeName> and <placeName>erthe</placeName>,<note type="enote-indicator" n="10">N</note>  sonne and mone and all thynges that be in them, and for it pleased thee to make holy aungelles to laude and to use<note target="#9" type="footnotelink">G</note>  thee eternally, and that they might assyst to us faythfully in this exile with <locus type="foliation">[fol. 4r]</locus> hoveable<note target="#10" type="footnotelink">G</note>  counseyles and helpynges, and to declare thy ineffable goodnesse thou madest al thynge for man, and moreover thou made man with thy propre<note target="#11" type="footnotelink">G</note>  handes<note type="enote-indicator" n="11">N</note>  to thyn owne ymage and symylytude onely for thee, and thou fourmed in hym understandynge and noblisshed<note target="#12" type="footnotelink">G</note>  hym with fre wyll. I laude and gloryfye thee, for that grete gyfte thou set hym in <placeName>paradyse</placeName>, flowynge with delytes that he myght have hygh thynges in fruycyon,<note target="#13" type="footnotelink">G</note>  inferyour<note target="#14" type="footnotelink">G</note>  thynges in governynge, and to possede<note target="#15" type="footnotelink">G</note>  all thynges to worshyp thee for evermore. And thou made not these noble creatures, aungell and man, for ony necessyté that thou had to them, for truly all thynge was sufficyent in thee to thyn eternall joye and glorye, but of the fervor of thy charyté thou were moved to create them that suche creatures sholde be parte takers<note target="#16" type="footnotelink">G</note>  of thyn ineffable joye and glory.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>I laude and honour thee, good lorde, for that it pleased thee amonge all thy blessyd werkes to make me a reasonable man, and haste gyven me wysdome, reason, understandynge, and free lyberté, and hast fourmed me with all ryght lymmes and fetures of body, and hast gyven me many blessyd gyftes, spyrytuall and temporall, and also mete,<note target="#17" type="footnotelink">G</note>  drynke, cloth, and all thynges necessary whiche many a good creature that hath served thee better than I have done hath myssed; and for that thou have visite my herte many tymes with many graces and spyrytuall monycyons<note target="#18" type="footnotelink">G</note>  delyverynge me ofte fro many perylles, bothe of body and of soule, and fro sclaundres,<note target="#19" type="footnotelink">G</note>  shames, and rebukes of this <placeName>worlde</placeName> to the whiche for my synnes I myght have fall unto; and for that also that thou hast suffred me in all myn iniquyté, malyce, and all myn horryble and abhomynable synnes pacyently alway abydynge for my conversyon and amendement, whan innumerable tymes thou myght <locus type="foliation">[fol. 4v]</locus> have slayne me, and of ryght<note target="#20" type="footnotelink">G</note>  have put me to eternall paynes and dampnacyon.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>I laude and glorify thee, lorde <persName>God</persName>, for all thy mercy whiche alwayes thou hast shewed to synners, pacyently abydynge for them, mercyfully callynge them, benygnely receyvynge them, haboundauntly<note target="#21" type="footnotelink">G</note>  gyvynge grace to them, and to suche famylyaryté admyttynge them, as though they had never synned. O mercyfull lorde and pacyent <persName>God</persName>, what shall I say to thee for all these benefytes? What laudes and thankynges shall I yelde to thee? What and all my synnes were voyded fro me, truly yet were not I worthy for the leste of thy benefytes and mercyes to gyve thee condyng laude, but as a wreched synner can in all my herte I laude thee. I thanke thee. I honour and worshyp thee, and all honour and laude be yelde to thee now and evermore. Amen. <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="9"><space rend="indent1"/><gloss>appreciate</gloss></note>
+ 
+ 
+ <note type="footnote" n="10"><space rend="indent1"/><gloss>fitting</gloss></note>
+ 
+ 
+ <note type="footnote" n="11"><space rend="indent1"/><gloss>very own</gloss></note>
+ 
+ 
+ <note type="footnote" n="12"><space rend="indent1"/><gloss>ennobled</gloss></note>
+ 
+ 
+ <note type="footnote" n="13"><space rend="indent1"/><gloss>enjoyment</gloss></note>
+ 
+ 
+ <note type="footnote" n="14"><space rend="indent1"/><gloss>inferior</gloss></note>
+ 
+ 
+ <note type="footnote" n="15"><space rend="indent1"/><gloss>possess</gloss></note>
+ 
+ 
+ <note type="footnote" n="16"><space rend="indent1"/>parte takers, <gloss>partakers</gloss></note>
+ 
+ 
+ <note type="footnote" n="17"><space rend="indent1"/><gloss>food</gloss></note>
+ 
+ 
+ <note type="footnote" n="18"><space rend="indent1"/><gloss>pieces of advice</gloss></note>
+ 
+ 
+ <note type="footnote" n="19"><space rend="indent1"/><gloss>slanders</gloss></note>
+ 
+ 
+ <note type="footnote" n="20"><space rend="indent1"/>of ryght, <gloss>justly</gloss></note>
+ 
+ 
+ <note type="footnote" n="21"><space rend="indent1"/><gloss>abundantly</gloss></note>
+ 
+ </div><div type="chapter" n="4"><head type="rubric">3: Of the myserable laps<note target="#22" type="footnotelink">G</note>  of man<note type="enote-indicator" n="12">N</note>  and of the mercy of <persName>God</persName> shewed to him, and of the incarnacyon of <persName>Cryst</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and gloryfy thee, lord <persName>God</persName>, for thy moost excellent mercy and indycyble mysericorde,<note target="#23" type="footnotelink">G</note>  by the whiche thou dyd spare man from irreparable dampnacyon, trespassynge to thee, beynge unworthy to all thy benefytes, sendynge hym out fro the gladnesse of <placeName>paradyse</placeName> to do penaunce for his synnes. And all be it he was worthy eternall dampnacyon for his transgressyon, and sholde not have forgyvenesse, thou dyde not shewe than the rygoure of justyce but the swetnesse of ineffable mercy,<note type="enote-indicator" n="13">N</note>  puttynge to hym the burden of dynge<note target="#24" type="footnotelink">G</note>  penaunce, and after longe <locus type="foliation">[fol. 5r]</locus> tyme gyvynge the oyle of indulgence whiche gretly he desyred. I laude and gloryfy thee, lorde <persName>God</persName>, creatour and redemptour of mankynde, for thy greate charyté by the whiche man mervaylously create, more mervaylously thou wolde hym refourme, and where as than we beynge thyn enemyes and wycked deth had taken lordshyp over us al.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Thou hast remembred the bowelles<note target="#25" type="footnotelink">G</note>  of thy mercy and thou hast beholde from the hygh habytacyon of thy glory unto this wepynge valey of mysery, and hast seen thafflyccyon<note target="#26" type="footnotelink">G</note>  of thy people to be grete upon the <placeName>erth</placeName>, the grevous burden of the children of <persName>Adam</persName>. Therfore thou were touched withinforth<note target="#27" type="footnotelink">G</note>  with the swetnesse of charité and thou dyde put in thyselfe to thynke on us with cogitacyons<note target="#28" type="footnotelink">G</note>  of peas and redempcyon, for why whan that the fullnesse of tyme was come, thou came to vysyte us shynynge from above.<note type="enote-indicator" n="14">N</note>  And the desyres of prophetes<note type="enote-indicator" n="15">N</note>  by the exhybycyon<note target="#29" type="footnotelink">G</note>  of incarnacyon taken, thou dydest fulfyll it in apperynge god and man. Blessyd be thou<note type="enote-indicator" n="16">N</note>  therfore, O holy fader of <placeName>heven</placeName>, that woldest not spare thyn onely beloved sone, eternall god with thee, to sende hym downe to this myserable worlde to take flesshe and blode of a virgyn to redeme man. Blessyd be thou, o Holy Ghoost, for that thou gavest counseyle of the incarnacyon of the sone of <persName>God</persName>, and of the redempcyon of mankynde, and wroughtest the mystery of the incarnacyon of the sayd sone of <persName>God</persName> in the body of a virgyn.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>Blessyd be all the Holy Trinyté in whome was one counseyl,<note target="#30" type="footnotelink">G</note>  one wyll, one charité, and one operacyon in the hygh mystery of mannes redempcyon, all be it the seconde persone in deité<note target="#31" type="footnotelink">G</note>  onely toke our sayd humanité on hym; wherfore, o swete sone of <persName>God</persName>, blessyd be thou that of grete pyté, compassyon, and of excellent charité enclyned thy selfe so benygnely to descende from <locus type="foliation">[fol. 5v]</locus> the trone<note target="#32" type="footnotelink">G</note>  of <persName>God</persName>, and from the herte of the fader to this valey of mysery for us to be incarnate and to take flesshe and blode of the swete virgyn <persName>Mary</persName>, the Holy Ghoost gaderynge togedyr the clene and pure droppes of blode<note type="enote-indicator" n="17">N</note>  of her virgynall body, fourmynge therwith the precyous body of thyn humanyté, fulfyllynge the holy soule and blessyd body of the sayd virgyn <persName>Mary</persName> superhaboundauntly with incomparable gladnesse and exultacyon in the tyme of the holy and clene concepcyon, and lykewyse in thy pure and chaste temporall<note target="#33" type="footnotelink">G</note>  nativité. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="22"><space rend="indent1"/><gloss>fall</gloss></note>
+ 
+ 
+ <note type="footnote" n="23"><space rend="indent1"/>indycyble mysericorde, <gloss>indescribable mercy</gloss></note>
+ 
+ 
+ <note type="footnote" n="24"><space rend="indent1"/><gloss>deserving worship</gloss></note>
+ 
+ 
+ <note type="footnote" n="25"><space rend="indent1"/><gloss>depths</gloss></note>
+ 
+ 
+ <note type="footnote" n="26"><space rend="indent1"/><gloss>the affliction</gloss></note>
+ 
+ 
+ <note type="footnote" n="27"><space rend="indent1"/><gloss>inwardly</gloss></note>
+ 
+ 
+ <note type="footnote" n="28"><space rend="indent1"/><gloss>thoughts</gloss></note>
+ 
+ 
+ <note type="footnote" n="29"><space rend="indent1"/><gloss>display</gloss></note>
+ 
+ 
+ <note type="footnote" n="30"><space rend="indent1"/><gloss>decision</gloss></note>
+ 
+ 
+ <note type="footnote" n="31"><space rend="indent1"/><gloss>godhood</gloss></note>
+ 
+ 
+ <note type="footnote" n="32"><space rend="indent1"/><gloss>throne</gloss></note>
+ 
+ 
+ <note type="footnote" n="33"><space rend="indent1"/><gloss>worldly</gloss></note>
+ 
+ </div><div type="chapter" n="5"><head type="rubric">4: Of the vertue and holy lyfe of the virgyn <persName>Mary</persName>, by the whiche she deserved to be the moder of <persName>God</persName>, and of the Natyvyté of our lorde</head>
+ <ab><milestone n="1" unit="prose-textblock"/>O Blessed vyrgyn <persName>Mary</persName>,<note type="enote-indicator" n="18">N</note>  thou arte blessyd, and ever be thou blessyd for that thou pleased <persName>God</persName> moost hyghly by moost holy and vertuous lyvynge,<note type="tnote-indicator" n="2">T</note>  for anone at thy begynnynge<note type="enote-indicator" n="19">N</note>  in thy tender aege whan thou herde saye and understode that there was <persName>God</persName>, anone thou were full besy and ferefull in observacyon and kepynge of the helth of thy soule. And whan thou herdest fully that the same <persName>God</persName> was thy maker and juge of all thy werkes, inwardly thou loved him, and dradde gretely in thy mynde leeste thou sholde offende hym in worde or dede. And after that whan thou herdest that he had gyven lawe and preceptes to the people, and that he had shewed many mervayles to them, thou purposed stedfastly in thy mynde to love no thynge but hym, and than <locus type="foliation">[fol. 6r]</locus> all worldely thyngs were wonderfull bytter to thee. And after this, herynge that the same <persName>God</persName> wolde redeme the <placeName>worlde</placeName>, and wolde be borne of a virgyn, suche charyté<note target="#34" type="footnotelink">G</note> <note type="tnote-indicator" n="3">T</note>  haddest thou to hym in thy herte that thou thoughtest no thynge but <persName>God</persName>, and thou wylled no thynge but <persName>God</persName>.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And as moche as thou myght thou withdrewest thy selfe<note type="enote-indicator" n="20">N</note>  fro the presence and speche of thy parentes and frendes,<note type="tnote-indicator" n="4">T</note>  and thou gave of thy goodes as moche as thou might to the poore and nedy people, reservynge of them full lytell to thyselfe to fynde thee in scarceté mete, drynke, and cloth, no thynge pleased thee but onely <persName>God</persName>. Thou wylled ever<note type="tnote-indicator" n="5">T</note>  in thy herte to lyve to the tyme of his nativité yf it might so happen thou myght be made an unworthy handemayde to the moder of <persName>God</persName>. I laude and honour thee, O <persName>Mary</persName> virgyn of virgyns, that hast not sene before the none lyke to thee, ne to have ony suche folowynge after thee, that fyrst of all in the worlde amonge women hast vowed the vowe of chastyté and offred therby a gloryous gyfte to <persName>God</persName>, whan thou had it of no creature by lernynge, ne by worde ne by example thou were not taught to do so. And thou, so ornate and beawtyfyed with that vertue of chastyté and with all other vertues, thou pleased <persName>God</persName> moost hyghly,<note type="tnote-indicator" n="6">T</note>  gyvynge example of good lyvynge to all other.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>And whan the tyme came in whiche after the consuetude<note target="#35" type="footnotelink">G</note>  virgyns were presented in to the temple,<note type="enote-indicator" n="21">N</note>  thou were there amonge them for the obedyens<note target="#36" type="footnotelink">G</note>  of thy parentes, thynkynge in thy selfe that no thynge was impossyble to <persName>God</persName>. And for as moche as he knewe that thou desyred no thynge ne wylled no thynge but onely hym, he myght kepe thee in virgynyté if it pleased hym, if not his wyll to be fulfylled. And heryng all thynge commaunded in the temple obedyently, fulfyllynge it, thou retourned home agayne.<note type="enote-indicator" n="22">N</note>  And <locus type="foliation">[fol. 6v]</locus> after that, holy virgin, thou brenned<note target="#37" type="footnotelink">G</note>  more fervently and fully in the swete love of <persName>God</persName> than thou dyd before. And dayly<note type="tnote-indicator" n="7">T</note>  thou were inflambed<note target="#38" type="footnotelink">G</note>  with newe ardour and hyghe desyres of love; and therfore, good lady, thou enlonged<note target="#39" type="footnotelink">G</note>  thy selfe more than thou were wonte to do fro the company of all people and were alone by thyselfe bothe day and night, dredynge gretely leest thy mouth sholde speke or eeres sholde here ony thynge agaynst the wyll of thy <persName>God</persName>, or that thyne eyen sholde se ony delectable thynge. Thou were dredefull<note target="#40" type="footnotelink">G</note>  also in kepynge sylence, leeste thou sholde be styl not spekynge suche wordes whiche thou sholde speke. And so, swete virgyn, thou were ofte troubled in mynde and ferefull how thou sholde ordre thy wyttes and lyvynge to the pleasure of <persName>God</persName>.</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>And after, whan by the aungelyke salutacyon thou were plenarely<note target="#41" type="footnotelink">G</note>  instructe that thou sholde conceyve a sone in thy wombe by the operacyon of the Holy Ghoost, whose name sholde be <persName>Jhesus</persName>, and sholde be called the sone of <persName>God</persName>, than therwith thou had a moost fervent desyre to be the moder of <persName>God</persName>; but all be it thou knewe thyselfe electe therto of <persName>God</persName>, yet thou were not therfore in mynde exalted by elacyon,<note target="#42" type="footnotelink">G</note>  but of the fulnesse of profounde humylyté consentynge unto that so hygh a mystery, thou brake out wordes of this maner, mekely sayenge: “Lo, here the handmayde of <persName>God</persName>,<note type="enote-indicator" n="23">N</note>  befall it to me, aungell, after thy worde.” And this sayd, forthwith <persName>Goddes</persName> sone was incarnate in thy virgynall body of the Holy Ghost. I laude and glorifie thee, O good lady <persName>Mary</persName>, clene and pure virgyn, that broughtest forth in to this worlde by moost clene and chaste nativité the redemptour of the worlde, and shewed to the worlde his savyour of longe tyme desyred in the worlde. And in his byrth thou bare hym without sorowe and synne,<note type="enote-indicator" n="24">N</note>  in lykewyse as thou con|ceyved <locus type="foliation">[fol. 7r]</locus> hym, in all clennes with suche exultacyon of soule and body that for thaboundaunce of joye and exultacyon<note type="tnote-indicator" n="8">T</note>  thy holy fete felte not the grounde<note type="enote-indicator" n="25">N</note>  that they stode on. And whan thy swete sone our lorde <persName>Jhesu Cryste</persName>, brightnesse of the faders glory, was borne thou lapped<note target="#43" type="footnotelink">G</note>  hym in poore clothes reclynynge hym in a racke,<note target="#44" type="footnotelink">G</note> <note type="enote-indicator" n="26">N</note>  for there was none other place wherupon to laye hym. And soo the kynge of glory wolde be borne poorely, in a poore place, and of a poore virgyn, layde on hey bytwene two beestes for to brynge us to the eternall rychesse of <placeName>heven</placeName>.</ab>
+ <ab><milestone n="5" unit="prose-textblock"/>And after his byrthe, good lady, whan thou behelde his<note type="tnote-indicator" n="9">T</note>  pulcritude<note target="#45" type="footnotelink">G</note>  and beawté thy holy soule distylled as a swete dewe<note type="enote-indicator" n="27">N</note>  for joye, thynkynge thyselfe unworthy to have suche a sone, for sothely he was so fayre and delectable<note type="tnote-indicator" n="10">T</note>  that who so ever behelde hym he was conforted of ony sorowe that was in herte. Therfore many of the Jewes sayd: “Go we to se the sone of <persName>Mary</persName>, that we may fynde<note type="tnote-indicator" n="11">T</note>  therby consolacyon.” And al be it they knewe not that he was the sone of <persName>God</persName>, yet they receyved by the syght of hym grete and mervaylous consolacyon.<note type="enote-indicator" n="28">N</note>  And good lady,<note type="tnote-indicator" n="12">T</note>  whan thou behelde and consydered the places in his fayre handes and prety fete where the sharpe nayles sholde perce<note type="enote-indicator" n="29">N</note>  thrugh, as thou had herde by holy prophetes, thy blessyd eyen were replete with teres of wepynge, and thy virgynall herte was as cloven asonder<note target="#46" type="footnotelink">G</note>  for sorowe. And whan thy lytell swete sone behelde thy eyen full of wepynge, he was sorowfull as unto the deth for thee. And whan thou consydered the myght<note type="enote-indicator" n="30">N</note>  of his deité thou were than conforted, knowynge well that thy sone wolde have it so, and that it was expedyent.<note target="#47" type="footnotelink">G</note>  And than thou confourmed all thy wyll to his wyll, and so ever good lady thy<note type="tnote-indicator" n="13">T</note>  joye was myxte with sorowe.</ab>
+ <ab><milestone n="6" unit="prose-textblock"/>Blessyd be thou, virgyn <locus type="foliation">[fol. 7v]</locus> <persName>Mary</persName> moder of <persName>God</persName>, for that thou nourysshed thy swete sone<note type="enote-indicator" n="31">N</note>  our lorde with the swete hevenly fode of thy pappes,<note target="#48" type="footnotelink">G</note>  bathynge hym, byndynge hym in swadles, enbrasynge hym thy lytell swete floure in thyn armes and virginal bosom, impressynge oftentymes to his fayre mouthe swete kysses of thy delycate mouthe. And whan thou dyde se hym suffrynge the grevaunce of a yonge chylde and wepynge, thou losed his bandes, layenge thy fayre handes and holy armes over his crybbe, playenge with hym, smylynge on hym, spekynge fayre wordes to hym, and castynge the fayre lokes of thy virginall eyen on hym. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="34"><space rend="indent1"/><gloss>pity</gloss></note>
+ 
+ 
+ <note type="footnote" n="35"><space rend="indent1"/><gloss>custom</gloss></note>
+ 
+ 
+ <note type="footnote" n="36"><space rend="indent1"/><gloss>deference</gloss></note>
+ 
+ 
+ <note type="footnote" n="37"><space rend="indent1"/><gloss>burned</gloss></note>
+ 
+ 
+ <note type="footnote" n="38"><space rend="indent1"/><gloss>inspired</gloss></note>
+ 
+ 
+ <note type="footnote" n="39"><space rend="indent1"/><gloss>estranged</gloss></note>
+ 
+ 
+ <note type="footnote" n="40"><space rend="indent1"/><gloss>fearful</gloss></note>
+ 
+ 
+ <note type="footnote" n="41"><space rend="indent1"/><gloss>entirely</gloss></note>
+ 
+ 
+ <note type="footnote" n="42"><space rend="indent1"/><gloss>arrogance</gloss></note>
+ 
+ 
+ <note type="footnote" n="43"><space rend="indent1"/><gloss>wrapped</gloss></note>
+ 
+ 
+ <note type="footnote" n="44"><space rend="indent1"/><gloss>manger</gloss></note>
+ 
+ 
+ <note type="footnote" n="45"><space rend="indent1"/><gloss>beauty</gloss></note>
+ 
+ 
+ <note type="footnote" n="46"><space rend="indent1"/>cloven asonder, <gloss>split apart</gloss></note>
+ 
+ 
+ <note type="footnote" n="47"><space rend="indent1"/><gloss>appropriate</gloss></note>
+ 
+ 
+ <note type="footnote" n="48"><space rend="indent1"/><gloss>breasts</gloss></note>
+ 
+ </div><div type="chapter" n="6"><head type="rubric">5: Of the dolorous circumcision<note type="enote-indicator" n="32">N</note>  of our lorde <persName>Jhesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jesu Cryst</persName>, for that it pleased thee, obeyenge to the lawes, the eyght daye to be circumcised<note type="enote-indicator" n="33">N</note>  and anone in thy tender infancy to be kytte<note target="#49" type="footnotelink">G</note>  in thy tender flesshe with a knyfe of stone,<note type="enote-indicator" n="34">N</note>  and than to begyne to shedde thyn innocent blode for us, and to be ensigned with the swete name <persName>Jesus</persName>, named fro the begynnynge by the mouth of <persName>God</persName>, and shewed by the aungell; whiche by interpretacyon is to saye, a savyour. And after the effecte of the same name thou decreved<note target="#50" type="footnotelink">G</note>  to save us, thy people peculyer,<note target="#51" type="footnotelink">G</note>  from our synnes. And from thens-forth thou never lefte to werke our helthe. Swete <persName>Jhesu</persName>, I beseche thee<note type="tnote-indicator" n="14">T</note>  for the grevous payne that thou suffred than in thy tender flesshe, and for thy bytter wepyge to circumcyse me from every spotte of synne, and graunte me suche grace that in a <locus type="foliation">[fol. 8r]</locus> moost swete memory of love thy holy name <persName>Jesus</persName> may be enprynted in my herte.<note type="enote-indicator" n="35">N</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="49"><space rend="indent1"/><gloss>cut</gloss></note>
+ 
+ 
+ <note type="footnote" n="50"><space rend="indent1"/><gloss>ordained</gloss></note>
+ 
+ 
+ <note type="footnote" n="51"><space rend="indent1"/><gloss>special</gloss></note>
+ 
+ </div><div type="chapter" n="7"><head type="rubric">6: Of the Oblacyon<note target="#52" type="footnotelink">G</note>  of the thre holy kynges<note type="enote-indicator" n="36">N</note>  vnto our lorde <persName>Jesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Laude and honoure be to thee, lorde <persName>Jesu</persName>, that so desyrably woldest be sought of thre kynges, and so to be founde of them by ledynge of a sterre, and of them humbly to be honoured whan moost devoutly they offred to thee thre precyous gyftes,<note type="enote-indicator" n="37">N</note>  golde, encens, and myrre, havynge in them dyvyne mysteryes: the golde signifienge thy regal power, the encens thy dyvyne majesté, and the myrre of thy manhode the mortalyté. Benygne <persName>Jesu</persName>, I praye thee to sende<note type="tnote-indicator" n="15">T</note>  me grace spyrytually to offre these gyftes to thee: the pure golde of perfite love, the swete encens of devoute prayer, and the clene myrre of mortyfycacyon of my frayle flesshe. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="52"><space rend="indent1"/><gloss>Offering</gloss></note>
+ 
+ </div><div type="chapter" n="8"><head type="rubric">7: Of the Presentacyon of our lorde <persName>Jesu</persName><note type="tnote-indicator" n="16">T</note>  in to the temple and of the Puryfycacyon of our lady</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lord <persName>Jesu Chryst</persName>, that every thynge woldest submytte thyselfe unto the instytucyons<note type="tnote-indicator" n="17">T</note>  of the lawe, and <locus type="foliation">[fol. 8v]</locus> in the armes of thy moder mekely wolde be borne with oblacyons of poore men. And so thou, lorde of the temple, woldest be presented in to the temple, and under the substaunce of oure frayle flesshe offred thyselfe to <persName>God</persName> the fader a holsome sacryfyce for us, and madest the secretenesse of thy godhede to be shewed by the olde man <persName>Symeon</persName><note type="enote-indicator" n="38">N</note>  by inspiracyon of the Holy Ghoost dwellynge in hym. I gloryfye thee, clene virgyn <persName>Mary</persName>, that in lyke wyse woldest humbly submytte thyselfe to the lawe of puryfycacyon<note type="enote-indicator" n="39">N</note>  whan thou were no thynge bounde therto for onely unto this lawe<note type="tnote-indicator" n="18">T</note>  all the women were bounde that conceyved a chylde by the sede of man. But thou, O clene vyrgyn, conceyved not thy blessyd sone by the sede of man, but by inspyracyon of the Holy Ghost. And so good lady, thou were all clene, chaste, and bryght, wherfore thou had no maner necessyté of puryfycacyon,<note type="enote-indicator" n="40">N</note>  but of profounde humylyté.<note type="tnote-indicator" n="19">T</note>  O clene virgyn, thou wolde be in this worlde amonge women by purifycacyon as one of them. And soo was thy swete sone among chyldren by circumcysyon as one of them. Than seen thou, meke lady, wolde be puryfyed that haddest noo nede of puryfycacyon, howe moche cause than have we grete synners to be puryfyed and clensed that be soo defyled and cankered<note target="#53" type="footnotelink">G</note>  with synne? Therfore make us, good lady,<note type="tnote-indicator" n="20">T</note>  so to be puryfyed and clensed here in this worlde from every spotte of synne that after this lyfe in all clennesse we may appere before the gloryous face of thy blessyd sone. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="53"><space rend="indent1"/><gloss>diseased</gloss></note>
+ 
+ </div><div type="chapter" n="9"><head type="rubric">8: Of the persecucyon of <persName>Jhesu</persName>,<note type="tnote-indicator" n="21">T</note>  and of his fleynge in to <placeName>Egypte</placeName>,<note type="enote-indicator" n="41">N</note>  and of the holy Innocentes slayne of <persName>Herode</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 9r]</locus> Thankynges I yelde to thee, lorde <persName>Jhesu Cryste</persName>, sapyence of the fader, and vertue of the hyghe <persName>God</persName>, that woldest so perfytly<note target="#54" type="footnotelink">G</note>  take all our infyrmytees, debylytees, and offenses on thee, exceptynge ygnoraunce and synne, so that thou wolde flee deth and a mortall man fro place to place. For <persName>Herode</persName> gylefully<note target="#55" type="footnotelink">G</note>  sought thee and founde thee not, wherfore he commaunded to slee all the children in <placeName>Bethleem</placeName> from two yere of aege<note type="tnote-indicator" n="22">T</note> and within that he myght slee thee amonge them. But thou, the hope of pylgrymes, wente in to <placeName>Egypte</placeName>, and there thou dwelled in exyle unto the deth of <persName>Herode</persName>, and dyde suffre there grete penury and poverté,<note type="enote-indicator" n="42">N</note>  for they that sholde be thyn wolde not receyve thee, but anone at thy begynnynge despysed thee. And after the deth of <persName>Herode</persName> thou were called agayne from <placeName>Egypte</placeName> in to <placeName>Nazareth</placeName>. And whan thou were thyder brought thou were humbly subgecte to thy parentes. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="54"><space rend="indent1"/><gloss>without corruption</gloss></note>
+ 
+ 
+ <note type="footnote" n="55"><space rend="indent1"/><gloss>cunningly</gloss></note>
+ 
+ </div><div type="chapter" n="10"><head type="rubric">9: Of the invencyon<note target="#56" type="footnotelink">G</note>  of <persName>Jhesu</persName><note type="enote-indicator" n="43">N</note>  in the temple, and of his holy hydde lyfe</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and honoure thee, <persName>Jhesu Cryst</persName> that beynge in aege but twelve yeres thou sate in the temple in the myddes of doctours, askynge and herynge them, and thou taught them so moche the more whan <locus type="foliation">[fol. 9v]</locus> thou asked them questyons prudently. And there thou raddest<note target="#57" type="footnotelink">G</note>  thyn owne prophecy in <persName>Ysay</persName>.<note type="enote-indicator" n="44">N</note>  And thou, blessyd sone of <persName>God</persName>, began to growe in aege and wysdome as god and man. And thyrtye thre yeres thou were as a servaunt so suffrynge for our helthe,<note type="enote-indicator" n="45">N</note>  and thou were conversaunte<note target="#58" type="footnotelink">G</note>  amonge men, mekely, justly, sobrely, and pacyently to gyve us example of lyvynge. I praye thee, good <persName>Jhesu</persName>,<note type="tnote-indicator" n="23">T</note>  for all the vertues in whiche thou ladde thy lyfe that thou wylte graunte me thabaoundaunce of thy grace, wherby I may profyte in dayly encreasynge of all vertues to the laude and glorye of thy name. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="56"><space rend="indent1"/><gloss>discovery</gloss></note>
+ 
+ 
+ <note type="footnote" n="57"><space rend="indent1"/><gloss>read</gloss></note>
+ 
+ 
+ <note type="footnote" n="58"><space rend="indent1"/><gloss>living familiarly with</gloss></note>
+ 
+ </div><div type="chapter" n="11"><head type="rubric">10: Of the baptym of our lorde<note type="enote-indicator" n="46">N</note> <persName>Jhesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, for that thou wolde be baptised of thy holy servaunte saynt <persName>Johnn</persName> whan than for thy mekenesse the fader testyfyed that thou were his onely consubstancyall<note target="#59" type="footnotelink">G</note>  sone by his voyce sayenge: “Here is my welbeloved sone,<note type="enote-indicator" n="47">N</note>  in whome I am well pleased,” the Holy Ghoost also apperynge on thee in lykenesse of a dove.<note type="enote-indicator" n="48">N</note>  And this thou toke not for thyselfe but for us to halowe<note target="#60" type="footnotelink">G</note>  therby our baptym,<note type="tnote-indicator" n="24">T</note> and to make it a holsom<note target="#61" type="footnotelink">G</note>  sacrament of salvacyon for us. Lorde <persName>Jhesu</persName>, I thanke thee<note type="tnote-indicator" n="25">T</note>  for my baptym, wherby I am made a Cristen man, and for that it pleased thee I sholde be borne of crysten parentes, and in the tyme of grace,<note target="#62" type="footnotelink">G</note>  <locus type="foliation">[fol. 10r]</locus> and for that I am instructe in the true fayth of thy chirche. And where as many tymes I have defyled my baptyme by synne and wyckednesse, good <persName>Jesu</persName>, I praye thee to clense me agayne by the sacrament of true penaunce so that after this mortall lyfe I may appere before thy gloryous face in the same clennesse<note target="#63" type="footnotelink">G</note>  that I was in in the tyme of my baptym. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="59"><space rend="indent1"/><gloss>of the same essence</gloss></note>
+ 
+ 
+ <note type="footnote" n="60"><space rend="indent1"/><gloss>consecrate</gloss></note>
+ 
+ 
+ <note type="footnote" n="61"><space rend="indent1"/><gloss>beneficial</gloss></note>
+ 
+ 
+ <note type="footnote" n="62"><space rend="indent1"/>tyme of grace, <gloss>the period after the Incarnation</gloss></note>
+ 
+ 
+ <note type="footnote" n="63"><space rend="indent1"/><gloss>innocence</gloss></note>
+ 
+ </div><div type="chapter" n="12"><head type="rubric">11: Of the fastynge of <persName>Jhesu</persName><note type="tnote-indicator" n="26">T</note>  in deserte and of his temptacyons<note type="enote-indicator" n="49">N</note> </head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jesu Cryst</persName>, that anone after thy baptym were ledde in to deserte there labourynge in bytternesse of abstynence, in hunger, in thurste, in colde, and hete, and suffred there also many other infyrmytees of man. And there thou dyde wake by nyght in prayer, and thou that arte the fode of aungell<note type="enote-indicator" n="50">N</note>  and man dyde hungre and thurste. After that thou had fasted fourty dayes and fourty nyghtes and suffred the fende<note target="#64" type="footnotelink">G</note>  to tempte thee. O good <persName>Jhesu</persName>, I beseche thee<note type="tnote-indicator" n="27">T</note>  for all thy holy prayers whiche thou prayed the sayd fourty dayes and fourty nyghtes, and for all orysons whiche at all tymes thou prayed for us in the syght of <persName>God</persName> thy fader, and for thy holy and perfyte cogytacyons,<note target="#65" type="footnotelink">G</note>  wordes, and holy dedes. Sende me grace to use abstynence and vigylles,<note target="#66" type="footnotelink">G</note>  and make me holy and perfyte in all cogytacyons, wordes, and dedes to the laude <locus type="foliation">[fol. 10v]</locus> and glory of thy name. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="64"><space rend="indent1"/>the fende, <gloss>the Devil</gloss></note>
+ 
+ 
+ <note type="footnote" n="65"><space rend="indent1"/><gloss>thoughts</gloss></note>
+ 
+ 
+ <note type="footnote" n="66"><space rend="indent1"/><gloss>night-long acts of worship</gloss></note>
+ 
+ </div><div type="chapter" n="13"><head type="rubric">12: Of the predicacyon<note target="#67" type="footnotelink">G</note>  and holsome doctryne<note type="enote-indicator" n="51">N</note>  of our lorde <persName>Jhesu</persName>, and of his gloryous sygnes, examples, and good maners, and of dyvers trybulacyons of hym in this worlde</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and gloryfy thee, lorde <persName>Jhesu Cryste</persName>, for all the holy werkes that thou wrought from the daye of thy holy baptym unto thy passyon, for in that tyme thou gadred the covent<note target="#68" type="footnotelink">G</note>  of thy dyscyples, and amonge them thou chase<note target="#69" type="footnotelink">G</note>  twelve apostles that by them thou might subdue to thee the proude and hygh of this worlde. And in those dayes thou opened the bosom of thy pyté and mercy to all them that came to thee, and thou preched openly to all men remyssyon of synnes, and entrynge of the kyngdome of <placeName>heven</placeName>. And ofte thou were fatygate<note target="#70" type="footnotelink">G</note>  and wery of journeys<note type="enote-indicator" n="52">N</note>  and of colde, and somtyme of fervor of hete, and in all this thou suffred many persecucyons and sclaundres of the progeny of them that thou were borne of. For in theyr wordes they sayd agaynst thee, and marked wrongfully thy dedes, layenge wayte<note target="#71" type="footnotelink">G</note>  on thee by daye and nyght, coveytynge<note target="#72" type="footnotelink">G</note>  contynually thy deth, resystynge thee, and dyshonestynge<note target="#73" type="footnotelink">G</note>  thee by wordes, dedes, and blasphemés sayenge: “this man is not of <persName>God</persName>, but a synner and hath a fende in hym; he maddeth<note target="#74" type="footnotelink">G</note>  in <persName>Belzabub</persName><note type="enote-indicator" n="53">N</note>  prynce of fendes; he casteth out devylles; he begyleth the people; he is a gloton, a drynker of wyne, and the frende of publycanes.”<note type="enote-indicator" n="54">N</note>  These and manye other blasphemés they sayd of thee, and oftentymes they wolde have stoned thee, and all this thou suffred pacyently, and behad<note target="#75" type="footnotelink">G</note>  thyselfe before them as a man not herynge, and as <locus type="foliation">[fol. 11r]</locus> havynge no redargucyons<note target="#76" type="footnotelink">G</note>  ne contraverces<note target="#77" type="footnotelink">G</note>  in his mouth.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And for as moche as they were harde of herte and slouthfull of beleve thou confermed thy wordes with tokens folowynge: In weddynges thou tourned water into wyne. Of fyve loves<note target="#78" type="footnotelink">G</note>  and two fysshes thou fedde fyve thousande men. Thou walked upon the see. Before thy dyscyples <persName>Peter</persName>, <persName>James</persName>, and <persName>John</persName> thou were transfygured. Thou gavest syght to blynde men. Thou made the dombe to speke, the defe to here, the creples<note target="#79" type="footnotelink">G</note>  to goo. Thou cured lunatykes. Thou delyvered possessed of fendes. Thou reysed deed men. Thou clensed lepers.<note type="enote-indicator" n="55">N</note>  Thou delyvered a woman taken in advoutry,<note target="#80" type="footnotelink">G</note>  from condempnacyon of deth. Thou clensed <persName>Mary Mawdeleyn</persName> from synne. Thou heled the woman from the fluxe<note target="#81" type="footnotelink">G</note>  of blode. Thou gladded the woman askynge helth for her doughter. The woman that was incurvate<note target="#82" type="footnotelink">G</note>  and croked eightene yeres thou reysed up ryght. Whan thou were wery of thy journey, syttynge and restynge on the welles syde, to the woman talkynge with thee thou gaveste her knowlege of thee and of herselfe. And in thy predicacyon<note target="#83" type="footnotelink">G</note>  thou stered the herte of a woman with thaboundaunce of thy grace that she cryed in the myddes of the people and sayd: “Blessyd be the wombe<note type="enote-indicator" n="56">N</note>  that bare thee, and the pappes that gave thee souke.”</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="67"><space rend="indent1"/><gloss>preaching</gloss></note>
+ 
+ 
+ <note type="footnote" n="68"><space rend="indent1"/><gloss>group</gloss></note>
+ 
+ 
+ <note type="footnote" n="69"><space rend="indent1"/><gloss>chose</gloss></note>
+ 
+ 
+ <note type="footnote" n="70"><space rend="indent1"/><gloss>fatigued</gloss></note>
+ 
+ 
+ <note type="footnote" n="71"><space rend="indent1"/>layenge wayte, <gloss>preparing to launch an attack</gloss></note>
+ 
+ 
+ <note type="footnote" n="72"><space rend="indent1"/><gloss>desiring</gloss></note>
+ 
+ 
+ <note type="footnote" n="73"><space rend="indent1"/><gloss>misrepresenting</gloss></note>
+ 
+ 
+ <note type="footnote" n="74"><space rend="indent1"/><gloss>is driven insane by</gloss></note>
+ 
+ 
+ <note type="footnote" n="75"><space rend="indent1"/><gloss>behaved</gloss></note>
+ 
+ 
+ <note type="footnote" n="76"><space rend="indent1"/><gloss>disproofs</gloss></note>
+ 
+ 
+ <note type="footnote" n="77"><space rend="indent1"/><gloss>disputes</gloss></note>
+ 
+ 
+ <note type="footnote" n="78"><space rend="indent1"/><gloss>loaves</gloss></note>
+ 
+ 
+ <note type="footnote" n="79"><space rend="indent1"/><gloss>cripples</gloss></note>
+ 
+ 
+ <note type="footnote" n="80"><space rend="indent1"/><gloss>adultery</gloss></note>
+ 
+ 
+ <note type="footnote" n="81"><space rend="indent1"/><gloss>discharge</gloss></note>
+ 
+ 
+ <note type="footnote" n="82"><space rend="indent1"/><gloss>warped</gloss></note>
+ 
+ 
+ <note type="footnote" n="83"><space rend="indent1"/><gloss>preaching</gloss></note>
+ 
+ </div><div type="chapter" n="14"><head type="rubric">13: Of the entrynge of oure lorde<note type="enote-indicator" n="57">N</note> <persName>Jhesu</persName> in to <placeName>Jherusalem</placeName> and of his Laste Souper</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 11v]</locus> Blessyd be thou, lorde <persName>Jhesu Cryste</persName>, for the moost holy teres of wepynge whiche thou wepte at the monument<note target="#84" type="footnotelink">G</note>  of <persName>Lazar</persName>,<note type="enote-indicator" n="58">N</note>  and upon the cyté of <placeName>Jherusalem</placeName>, and for all the wepynges that ever thou wepte. And for thy humble and meke entrynge in to <placeName>Jherusalem</placeName>, whan thou sate on an asse before fyve dayes of <date>Ester</date>, for thou came as a pascall lambe to be offred the syxte daye for our synnes, whan the Hebrewe people mette with thee with floures and palmes<note target="#85" type="footnotelink">G</note>  cryenge and saynge: “Blessyd be he that cometh in the name of the lorde.” And not longe after<note type="enote-indicator" n="59">N</note>  the nyghte before thy passyon thou made thy Laste Souper with thy dyscyples, sayenge to them these wordes: “One desyre is whiche effectually I have desyred to ete this pascall souper with you, that is playnly to saye, I have fervently desyred to gyve you myne owne body and blode, and to fede you therwith before I suffre deth for you.”</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And after thou had eaten the pascall lambe with them thou dydeste ryse fro the table and puttest off thy garment, fastnynge a lynnen cloth aboute thee, and full humbly thou enclyned thyselfe, wasshynge thy dyscyples fete, and dryenge them with a cloth. And this done thou put on thy vesture agayn, and syttynge downe eftsones at the table thou sayd: “Knowe ye what I have done to you; I, lorde and mayster, have gyven example to you that in lykewyse as I have done so you to do the same.” And among all other wordes that thou spake thou were troubled in spyryte, and protestynge thou sayd: “Truly I saye to you that one of you shall betraye me.” And herynge this they began<note type="enote-indicator" n="60">N</note>  to be full sory, and all they one after an other<note type="tnote-indicator" n="28">T</note>  sayd to thee: “Lorde, whether I am he.” And thou sayd to them: “He that putteth his hande with me in the dysshe, he it is that shall betraye me.”<note type="enote-indicator" n="61">N</note>  <locus type="foliation">[fol. 12r]</locus> And the souper ended thou made a terminacyon<note target="#86" type="footnotelink">G</note>  of the olde testament, begynnynge the newe, whan than with thy holy handes thou dyd consecrate thy precyous body and blode in fourme of brede and wyne, fedynge thy discyples therwith, gyvynge them auctoryté<note target="#87" type="footnotelink">G</note>  and by them to all preestes to the worldes ende<note type="enote-indicator" n="62">N</note>  to do the same, whan thou sayd these words: “Do ye this into my commemoracyon.”</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>O, what excellent love<note type="enote-indicator" n="63">N</note>  shewed thou unto us, good <persName>Jhesu</persName>, in that tyme whan not onely thou wolde dye for us, but also woldest fede us dayly with thy precyous body and blode, that we sholde not hungre ne thurste<note type="enote-indicator" n="64">N</note>  for evermore. And for that we synne dayly agaynst <persName>God</persName>, and thou myght dye but ones for us; therfore in this worthy sacrament thou wolde dayly be offred by the handes of the preest to <persName>God</persName> thy fader for our cotydyan<note target="#88" type="footnotelink">G</note>  synnes. And for as moche as we be in dayly conflycte of batayle with our cruell enemy the fende, thou ordeyned suche provysyon<note target="#89" type="footnotelink">G</note>  for us that the percepcyon<note target="#90" type="footnotelink">G</note>  of this worthy sacrament sholde be as a toure<note target="#91" type="footnotelink">G</note>  of strengthe<note type="enote-indicator" n="65">N</note>  for us agaynst his cruell malyce. And for that we sholde have sure truste to obteyne the kyngdome of <placeName>heven</placeName>, thou hast gyven us the sacrament of thy precyous body to be a pledge or a wedde<note target="#92" type="footnotelink">G</note>  to us of eternall glory, and to lede us the waye to thy gloryous kyngdome. Benygne <persName>Jhesu</persName>, I praye<note type="tnote-indicator" n="29">T</note>  thee to gyve me grace soo worthely to receyve thy precyous body before my deth, wherby I may attayne the kyngdome of <placeName>heven</placeName>, for faythfully I truste so on thy grete mercy that thou wylte not exclude them from thy hevenly kyngdome, unto whome it pleaseth thee to be knytte unto by connexyon<note target="#93" type="footnotelink">G</note>  of this honourable sacrament. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="84"><space rend="indent1"/><gloss>tomb</gloss></note>
+ 
+ 
+ <note type="footnote" n="85"><space rend="indent1"/><gloss>palm branches</gloss></note>
+ 
+ 
+ <note type="footnote" n="86"><space rend="indent1"/><gloss>end</gloss></note>
+ 
+ 
+ <note type="footnote" n="87"><space rend="indent1"/><gloss>authorization</gloss></note>
+ 
+ 
+ <note type="footnote" n="88"><space rend="indent1"/><gloss>everyday</gloss></note>
+ 
+ 
+ <note type="footnote" n="89"><space rend="indent1"/><gloss>arrangement</gloss></note>
+ 
+ 
+ <note type="footnote" n="90"><space rend="indent1"/><gloss>consumption</gloss></note>
+ 
+ 
+ <note type="footnote" n="91"><space rend="indent1"/><gloss>tower</gloss></note>
+ 
+ 
+ <note type="footnote" n="92"><space rend="indent1"/><gloss>token recording a promise or debt</gloss></note>
+ 
+ 
+ <note type="footnote" n="93"><space rend="indent1"/><gloss>union</gloss></note>
+ 
+ </div><div type="chapter" n="15"><head type="rubric"><locus type="foliation">[fol. 12v]</locus> 14: Of the prayer<note type="enote-indicator" n="66">N</note>  that our lorde made<note type="tnote-indicator" n="30">T</note>  thryes on the <placeName>mount of Olyvete</placeName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges be to thee, lorde <persName>Jhesu Cryste</persName>, that after thou had wrought the forsayd mysteryes of consuetude<note target="#94" type="footnotelink">G</note>  thou wente than to the <placeName>mount of Olyvete</placeName>, where before thy passyon thryes<note target="#95" type="footnotelink">G</note>  thou made thy prayer to thy fader of <placeName>heven</placeName>, in whiche moost devoute prayer thou suffred in thy selfe a grete conflycte, by reason of two loves<note type="enote-indicator" n="67">N</note>  that were in thee: one was by meanes of the love whiche naturally thou had to thy humanyté, and in the other parte by reason of the fervent and charytable love whiche thou had to mannes soule, whan by knowlege of thy godhede thou called unto thy holy mynde all the horryble passyon that thou sholde suffre for man in thy tender virginall body. Wherfore suche drede was in thee by reason of naturall love<note type="enote-indicator" n="68">N</note>  whiche thou had to thyselfe that thou prayed to thy fader sayenge: “Fader, yf it be possyble, make and cause the chalyce of this bytter passyon to be taken fro me.”<note type="enote-indicator" n="69">N</note>  But yet the fervor of thexcellent love whiche thou had to the redempcyon and salvacyon of mannes soule exceded ferre thy fyrste natural love, and in suche maner overcame it and depressed<note target="#96" type="footnotelink">G</note>  it, that in concludynge thy prayer thou sayd: “Fader, not my wyll in this this petycyon, but thyn be fulfylled and done.”<note type="enote-indicator" n="70">N</note> </ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And after thou had prayed thus<note type="enote-indicator" n="71">N</note>  thre tymes, the dolorous passyon that <locus type="foliation">[fol. 13r]</locus> thou sholde suffre was so fresshely with bytternesse prynted in thy holye mynde that for anguysshe of naturall drede thou were cast in to suche an agony that for the pureté of thy complexyon thou swette blode and water so that the pure droppes of blode fell unto the grounde. And than an aungell sente from thy fader appered confortynge thee. And notwithstandynge all this in shewynge that thou loved mannes soule better than thyne owne lyfe, thou lefte<note target="#97" type="footnotelink">G</note>  not to suffre bytter passyon and cruell deth for us. O good <persName>Jhesu</persName>, for thy holy prayer, bytter agony and excellent love whiche thou shewed to us sende me grace to be devoute to thee in holy prayers, and hertely to love thee agayne<note target="#98" type="footnotelink">G</note>  for the swete love thou hast shewed to me.<note type="enote-indicator" n="72">N</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="94"><space rend="indent1"/><gloss>custom</gloss></note>
+ 
+ 
+ <note type="footnote" n="95"><space rend="indent1"/><gloss>three times</gloss></note>
+ 
+ 
+ <note type="footnote" n="96"><space rend="indent1"/><gloss>forced down</gloss></note>
+ 
+ 
+ <note type="footnote" n="97"><space rend="indent1"/><gloss>neglected</gloss></note>
+ 
+ 
+ <note type="footnote" n="98"><space rend="indent1"/><gloss>in return</gloss></note>
+ 
+ </div><div type="chapter" n="16"><head type="rubric">15: Of the capcyon<note target="#99" type="footnotelink">G</note>  of our lorde<note type="enote-indicator" n="73">N</note> <persName>Jhesu</persName>, and of his byndynge, and how he was presented before the judges, and of his illusyons<note target="#100" type="footnotelink">G</note> </head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and gloryfye thee, lorde <persName>Jesu Cryste</persName>, that after thou were conforted of the aungell, voluntaryly thou went<note type="enote-indicator" n="74">N</note>  to the place where thou knewe to mete with thy traytour <persName>Judas</persName>, and after that he had betrayed thee with a kysse, all thy frendes fleynge from thee, thyn enemyes violently set holde on thee, byndynge thy handes behynde thee that came to lose<note target="#101" type="footnotelink">G</note>  the bande of our captyvyté, and thou full mekely <locus type="foliation">[fol. 13v]</locus> saydest to that company: “As to a thefe ye come with knyves<note type="enote-indicator" n="75">N</note>  and staves to take me, whan dayly I was techynge in the temple, and ye dyde not holde me, but now this is your houre and power of derknesse.” And the wycked persones<note type="enote-indicator" n="76">N</note>  caryed thee, moost meke lambe, as a thefe or a gylty man fast bounde and presented thee fyrst to <persName>Anna</persName><note type="enote-indicator" n="77">N</note>  and thou, moost wysest, was there examined of thy doctryne and of thy dyscyples, as though thou had ben most vnwyse. And thou answered: “That I spake was openly sayd, therfore aske them that herde me what my words were.” And thou, lorde of all thynge, were sore stryken by the handes of one that stode besyde sayenge: “Why gyveste thou suche answere to the bisshop?” And thou answered agayne mekely: “Yf I speke evyll, take wytnesse of evyll; and if I sayd well, why smytest me?”</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Than <persName>Annas</persName> sente thee fast bounde to <persName>Cayphas</persName>, before whome they made thee, lorde of <placeName>heven</placeName>, to stande, to whome thousande thousandes of aungells assysteth in <placeName>heven</placeName>, beholdynge and laudynge thee. And there thyn enemyes sought and sayd agaynste thee many fals testymonyes. And thou that art the hygh trouth sayd no worde, but suffred all thynge equally, and stode there in grete pacyence and charyté, <persName>God</persName> before men, the creatour before the creature. And whan thou were asked and adjured, humbly thou confessed to be the sone of <persName>God</persName>. And they sayd that thou spake blasphemés, and that thou were worthy deth,<note type="tnote-indicator" n="31">T</note>  and they smote thee cruelly on the face and on the necke with theyr handes, and behad themselfe full malycyously agaynst thee after theyr owne wyll, not onely despysynge thee, the sone of <persName>God</persName>, but they forgate<note target="#102" type="footnotelink">G</note>  in thee all compassyon of humanyté, and they began to spytte in thy amyable<note target="#103" type="footnotelink">G</note>  face in the whiche aungelles desyreth to beholde, and they defyled thee, the moost beauteous in fourme <locus type="foliation">[fol. 14r]</locus> and shape before all the chyldren of men, wyth the fylth of rechynges<note target="#104" type="footnotelink">G</note>  and spyttynges of theyr lothsome mouthes. And in desrysyon they hyd thy moost bryght eyen that illumyneth <placeName>heven</placeName> and <placeName>erth</placeName>, and they strake thee full scornefully sayenge: “Prophecy now, and tell who he is that smyteth thee.” And many other blasphemés they put to thee, and these wycked men without ony mercy sought meanes to slee thee, not sparynge to smyte thee on the face, and thus they vexed thee all the nyght with injuryes, despysynges, and passyons.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>And erly in the sprynge<note type="enote-indicator" n="78">N</note>  of the day the prynces and senyours of prestes<note target="#105" type="footnotelink">G</note>  came togyder, takynge counseyle how they myght destroye thee by moost shamefull deth, and they had thee before them, askynge whether thou were the sone of <persName>God</persName> and that thou sholde shewe it openly. And thou answered,<note type="enote-indicator" n="79">N</note>  confermynge that thou were the sone of <persName>God</persName>. And they sayd: “What other wytnes shal we desyre; we have herde it sayd of his own mouth.” Than all the multytude rose up and ledde thee forth fast bounde and presented thee to <persName>Pylate</persName> the juge, accusynge thee and saynge that thou were a subverser<note target="#106" type="footnotelink">G</note>  and deceyver of the people, techynge over all Jury<note target="#107" type="footnotelink">G</note>  unto that cyté. <persName>Pilate</persName> herynge this caused thee to be ledde to <persName>Herode</persName>, and thou went thyder full mekely and pacyently in the wayes of our helth.<note type="enote-indicator" n="80">N</note>  And whan thou were presented before <persName>Herode</persName> thyn enemyes stode constauntly accusynge thee. And <persName>Herode</persName> asked thee many questyons, trustynge to have seen some token or myracle of thee. But thou, good <persName>Jhesu</persName>, gavest none answere and wolde shewe noo token but the sygne and token of humylyté and pacyence. And they mocked thy goodly provydence,<note target="#108" type="footnotelink">G</note>  trowynge thy pacyence and humylyté to be fatuyté<note target="#109" type="footnotelink">G</note>  and ygnoraunce. Therfore <persName>Herode</persName> with all his<note target="#110" type="footnotelink">G</note>  despysed thee, and in mockage<note target="#111" type="footnotelink">G</note>  they put on thee a whyte <locus type="foliation">[fol. 14v]</locus> vesture<note type="enote-indicator" n="81">N</note>  in tokenynge of fatuité, and so with unhonesté<note target="#112" type="footnotelink">G</note>  unreverently<note target="#113" type="footnotelink">G</note>  <persName>Herode</persName> sente thee to <persName>Pylate</persName> agayne. And that daye bycause of thee, <persName>Pylate</persName> and <persName>Herode</persName> were made frendes<note type="enote-indicator" n="82">N</note>  that before tyme loved not other. And by the waye as thou wente <persName>Jhesu</persName>, myne onely hope, from one wycked man to an other thou were illuded<note target="#114" type="footnotelink">G</note>  and weryed with sore percucyons<note target="#115" type="footnotelink">G</note>  and strokes. Meke <persName>Jhesu</persName>, I beseche thee<note type="tnote-indicator" n="32">T</note>  for all these irrysyons<note target="#116" type="footnotelink">G</note>  and vexacyons that thyn enemyes dyd to thee, defende me from all myn enemyes bodyly and ghostly, and sende me pacyence in all trybulacyons and adversytees.<note type="enote-indicator" n="83">N</note>  Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="99"><space rend="indent1"/><gloss>capture</gloss></note>
+ 
+ 
+ <note type="footnote" n="100"><space rend="indent1"/><gloss>vilification</gloss></note>
+ 
+ 
+ <note type="footnote" n="101"><space rend="indent1"/><gloss>loosen</gloss></note>
+ 
+ 
+ <note type="footnote" n="102"><space rend="indent1"/><gloss>neglected</gloss></note>
+ 
+ 
+ <note type="footnote" n="103"><space rend="indent1"/><gloss>affectionate</gloss></note>
+ 
+ 
+ <note type="footnote" n="104"><space rend="indent1"/><gloss>coughed-up phlegm</gloss></note>
+ 
+ 
+ <note type="footnote" n="105"><space rend="indent1"/>prynces and senyours of prestes, <gloss>principal and high-ranking priests</gloss></note>
+ 
+ 
+ <note type="footnote" n="106"><space rend="indent1"/><gloss>perverter</gloss></note>
+ 
+ 
+ <note type="footnote" n="107"><space rend="indent1"/><gloss>Jewish people</gloss></note>
+ 
+ 
+ <note type="footnote" n="108"><space rend="indent1"/><gloss>foresight</gloss></note>
+ 
+ 
+ <note type="footnote" n="109"><space rend="indent1"/><gloss>foolishness</gloss></note>
+ 
+ 
+ <note type="footnote" n="110"><space rend="indent1"/><gloss>i.e., his courtiers or followers</gloss></note>
+ 
+ 
+ <note type="footnote" n="111"><space rend="indent1"/><gloss>derision</gloss></note>
+ 
+ 
+ <note type="footnote" n="112"><space rend="indent1"/><gloss>dishonesty</gloss></note>
+ 
+ 
+ <note type="footnote" n="113"><space rend="indent1"/><gloss>impiously</gloss></note>
+ 
+ 
+ <note type="footnote" n="114"><space rend="indent1"/><gloss>ridiculed</gloss></note>
+ 
+ 
+ <note type="footnote" n="115"><space rend="indent1"/><gloss>blows</gloss></note>
+ 
+ 
+ <note type="footnote" n="116"><space rend="indent1"/><gloss>mockeries</gloss></note>
+ 
+ </div><div type="chapter" n="17"><head type="rubric">16: Of the clamour of the Jewes agaynst <persName>Jhesu</persName> to haue hym crucyfyed and of his expolyacyon<note target="#117" type="footnotelink">G</note> <note type="enote-indicator" n="84">N</note>  and flagellacyon</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Lorde <persName>Jhesu Cryst</persName>, sone of the ever lyvynge <persName>God</persName>, I laude and gloryfy thee for all the injuryes thou suffred whan thyne enemyes brought thee in to the pretory<note target="#118" type="footnotelink">G</note>  before <persName>Pilate</persName>, and they wolde not entre in, but <persName>Pylate</persName> wente out to them and sayd: “What accusacyon brynge you ayenst this man?” And all they cryed: “Yf he were not a malefactour, we wolde not brynge hym to thee.” Than <persName>Pylate</persName> wente agayne in to the pretory and called thee to hym and sayd: “Thou arte the kynge of Jewes.” And thou answered agayne: “Thou hast sayd so.”<note type="enote-indicator" n="85">N</note>  Than <persName>Pylate</persName> sayd to thee: “Thy people and bysshopes hath brought thee to me; what hast thou done?” Thou answered: “My kyngdome is not of this <placeName>worlde</placeName>; yf my kyngdom were of this <placeName>worlde</placeName>, my mynystres truly wolde make defence that I sholde not be yolden<note target="#119" type="footnotelink">G</note>  to the Jewes.” <persName>Pylate</persName> sayd: “Therfore, than, thou arte a kynge.” And thou answered mekely: “Thou sayst <locus type="foliation">[fol. 15r]</locus> that I am a kynge; therto truly I am borne, and for that I came in to the <placeName>worlde</placeName> that I might bere wytnesse of trouth, and every man that is of trouth hereth my worde.”</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And <persName>Pylate</persName> wente out agayne to the Jewes, and sayd: “I fynde no cause of deth in this man, therfore I wyll chastyse hym and let hym go. There is a consuetude<note target="#120" type="footnotelink">G</note>  amonge you that I shall delyver you a prysoner at <date>Ester</date>; wyll ye that I delyver to you the kynge of Jewes?” They answered: “Nay, not hym, but <persName>Baraban</persName>.”<note type="enote-indicator" n="86">N</note>  Than <persName>Pylate</persName> toke thee and made thee personally to put off thy clothes, and thou stode naked and bare, suffrynge the erubescensy<note target="#121" type="footnotelink">G</note>  of<note type="tnote-indicator" n="33">T</note>  nakednesse in the presence of thy moder as thou were borne<note type="enote-indicator" n="87">N</note>  of her body, and before thyne irrysors<note target="#122" type="footnotelink">G</note>  and enemyes, all thy frendes fleynge from thee. And personally thou put thy handes aboute the pyller,<note type="enote-indicator" n="88">N</note>  and thyn enemyes bounde thee fast, and the cursed tyrantes<note target="#123" type="footnotelink">G</note>  layde upon thy fayre body, tender and clene from every spotte<note type="enote-indicator" n="89">N</note>  of synne, some with whyppes and some with roddes, and thy skynne was so tender and fayre so that with the leest stroke that they coude laye on thy body the purpre<note target="#124" type="footnotelink">G</note>  blode appered fresshely in syght<note type="tnote-indicator" n="34">T</note>  upon the fayre beauteful skynne.<note type="tnote-indicator" n="35">T</note>  And at the fyrste stroke thy sorowfull moder that stode by thee fell to the grounde as deed,<note type="enote-indicator" n="90">N</note>  and takynge spyryte agayne she behelde all thy body beten and scourged that the stremes of blode ranne downe on every syde, the bare bones appreynge of thy sydes. And this was moost bytter of all<note type="tnote-indicator" n="36">T</note>  whan they drewe the knotty scourges they rent awaye the flesshe withall. And than, good <persName>Jhesu</persName>, thou stode all tremblynge and quakynge for anguysshe and payne, all blody and torne, so that fro the sole of the fote to the toppe of the heed in thee was no hole place<note type="enote-indicator" n="91">N</note>  where thou myght suffre ony more betynge. Than one moved in spyryte asked<note type="tnote-indicator" n="37">T</note>  <locus type="foliation">[fol. 15v]</locus> whether they wolde slee thee not juged to dethe.<note type="enote-indicator" n="92">N</note> </ab>
+ <ab><milestone n="3" unit="prose-textblock"/>And than whan thou were losed from the pyller, thy blessyd moder behelde the place where as thou stode, and she sawe it replete<note type="tnote-indicator" n="38">T</note>  with thy blode, and she folowynge thee knewe where thou had gone by the tokens and steppes of blode,<note type="enote-indicator" n="93">N</note>  for the grounde where thou had gone appered infuded<note target="#125" type="footnotelink">G</note>  with thy blode. And all this, swete <persName>Jhesu</persName>, thou suffred, takynge on thee all the wrathe whiche we deserved for our synnes. O good <persName>Jhesu</persName>, for the bytternesse of thy scourgynge<note type="enote-indicator" n="94">N</note>  with the whiche the tender membres of thy body were torne, and for the grete sorowe that entred thrughe thy body whan thou were taken from the pyller and clothed agayne in thyn own clothes, and for thy dredes, anguysshes, effusyons of blode, and for all the pryntes of woundes whiche thou toke in thy bytter scourgynge,<note type="enote-indicator" n="95">N</note>  and for the hony swete memory of thy blessyd passyon, I beseche thee to gyve me grace perseverauntly<note target="#126" type="footnotelink">G</note>  to bere it in the cogitacyons of my herte, and that thou wylte oversprynge<note target="#127" type="footnotelink">G</note>  the interyour partes of my herte with thy precyous blode to the laude and glory of thy name. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="117"><space rend="indent1"/><gloss>stripping</gloss></note>
+ 
+ 
+ <note type="footnote" n="118"><space rend="indent1"/><gloss>offices of a governor</gloss></note>
+ 
+ 
+ <note type="footnote" n="119"><space rend="indent1"/><gloss>surrendered</gloss></note>
+ 
+ 
+ <note type="footnote" n="120"><space rend="indent1"/><gloss>custom</gloss></note>
+ 
+ 
+ <note type="footnote" n="121"><space rend="indent1"/><gloss>blushing for shame</gloss></note>
+ 
+ 
+ <note type="footnote" n="122"><space rend="indent1"/><gloss>scoffers</gloss></note>
+ 
+ 
+ <note type="footnote" n="123"><space rend="indent1"/><gloss>violent bullies</gloss></note>
+ 
+ 
+ <note type="footnote" n="124"><space rend="indent1"/><gloss>purple</gloss></note>
+ 
+ 
+ <note type="footnote" n="125"><space rend="indent1"/><gloss>soaked</gloss></note>
+ 
+ 
+ <note type="footnote" n="126"><space rend="indent1"/><gloss>steadfastly</gloss></note>
+ 
+ 
+ <note type="footnote" n="127"><space rend="indent1"/><gloss>moisten</gloss></note>
+ 
+ </div><div type="chapter" n="18"><head type="rubric">17: Of the expolyacyon,<note target="#128" type="footnotelink">G</note> <note type="enote-indicator" n="96">N</note>  illusyon,<note target="#129" type="footnotelink">G</note>  crownacyon,<note target="#130" type="footnotelink">G</note>  and persecucyons of the heed of <persName>Jesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde unto thee lorde <persName>Jhesu Cryste</persName> that the thyrde houre of the daye were spoyled<note target="#131" type="footnotelink">G</note>  of thy clothes by the mynystres<note type="enote-indicator" n="97">N</note>  of <persName>Pilate</persName>, and before al the company of thyne enemyes they clothed thee, kynge of glorye, with an olde purpre clothe, that fro the begynnynge were circumdate<note target="#132" type="footnotelink">G</note>  with glory and honour. And settynge thee upon a stole they put a buystous<note target="#133" type="footnotelink">G</note>  garlonde of <locus type="foliation">[fol. 16r]</locus> sharpe thornes on thy heed whiche with theyr staves they had wraythed,<note target="#134" type="footnotelink">G</note>  smytynge and pressynge it downe as cruelly as they myght without ony mercy, soo that the blode stremed downe pyteously from thy devyne heed over thy face and necke, that therwith thyn eyen were blynded,<note type="enote-indicator" n="98">N</note>  thyne eers, nose, and thy mouth repleted<note target="#135" type="footnotelink">G</note>  with thy blode, and all dysfygured.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And they gave thee a reede in thy ryght hande for a regall septre,<note target="#136" type="footnotelink">G</note>  whiche arte kynge of kynges and lorde of lordes, and knelynge before thee they illuded<note target="#137" type="footnotelink">G</note>  thee, sayenge: “All hayle kynge of Jewes.”<note type="enote-indicator" n="99">N</note>  And they smote thee with grete strokes that art lorde of vertue, to whome sonne, mone and every celestyall ordre<note target="#138" type="footnotelink">G</note>  dooth servyce, and they spette in thyne amyable face, of whose pulcrytude and beauté the sonne and the mone mervayleth, and they toke the reede from thy hande which was grete and harde and smote thee therwith on the heed. O good <persName>Jhesu</persName>, for this thorny crowne whiche with many punctures wounded thy blessyd heed, and for thy myserable vysage whiche was dysfygured reed and waylful<note target="#139" type="footnotelink">G</note>  by smytynges and wepynges, blacke and blewe<note type="enote-indicator" n="100">N</note>  with plages,<note target="#140" type="footnotelink">G</note>  suffused with blode, and fyled<note target="#141" type="footnotelink">G</note>  by spettynge: graunte my soule so amyable a face that thy clere eyen may delyte to se her. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="128"><space rend="indent1"/><gloss>stripping</gloss></note>
+ 
+ 
+ <note type="footnote" n="129"><space rend="indent1"/><gloss>scorning</gloss></note>
+ 
+ 
+ <note type="footnote" n="130"><space rend="indent1"/><gloss>coronation</gloss></note>
+ 
+ 
+ <note type="footnote" n="131"><space rend="indent1"/><gloss>robbed</gloss></note>
+ 
+ 
+ <note type="footnote" n="132"><space rend="indent1"/><gloss>encircled</gloss></note>
+ 
+ 
+ <note type="footnote" n="133"><space rend="indent1"/><gloss>brutish</gloss></note>
+ 
+ 
+ <note type="footnote" n="134"><space rend="indent1"/><gloss>entwined</gloss></note>
+ 
+ 
+ <note type="footnote" n="135"><space rend="indent1"/><gloss>filled</gloss></note>
+ 
+ 
+ <note type="footnote" n="136"><space rend="indent1"/><gloss>scepter</gloss></note>
+ 
+ 
+ <note type="footnote" n="137"><space rend="indent1"/><gloss>ridiculed</gloss></note>
+ 
+ 
+ <note type="footnote" n="138"><space rend="indent1"/>every celestyall ordre, <gloss>class of heavenly body</gloss></note>
+ 
+ 
+ <note type="footnote" n="139"><space rend="indent1"/>reed and waylful, <gloss>red and forlorn</gloss></note>
+ 
+ 
+ <note type="footnote" n="140"><space rend="indent1"/><gloss>blows</gloss></note>
+ 
+ 
+ <note type="footnote" n="141"><space rend="indent1"/><gloss>defiled</gloss></note>
+ 
+ </div><div type="chapter" n="19"><head type="rubric">18: Of the wrongfull condempnacyon<note type="enote-indicator" n="101">N</note>  of <persName>Jhesu</persName> to the deth of the crosse</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, for the holy and devoute steppes that thou wente, goynge fro the pretory berynge the crowne of thornes and the purpre vestyment whan <persName>Pilate</persName> presented thee to thyn enemyes <locus type="foliation">[fol. 16v]</locus> saynge: “Beholde man”<note type="enote-indicator" n="102">N</note> <note type="tnote-indicator" n="39">T</note>  — as though he sayd, yf this man hath offended the lawe, spare hym now for as moche as ye se hym dejecte, myserable, and rewfull<note target="#142" type="footnotelink">G</note>  to beholde. And they behelde thee with terryble eyen and cryed: “Crucyfy hym, crucify hym.”<note type="enote-indicator" n="103">N</note>  And <persName>Pilate</persName> sayd: “I fynde no cause in hym,<note type="enote-indicator" n="104">N</note>  therfore take ye hym and crucify hym.” Than they cryed: “We have a lawe,<note type="enote-indicator" n="105">N</note>  and after the lawe he muste dye for he nameth hymselfe the sone of <persName>God</persName>.” Than <persName>Pylate</persName> entred in to the pretory, and called thee to hym and sayd: “From whens arte thou?”<note type="enote-indicator" n="106">N</note>  And thou, sapyence<note target="#143" type="footnotelink">G</note>  that procedest fro the mouth of the hygh <persName>God</persName>, answered no worde, for thou were so meke in all thy injuryes that the juge of iniquyté mervayled therof. And whan he sayd to thee that he had power to crucyfy thee and also to delyver thee, thou answered mekely: “Thou sholde not have power in me,<note type="enote-indicator" n="107">N</note>  but yf it were gyven thee from above.”</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Than <persName>Pylate</persName> wente out and sayd to the Jewes: “Beholde your kynge.”<note type="enote-indicator" n="108">N</note>  They denyed<note type="enote-indicator" n="109">N</note>  and forsoke thee to be theyr kynge, sayenge: “We have noo kynge<note type="enote-indicator" n="110">N</note>  but <persName>Cesar</persName>.” Truly <persName>Jhesu</persName>, I knowlege<note target="#144" type="footnotelink">G</note>  thee this day to be my <persName>God</persName> and my lorde, and playnly I joye<note target="#145" type="footnotelink">G</note>  in thee, that we have thee to be our advocate and bysshop that knowest well howe to have compassyon of our infyrmytees,<note target="#146" type="footnotelink">G</note>  and I praye thee that thou wylte knowlege me this daye before the face of thy fader, and say this to my soule: “I am thyn onely helth.” O myn onely solace, the people cryed horrybly agayne on thee to the juge, sayenge: “Yf thou let hym passe,<note type="enote-indicator" n="111">N</note>  so thou art not <persName>Cesars</persName> frende.” Than <persName>Pilate</persName> knowynge that for envy they had brought thee<note type="enote-indicator" n="112">N</note>  to hym, but yet wyllynge to satysfy the people, he wasshed his handes and sayd: “I am innocent<note type="enote-indicator" n="113">N</note>  from the blode of this man — ye may it se.” And all the people cryed and sayd: “The vengeaunce of his blode<note type="enote-indicator" n="114">N</note>  muste fall on us and on our chyldren.” Than he delyvered to them <persName>Baraban</persName>, and <locus type="foliation">[fol. 17r]</locus> juged thee, innocent sone of <persName>God</persName>, to deth. O good <persName>Jhesu</persName>, for this terryble sentence of thy dampnacyon, and for the grete humylyté, pacyence and softnesse whiche thou shewed us in all thy trybulacyons and anguysshes whiche thou suffred, goynge in and out fro juge to juge, make me humble and peasyble in all my werkes. Amen. <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="142"><space rend="indent1"/><gloss>sorrowful</gloss></note>
+ 
+ 
+ <note type="footnote" n="143"><space rend="indent1"/><gloss>wisdom</gloss></note>
+ 
+ 
+ <note type="footnote" n="144"><space rend="indent1"/><gloss>acknowledge</gloss></note>
+ 
+ 
+ <note type="footnote" n="145"><space rend="indent1"/><gloss>rejoice</gloss></note>
+ 
+ 
+ <note type="footnote" n="146"><space rend="indent1"/><gloss>deficiencies</gloss></note>
+ 
+ </div><div type="chapter" n="20"><head type="rubric">19: Of the berynge of the crosse<note type="enote-indicator" n="115">N</note>  to <placeName>Calvary</placeName>, and of the crucyfyenge of <persName>Jhesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, that the syxt houre of the day puttest off the purpre vestyment, where than the cursed tyraunts fyersly plucked it off from thy tender body, sore wounded, whan it was cleven faste with drye blode<note type="enote-indicator" n="116">N</note>  to thy body; wherwith they drewe the skynne and the flesshe, with the whiche thy body was all to rent, rased and torne, and stremed agayne fresshely with blode. And than they clothed thee eftsones<note target="#147" type="footnotelink">G</note>  in thyn owne vesture full ygnomynyously, and thou were ledde bytwene two theves berynge thyn owne crosse, grete and hevy on thy sholdres, thrugh the cyté towarde <placeName>Calvary</placeName> with grete wondrynge<note target="#148" type="footnotelink">G</note>  of people — some lamentynge and waylynge<note target="#149" type="footnotelink">G</note>  for thee, some illudynge and scornynge thee, and some smytynge thee with sore strokes, sayenge: “Go forthe thefe, go forth traytour, go forth fals deceyver and begyler of people.” And al be it thy sorowfull<note type="tnote-indicator" n="40">T</note>  moder for multytude of people coude not se who smote thee,<note type="enote-indicator" n="117">N</note>  yet she myght here clerely the sowne of the violent percucions<note target="#150" type="footnotelink">G</note>  and strokes that they layde on thee.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And than thou were so faynte of body and so feble by meanes of so <locus type="foliation">[fol. 17v]</locus> grete passions<note target="#151" type="footnotelink">G</note>  and effusyons of blode that thou fell downe to the grounde with the hevy crosse on thy backe. And than they compelled an other man<note type="enote-indicator" n="118">N</note>  to bere thy crosse to <placeName>Calvary</placeName>, and this they dyde for no compassyon of thee but for fere leest thou sholde have dyed without greter turmentes. And the good woman <persName>Veronyca</persName><note type="enote-indicator" n="119">N</note>  brought to thee a fayre sudary<note target="#152" type="footnotelink">G</note>  whiche thou set to thy vysage, wherin thou prynted a pyteous pycture and a dolorous memoryall of thy passyon to be depely prynted in the hertes of thy lovynge poore servauntes in this <placeName>worlde</placeName>. And as thou wente in these paynfull trybulacyons, thou tourned thyselfe to the women that folowed<note type="enote-indicator" n="120">N</note>  lamentynge thee with swete wordes confortynge them, and desyred that they sholde not wepe on thee, but on themselfe and on theyr chyldren.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>And whan thou came to the place of paynes, all the instrumentes for thy crucyfyenge were ordeyned there redy, whiche thy moder behelde with moost sorowfull herte, and personally there thou put off thy clothes, the wycked mynystres sayenge amonge themselfe: “These vestures be ours, he may no more<note type="tnote-indicator" n="41">T</note>  have them for that he is condempned to deth.”<note type="enote-indicator" n="121">N</note>  And thou <persName>Jhesu</persName> standynge there naked and bare<note type="enote-indicator" n="122">N</note>  as thou were borne, one rennynge brought to thee a coverynge, wherof inwardly<note type="tnote-indicator" n="42">T</note>  thou joyed, and fastenynge it aboute thy myddes<note target="#153" type="footnotelink">G</note>  mekely thou layest downe on the crosse, spredynge out thyn armes and layenge forth thy legges in length, thou offred there thy precyous wounded body on the harde crosse in sacrifyce to <persName>God</persName> thy fader as a moost meke lambe for our synnes. And the cursed tyrantes cruelly nayled fyrst thy ryght hande<note type="enote-indicator" n="123">N</note>  where the hole was perced for the nayle to entre, and than with a rope fastned to thy handwrest<note target="#154" type="footnotelink">G</note>  vyolently, halynge<note target="#155" type="footnotelink">G</note>  and drawynge, they nayled thy lefte hande on the syde of the crosse where as the <locus type="foliation">[fol. 18r]</locus> hole was ordeyned for the same; and in lyke maner halynge, drawynge, and straynynge they crucyfyed fyrste thy ryght fote and upon the same thy lefte fote with two nayles,<note type="tnote-indicator" n="43">T</note> wherby the synewes and vaynes of thy body were broken. And by suche cruell extencyon and haylynge the joyntes of thy body were dyssolved and losed that all the bones myght be nombred, and all the woundes of thy body, and all the dolours of them therby were renewed, and the horryble payne of thy woundes entred thrugh all thy bowells and the sharpenesse of the nayles perced the secretes<note target="#156" type="footnotelink">G</note>  of the marowe of thy bones<note type="enote-indicator" n="124">N</note>  and synewes, bryngynge out to us the precyous tresours of thy blode.</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>O good <persName>Jesu</persName>, for all these dolours<note type="tnote-indicator" n="44">T</note>  that thou suffered goynge to thy deth, and in thy crucyfyenge whan thou were strayned so on the crosse that thou coude not meve<note target="#157" type="footnotelink">G</note>  hande, fote, ne none other membre of thy body but onely thy tongue, wherwith thou might praye for thyn enemyes,<note type="enote-indicator" n="125">N</note>  and for all the doloures that wente thrugh all the interyour partes of thy body whan thy crosse was reysed and let fall in to the morteys<note target="#158" type="footnotelink">G</note> <note type="enote-indicator" n="126">N</note>  with suche vyolence that all thy sore bones cracked, and for the grete charyté that made thee ascende on the crosse: I praye thee that thy charyté may brenne<note type="enote-indicator" n="127">N</note>  and consume all my synnes so fully in my soule that she may be made a moost pure myrrour in the syght of thy godhede. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="147"><space rend="indent1"/><gloss>soon after</gloss></note>
+ 
+ 
+ <note type="footnote" n="148"><space rend="indent1"/><gloss>moving crowd</gloss></note>
+ 
+ 
+ <note type="footnote" n="149"><space rend="indent1"/><gloss>wailing</gloss></note>
+ 
+ 
+ <note type="footnote" n="150"><space rend="indent1"/><gloss>blows</gloss></note>
+ 
+ 
+ <note type="footnote" n="151"><space rend="indent1"/><gloss>sufferings</gloss></note>
+ 
+ 
+ <note type="footnote" n="152"><space rend="indent1"/><gloss>cloth for wiping the face</gloss></note>
+ 
+ 
+ <note type="footnote" n="153"><space rend="indent1"/><gloss>waist</gloss></note>
+ 
+ 
+ <note type="footnote" n="154"><space rend="indent1"/><gloss>wrist</gloss></note>
+ 
+ 
+ <note type="footnote" n="155"><space rend="indent1"/><gloss>hauling</gloss></note>
+ 
+ 
+ <note type="footnote" n="156"><space rend="indent1"/><gloss>interior parts</gloss></note>
+ 
+ 
+ <note type="footnote" n="157"><space rend="indent1"/><gloss>move</gloss></note>
+ 
+ 
+ <note type="footnote" n="158"><space rend="indent1"/><gloss>mortise</gloss></note>
+ 
+ </div><div type="chapter" n="21"><head type="rubric">20: Of the blasphemés of the Jewes<note type="enote-indicator" n="128">N</note>  and of the prayer of <persName>Jhesu</persName> on the crosse for his enemyes</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, for that thou hangynge on the crosse suffred many grete<note type="tnote-indicator" n="45">T</note>  derisyons and insultacions<note target="#159" type="footnotelink">G</note>  of thy cruell enemyes, for why som of them sayd that thou were a thefe,<note type="enote-indicator" n="129">N</note>  and som that thou were a grete lyer, and som affermed<note target="#160" type="footnotelink">G</note>  and sayd that none was worthyer <locus type="foliation">[fol. 18v]</locus> deth than thou were. And some sayd that thou coude helpe other men but thou coude not helpe thyselfe, and some blasphemynge sayd: “Yf thou be <persName>Cryste</persName> kynge of <placeName>Israell</placeName><note type="enote-indicator" n="130">N</note>  come downe off the crosse that we may byleve on thee.” And many other blasphemés they sayd of thee. And notwithstandynge all this thou had more compassyon of them, thy cruell enemyes, than thou hade of thy selfe, suffrynge so grete tourmentes so that of thy haboundaunt<note target="#161" type="footnotelink">G</note>  charyté thou prayed for them sayenge: “Fader, forgyve them for they knowe not what they do.” O cruelté of people<note type="enote-indicator" n="131">N</note>  of this worlde, that wyl shewe no mercy for smal offences done agaynst them, but wyll be avenged without pyté, nothynge regardynge the grete charyté of <persName>Cryste</persName>, gyvynge us example of excellent compassyon, but suche vengeable<note target="#162" type="footnotelink">G</note>  people sholde remembre this wryten: that they whiche wyll shewe no mercy,<note type="enote-indicator" n="132">N</note>  no mercy shall have. <persName>Jhesu</persName>, I praye thee for thy passyon,<note type="tnote-indicator" n="46">T</note>  and for the charyté that thou shewed prayenge for thyn enemyes, gyve me grace to love my frendes in thee, and myn enemyes for thee, and gladly to forgyve them that offendeth me that thou, mercyfull lorde, wylte forgyve all myn offences wherwith I have provoked thee ofte to wrathe. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="159"><space rend="indent1"/><gloss>insults</gloss></note>
+ 
+ 
+ <note type="footnote" n="160"><space rend="indent1"/><gloss>agreed</gloss></note>
+ 
+ 
+ <note type="footnote" n="161"><space rend="indent1"/><gloss>abundant</gloss></note>
+ 
+ 
+ <note type="footnote" n="162"><space rend="indent1"/><gloss>vengeful</gloss></note>
+ 
+ </div><div type="chapter" n="22"><head type="rubric">21: Of the mercy of <persName>Jhesu</persName><note type="tnote-indicator" n="47">T</note>  shewed to the thefe hangynge<note type="enote-indicator" n="133">N</note>  at his ryght syde</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, benygne <persName>Jhesu</persName>, for the grete mercy thou shewed to the thefe that henge besyde thee at thy ryght syde whan of hertely<note target="#163" type="footnotelink">G</note>  contricyon and stedfast fayth he sayd to thee: “Have mynde of me, lord, whan thou comest to thy kyngdome.” And thou, lord of mercy, not onely graunted him forgyvenes of synnes but also the blisse of paradyse, sayenge to hym: “Truly I say to thee, this daye thou <locus type="foliation">[fol. 19r]</locus> shalte be with me in <placeName>paradyse</placeName>.” Mercyful <persName>Jesu</persName>, I praye<note type="tnote-indicator" n="48">T</note>  thee to graunt me so bytter contricyon for my synnes before I dye, wherby I may obteyn of them ful remyssyon, and also the blysse of <placeName>paradyse</placeName> with the worshypfull thefe that henge at thy ryght syde. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="163"><space rend="indent1"/><gloss>heartfelt</gloss></note>
+ 
+ </div><div type="chapter" n="23"><head type="rubric">22: Of the words of <persName>Jesu</persName><note type="enote-indicator" n="134">N</note>  commendynge his moder to saynt <persName>John</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and gloryfy thee, lorde <persName>Jhesu Cryste</persName>, for the ineffable doloure whiche thou had hangynge on the crosse, beholdynge thy sorowfull moder standynge besyde thee, tourmented in soule with inestymable dolours and anguysshes for moderly compassion that she had of thee, whan she behelde thee her onely sone so pyteously extent on the crosse without offence, wounded with thousande woundes, and flesshe taken of her virgynall flesshe all to rente and torne. And for the cruell deth whiche thou suffred of the people of whose progenye thou were borne havynge no consolacyon of frende, for all were fledde fro thee, therfore thou loked to the grounde where thy dolorous moder stode, yf happely<note target="#164" type="footnotelink">G</note>  she myght helpe thee — but thou had no helpe of her for she was faynt and sorowfull.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And whan thou behelde her<note type="enote-indicator" n="135">N</note>  and other that loved<note type="tnote-indicator" n="49">T</note>  thee standynge by her, sore wepynge and waylynge, whiche lever<note target="#165" type="footnotelink">G</note>  wolde have suffred that payne that thou suffred in themselfe with thyne helpe, or to brenne in hell<note type="tnote-indicator" n="50">T</note>  for evermore than to se thee so crucyate<note target="#166" type="footnotelink">G</note>  and tourmented.<note type="enote-indicator" n="136">N</note>  And the sorowe that thou toke<note type="enote-indicator" n="137">N</note>  for thy moder and frendes waylynge for thee exceded all the bytternesse and trybulacyons<note type="tnote-indicator" n="51">T</note> that thou suffred in thy body or in thy herte,<note type="tnote-indicator" n="52">T</note>  for full tenderly thou loved them. And thou commended <locus type="foliation">[fol. 19v]</locus> thy moder to thy dyscyple saynt <persName>John</persName>, sayenge to her: “Woman, beholde thy sone.” <persName>Jhesu</persName>, I beseche thee<note type="tnote-indicator" n="53">T</note>  that in the dredefull houre of my deth thou wylte commende me to the proteccyon of thy blessyd moder, that she may defende me fro the malyce and power of fendes, that by theyr wicked sotylté they brynge me not in to desparacyon, elacyon,<note target="#167" type="footnotelink">G</note>  ne from my fayth, but defended by her thy passyon helpynge I may obteyne the joy eternall. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="164"><space rend="indent1"/><gloss>by any chance</gloss></note>
+ 
+ 
+ <note type="footnote" n="165"><space rend="indent1"/><gloss>rather</gloss></note>
+ 
+ 
+ <note type="footnote" n="166"><space rend="indent1"/><gloss>tortured</gloss></note>
+ 
+ 
+ <note type="footnote" n="167"><space rend="indent1"/><gloss>arrogance</gloss></note>
+ 
+ </div><div type="chapter" n="24"><head type="rubric">23: Of the thurste of <persName>Jhesu</persName><note type="enote-indicator" n="138">N</note>  on the crosse and of his bytter drynke</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I laude and gloryfy thee lorde <persName>Jhesu Cryste</persName> for the thurste thou suffred on the crosse by reason of ofte and greate effusyons of blode and turmentes, but more ardently thou thursted our helth and salvacyon, sayenge thus: “<foreign xml:lang="lat">Sitio</foreign>,” “I thurste.” And thou, the fonte of the water of lyfe,<note type="enote-indicator" n="139">N</note>  tasted soure eysell<note target="#168" type="footnotelink">G</note>  medled with bytter gall<note target="#169" type="footnotelink">G</note>  by a sponge therwith fulfylled and put to thy mouth, and that thou wolde suffre and taste for mannes trespasse, tastynge the fruyte forboden hym by <persName>God</persName>. For this thurste and bytter drynke,<note type="tnote-indicator" n="54">T</note>  <persName>Jhesu</persName>, I praye thee quenche in me the thurste of carnall concupyscence and the hete of worldly delectacyon,<note target="#170" type="footnotelink">G</note>  and kendle my desyre so to vertue and to every good werke that after this lyfe I may be made dronke in <placeName>heven</placeName> with the plentefulnesse of thy hous, and with the swete wyne of the vysyon of thy godhede. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="168"><space rend="indent1"/><gloss>vinegar</gloss></note>
+ 
+ 
+ <note type="footnote" n="169"><space rend="indent1"/><gloss>bile</gloss></note>
+ 
+ 
+ <note type="footnote" n="170"><space rend="indent1"/><gloss>pleasure</gloss></note>
+ 
+ </div><div type="chapter" n="25"><head type="rubric">24: Of the grete clamour of <persName>Jesu</persName><note type="enote-indicator" n="140">N</note>  on the crosse: “My <persName>God</persName>, my <persName>God</persName>, why hast thou forsake me?”</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 20r]</locus> Laude and honoure I yelde to thee, lorde <persName>Jesu Cryst</persName>, that so myserably hengest on the crosse bytwene two theves, all wounded and pyteously rent. And for as moche<note type="tnote-indicator" n="55">T</note>  as thou were best and stronge of complexyon, therfore lyfe stryved with deth<note type="enote-indicator" n="141">N</note>  in thy wounded body: for some whyles the dolours of thy membres and synewes of thy body wounded ascended to thy hert, whiche was moost fresshe and uncorrupte, whiche vexed thee with incredyble dolour and passion.<note type="tnote-indicator" n="56">T</note>  And some whyles the dolour descended from<note type="tnote-indicator" n="57">T</note>  the herte unto the membres, lacerate and torne, and so dethe was prolonged in thee, <persName>Jhesu</persName>, with grete bytternesse.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And hangynge on the crosse in suche horryble tourmentes thou cryed to thy fader with a grete voyce, sayenge, “My <persName>God</persName>, my <persName>God</persName> why hast thou forsake me,” as though thou sayd: “O fader, have mynde,<note target="#171" type="footnotelink">G</note>  why thou forsakest me in these bytter anguysshes. Therfore it is that I sholde make satysfaccyon to thee for the synne of man, and that I myght turne away thy wrathe fro them, and so reconcyled by me they may fynde grace before thy face. O my fader and lorde,<note type="enote-indicator" n="142">N</note>  I have fulfylled it with bytter passyon and cruell deth; I have made satysfaccyon to thy faderly charité with the brennynge desyre of broderly charité, and whose maker I was fro the begynnynge I am made now theyr redemptour and savyour. And the kyngdome of <placeName>heven</placeName> whiche I posseded fro the begynnynge by ryghtful herytage of a sone, now I am become man in this late tyme, and all bespronge with myn owne blode, that man whose broder I am become may possede the same kyngdome for evermore in herytage by broderly ryght.”</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>O swete <persName>Jhesu</persName>, hertely I praye<note type="tnote-indicator" n="58">T</note>  thee for all the woundes of thy precyous body, and for the fervent anguysshe whiche thou suffred on the crosse to be there as a man forsaken of <persName>God</persName>, for that <persName>God</persName> sholde not forsake us eter|nally, <locus type="foliation">[fol. 20v]</locus> and for the bytter wepynges<note type="tnote-indicator" n="59">T</note>  whiche thou wepte on the crosse for us with dolefull cryenge for huge bytternesse of sorowes and ardent desyre of charyté. Forsake me not, meke <persName>Jhesu</persName>, at my last ende, but receyve me to thy mercy and save my soule that thou hast bought<note target="#172" type="footnotelink">G</note>  so dere.<note type="enote-indicator" n="143">N</note>  Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="171"><space rend="indent1"/>have mynde, <gloss>recall</gloss></note>
+ 
+ 
+ <note type="footnote" n="172"><space rend="indent1"/><gloss>paid for</gloss></note>
+ 
+ </div><div type="chapter" n="26"><head type="rubric">25: Of the wordes of <persName>Jhesu</persName> on the crosse: “<foreign xml:lang="lat">Consummatum est</foreign>”</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Lorde <persName>Jhesu Cryste</persName>, that arte moost pureste myrroure<note type="enote-indicator" n="144">N</note>  of the Holy Trinité, whome I beholde now with the inwarde eyen<note target="#173" type="footnotelink">G</note>  of my mynde, with all myn inwarde bowelles<note target="#174" type="footnotelink">G</note>  I laude and gloryfy thee, that aboute the houre of thy deth saydest these wordes: “<foreign xml:lang="lat">Consummatum est</foreign>.”<note target="#175" type="footnotelink">G</note> <note type="enote-indicator" n="145">N</note>  As though thou sayd: “Every thynge that hath be sayd of me by the mouthes of holy prophetes or fygured<note target="#176" type="footnotelink">G</note>  of me in the lawe fro the tyme of my concepcion unto the houre of my deth now is fulfylled in me.”<note type="enote-indicator" n="146">N</note>  Lorde <persName>Jhesu Cryste</persName>, I praye thee for the vertue of these holy wordes, graunte me grace to fulfyll obedyently all thy wyll in observacyon of thy holy preceptes and to ordre my lyfe after thy holy counseyles, wherby thy passyon helpynge I may obteyne eternall felycyté.<note target="#177" type="footnotelink">G</note>  Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="173"><space rend="indent1"/><gloss>eyes</gloss></note>
+ 
+ 
+ <note type="footnote" n="174"><space rend="indent1"/><gloss>organs (as a seat of compassion)</gloss></note>
+ 
+ 
+ <note type="footnote" n="175"><space rend="indent1"/>Consummatum est, <gloss>“it is completed” or “it is done”</gloss></note>
+ 
+ 
+ <note type="footnote" n="176"><space rend="indent1"/><gloss>represented</gloss></note>
+ 
+ 
+ <note type="footnote" n="177"><space rend="indent1"/><gloss>happiness</gloss></note>
+ 
+ </div><div type="chapter" n="27"><head type="rubric">26: Of the expyracyon of <persName>Jhesu</persName>,<note type="enote-indicator" n="147">N</note>  and of the myracles befallynge in the tyme of his deth</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Redemptour of mankynde, <persName>Jhesu Cryst</persName>, I laude and honour thee that whan the tyme of deth was come thy blessed eyen apprered all deedly,<note type="enote-indicator" n="148">N</note>  the chere of thy vysage was all waylynge and lamentable, thy mouth <locus type="foliation">[fol. 21r]</locus> opened, thy tethe apperynge whyte, thy tongue all blody, thy bely cleved to thy backe all consumed fro moystnesse as though thou had no bowelles, all thy body pale and wanne by reason of flowynges out of blode, thy handes and fete gretely swollen by straynynge and naylynge to the crosse, thy heere and berde reed with blode and clotted. And than for the greate anguysshe of deth of the partye of thy manhode,<note target="#178" type="footnotelink">G</note>  thou cryed to thy fader sayenge: “O fader, into thy handes<note type="enote-indicator" n="149">N</note>  I betake<note target="#179" type="footnotelink">G</note>  my spyryte.” Than the virgyn<note type="tnote-indicator" n="60">T</note>  thy moder, herynge these wordes as moost sorowfull moder, all the membres of her body trembled and quoke; and ever after whyles she lyved, as ofte as she remembred these wordes,<note type="enote-indicator" n="150">N</note>  it sowned in her eeres as present and fresshe to her herynge.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And than good <persName>Jhesu</persName> whan deth came,<note type="enote-indicator" n="151">N</note>  wherby thy herte for vyolence of dolours sholde breke in sonder all thy body trembled, and a lytel lyftynge up thy heed thou enclyned it on thy sholdre,<note type="tnote-indicator" n="61">T</note>  thy handes withdrewe themselfe a lytell from the place of perforacyon, and than thy fete susteyned moche of the weyght of thy body, thy fyngers and armes<note type="tnote-indicator" n="62">T</note>  somwhat extended themselfe and strongly strayned themselfe upwarde to the tree, and with suche bytter dolours thy herte brake in sondre.<note type="tnote-indicator" n="63">T</note>  And thy holy soule departed<note type="enote-indicator" n="152">N</note>  from thy blessyd body and with the godhede wente downe to <placeName>hell</placeName>, and brekyng up the gates of deth toke out all the holy soules<note type="tnote-indicator" n="64">T</note>  whiche thou hade thus redemed, settynge them in the felycyté of <placeName>paradyse</placeName>. And in the daye of thyn Ascencyon thou presented them<note type="enote-indicator" n="153">N</note>  whome thou had bought with thy precyous deth to thy holy fader of <placeName>heven</placeName>.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>And thou, good <persName>Jesu</persName>, henge on the crosse naked and so poore and nedy that thou had not wheron to reclyne thy heed, but at the last thou reclyned it on thy sholdre<note type="enote-indicator" n="154">N</note>  for foure <locus type="foliation">[fol. 21v]</locus> causes. One was that thou myght gyve a kysse to thyn espouse<note target="#180" type="footnotelink">G</note>  <persName>Holy Chyrche</persName>, and to shewe her that all the wrathe of thy fader was mytygate and peasyfyed by thee. The seconde was to aske a reclinatory<note target="#181" type="footnotelink">G</note>  in the herte of man. The thyrde thou reclyned thy heed on thy sholdre as sayenge: “What sholde I have done more for thee than I have done? Shewe me, for I am redy yet to do it for thee and to helpe thee.” The fourth as though thou sayd: “Trust veryly in me, for that thou can not do I may do it for thee.”</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>And in thy deth, good <persName>Jhesu</persName>, creatures havynge no reason wayled for thee,<note type="tnote-indicator" n="65">T</note>  for why, stones brake, monumentes opened, and many bodyes of holy men that were deed dyd ryse. The vayle of the temple dyd breke fro the hygheste parte unto the grounde, and the sonne, as sorowynge for thee, withdrewe his lyght that all the worlde was derke.<note type="enote-indicator" n="155">N</note>  O ingratytude of reasonable man, that can not sorowe for thy passyon, for whome thou suffred it so paynfully. For this dolorous passion and deth,<note type="tnote-indicator" n="66">T</note>  <persName>Jhesu</persName>, I beseche thee to be mercyfull<note type="enote-indicator" n="156">N</note>  to me in the dredefull houre of my deth, and graunt me right mynde and speche to the last ende of my lyfe, and that I may have more mynde of thee and of thy passyon than of the dolours and paynes that than I shall suffre, and commendynge my soule to thy blessyd handes thou wylt receyve her whome thou hast bought to the glory that hath none ende. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="178"><space rend="indent1"/>partye of thy manhood, <gloss>Christ’s human aspect</gloss></note>
+ 
+ 
+ <note type="footnote" n="179"><space rend="indent1"/><gloss>surrender</gloss></note>
+ 
+ 
+ <note type="footnote" n="180"><space rend="indent1"/><gloss>spouse</gloss></note>
+ 
+ 
+ <note type="footnote" n="181"><space rend="indent1"/><gloss>couch</gloss></note>
+ 
+ </div><div type="chapter" n="28"><head type="rubric">27: Of that the body of <persName>Cryst</persName><note type="enote-indicator" n="157">N</note>  henge deed thre houres on the crosse, and of the openynge of his syde with a spere, and of certayne utylytees<note target="#182" type="footnotelink">G</note>  therof</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, for that it pleased thee to hange thre houres myserably deed<note type="enote-indicator" n="158">N</note>  on the crosse. Lykewyse, as thou henge thre hou|res <locus type="foliation">[fol. 22r]</locus> alyve<note type="enote-indicator" n="159">N</note>  in horryble tourmentes on the crosse, and that it pleased thee to suffre thy holy syde to be opened with a spere that blode and water<note type="enote-indicator" n="160">N</note>  plenteously ran out. And than were the gates of <placeName>heven</placeName> opened<note type="enote-indicator" n="161">N</note>  to us, whiche fro the tyme that <persName>Adam</persName> had synned to that houre were contynually sparde<note target="#183" type="footnotelink">G</note>  ayenst us. And as our fyrst moder <persName>Eve</persName> was fourmed of the syde of <persName>Adam</persName> slepynge in <placeName>paradyse</placeName>, so our chaste moder <persName>Holy Chyrche</persName>, good <persName>Jesu</persName>, of thy syde — whiche arte the seconde <persName>Adam</persName>,<note type="enote-indicator" n="162">N</note>  hangynge deed on the crosse — was fourmed, and all the sacramentes of the same our sayd good moder of thy forsayd precyous wounde toke all theyr strength and vertue. And where as by the transgressyon of our fyrst parentes <persName>Adam</persName> and <persName>Eve</persName> all we were the chyldren of perdycyon, soo by thee, swete <persName>Jhesu</persName> the seconde <persName>Adam</persName>, by thy passyon and the sacrament of baptym we be made the chyldren of adopcyon.<note target="#184" type="footnotelink">G</note>  And by the merytes of the same passyon with helpe of the sacramentes of <persName>Holy Chyrche</persName> — thy chaste espouse, our good moder — we truste stedfastly to be the chyldren of salvacyon. O swete <persName>Jhesu</persName>, hertely<note target="#185" type="footnotelink">G</note>  I praye thee<note type="tnote-indicator" n="67">T</note>  that the merytes of thy precyous wounde, with the helpe of the sayd blessyd sacrament may open the gates of <placeName>heven</placeName> to me that after this mortal lyf I may have free entrynge there to dwel with thee for evermore. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="182"><space rend="indent1"/><gloss>benefits</gloss></note>
+ 
+ 
+ <note type="footnote" n="183"><space rend="indent1"/><gloss>barred</gloss></note>
+ 
+ 
+ <note type="footnote" n="184"><space rend="indent1"/>made the chyldren of adopcyon, <gloss>received by God as his children</gloss></note>
+ 
+ 
+ <note type="footnote" n="185"><space rend="indent1"/><gloss>from the heart</gloss></note>
+ 
+ </div><div type="chapter" n="29"><head type="rubric">28: Of the takynge downe of the body<note type="enote-indicator" n="163">N</note>  of <persName>Cryste</persName> fro the crosse and of his sepulture</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 22v]</locus> Thankynges I yelde to thee, lorde <persName>Jhesu Cryst</persName>, for that thou were taken downe off the crosse by the besy<note target="#186" type="footnotelink">G</note>  labour of thy frendes <persName>Joseph</persName> and <persName>Nychodeme</persName>,<note type="enote-indicator" n="164">N</note>  and thy sorowfull moder<note type="enote-indicator" n="165">N</note>  receyved thee on her lappe with full bytter wepynge, where thou lay as a man all to-drawen and torne in every membre so pyteously dysfygured that thou were more lyke a lepre than a clene<note target="#187" type="footnotelink">G</note>  man, and thy deed eyen<note type="tnote-indicator" n="68">T</note>  were all blody, thy mouth colde as yse, thyn armes were so styffe, colde, and spredde abrode as thou henge on the crosse that thy moder and frendes aforesayd had grete besynesse<note target="#188" type="footnotelink">G</note>  to brynge them downe to thy bely. And thy wofull moder wyped<note type="enote-indicator" n="166">N</note>  and dryed thy blody woundes with a cloth, and closed thy mouth and eyen whiche were open by deth, and this done, thy wounded deifyed body<note type="tnote-indicator" n="69">T</note> was lapped in a clene sudary and dressed with odoramentes<note target="#189" type="footnotelink">G</note>  and layde and buryed in the lowe place of the herte of the <placeName>erth</placeName>. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="186"><space rend="indent1"/><gloss>careful</gloss></note>
+ 
+ 
+ <note type="footnote" n="187"><space rend="indent1"/><gloss>without infection</gloss></note>
+ 
+ 
+ <note type="footnote" n="188"><space rend="indent1"/><gloss>trouble (effort)</gloss></note>
+ 
+ 
+ <note type="footnote" n="189"><space rend="indent1"/><gloss>aromatic substances</gloss></note>
+ 
+ </div><div type="chapter" n="30"><head type="rubric">29: Of the gloryous Resurreccyon<note type="enote-indicator" n="167">N</note>  of <persName>Jesu</persName>, and of his apparycyons<note target="#190" type="footnotelink">G</note> </head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryste</persName>, that the thyrde daye dyde ryse from deth<note type="tnote-indicator" n="70">T</note>  gloryfyed in body and soule with thy godhede, apperynge to thy blessyd moder<note type="enote-indicator" n="168">N</note>  as we mekely may ymagyn, and also to <persName>Mary Mawdeleyn</persName>. And thou mette with the women comynge from the monument sayenge to them: “All hayle <locus type="foliation">[fol. 23r]</locus> ye.”<note type="enote-indicator" n="169">N</note>  And they came to thee, layenge handes on thy fete, and also the same daye of thy Resurreccyon thou appered to two dyscyples goynge to <placeName>Emaus</placeName>,<note type="enote-indicator" n="170">N</note>  and they knewe thee in brekynge of brede. And agayne thou entred to thy dyscyples the gates beynge shytte<note target="#191" type="footnotelink">G</note>  and sayd: “Peas be to you, I am — drede ye not.”<note type="enote-indicator" n="171">N</note>  And before them thou dyd ete parte of a rosted fysshe, and of a hony combe.<note type="enote-indicator" n="172">N</note>  And at the <placeName>see Tiberiadis</placeName><note type="enote-indicator" n="173">N</note>  thou shewed thyselfe to thy dyscyples, and brede and fysshe whiche thou had taken of them thou delyvered to them, and full frendly thou comyned<note target="#192" type="footnotelink">G</note>  with them, and specyally with <persName>Peter</persName> that had denyed thee. And after eyght dayes agayne thou appered to thy dyscyples and gavest them thy peas. And thou conforted <persName>Thomas</persName><note type="enote-indicator" n="174">N</note>  harde of beleve by shewynge of thy woundes to hym. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.<note type="enote-indicator" n="175">N</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="190"><space rend="indent1"/><gloss>appearances</gloss></note>
+ 
+ 
+ <note type="footnote" n="191"><space rend="indent1"/><gloss>shut</gloss></note>
+ 
+ 
+ <note type="footnote" n="192"><space rend="indent1"/><gloss>communed</gloss></note>
+ 
+ </div><div type="chapter" n="31"><head type="rubric">30: Of the mervaylous Ascencyon<note type="enote-indicator" n="176">N</note>  of our lorde <persName>Jhesu</persName></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryste</persName>, for all that ever thou dyde fro the daye of thy gloryous Resurreccyon, unto the daye of thy mervaylous Ascensyon, for fro that daye oftentymes thou appered to thy dyscyples, and to other thy faythfull frendes, frendly<note target="#193" type="footnotelink">G</note>  confortyng them of the sorowe and hevynesse whiche they toke for thee in thy passyon, and confermynge them in thy fayth, hope and charyté.<note type="enote-indicator" n="177">N</note>  And last of all thou ascended on the <placeName>mount of Olyvete</placeName>,<note type="enote-indicator" n="178">N</note>  and lyftynge up thy hande<note type="enote-indicator" n="179">N</note>  thou gave them thy dyvyne benediccyon, and in the syght <locus type="foliation">[fol. 23v]</locus> of all that were there thou were lyfte up in to <placeName>heven</placeName> where thou shewed all thy woundes and vyctory to the syght of thy fader, and syttynge at his ryght syde<note type="enote-indicator" n="180">N</note>  coomnipotent and coeterne<note target="#194" type="footnotelink">G</note> <note type="enote-indicator" n="181">N</note>  thou were crowned with glory and honour. Lorde <persName>Jhesu Cryste</persName>, for the glory<note type="tnote-indicator" n="71">T</note>  of thyn Ascencion gyve me grace to folowe thee by grees<note target="#195" type="footnotelink">G</note>  of vertue from day to day, that after this lyfe as a membre of thy mystycall body I may be knytte to thee, ye heed<note type="tnote-indicator" n="72">T</note>  of the same body, in heven blysse for evermore. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="193"><space rend="indent1"/><foreign xml:lang="lat">lovingly</foreign></note>
+ 
+ 
+ <note type="footnote" n="194"><space rend="indent1"/><gloss>coeternal</gloss></note>
+ 
+ 
+ <note type="footnote" n="195"><space rend="indent1"/><gloss>stages</gloss></note>
+ 
+ </div><div type="chapter" n="32"><head type="rubric">31: Of the myssyon of the Holy Ghost<note type="enote-indicator" n="182">N</note>  on the blessyd daye of <date>Penthecoste</date></head>
+ <ab><milestone n="1" unit="prose-textblock"/>Thankynges I yelde to thee, lorde <persName>Jhesu Cryste</persName> that after ten dayes of thyne Ascencyon sendest downe the Holy Ghoost after thy promesse to thy dyscyples in lykenesse of tongues of fyre<note type="enote-indicator" n="183">N</note>  brennynge,<note target="#196" type="footnotelink">G</note>  wherby they were so illumyned<note target="#197" type="footnotelink">G</note>  with grace that with theyr mouthes in the tongues of al nacyons they preched the lawe of thy brennynge charyté, wherof all the people mervayled. And confermynge the wordes of theyr doctryne by open myracles they converted innumerable people to thy fayth, so that <persName>Peter</persName> in one day converted thre thousande<note type="enote-indicator" n="184">N</note>  from theyr erroure. Benygne <persName>Jhesu</persName>, I praye<note type="tnote-indicator" n="73">T</note>  thee to sende me grace of the Holy Ghoost and his swete consolacyon in all my werkes with the blessyd gyftes of hym, wherby I may lede here an acceptable lyfe unto thy pleasure, that I may therby obteyne the joye and glory that never shall have ende. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>. <foreign xml:lang="lat">Credo in </foreign><persName><foreign xml:lang="lat">Deum</foreign></persName>.<note target="#198" type="footnotelink">G</note> <note type="enote-indicator" n="185">N</note> </ab>
+ <ab><milestone n="2" unit="prose-textblock"/><foreign xml:lang="lat">Te </foreign><persName><foreign xml:lang="lat">deum</foreign></persName><foreign xml:lang="lat"> laudamus</foreign>,<note target="#199" type="footnotelink">G</note> <note type="enote-indicator" n="186">N</note>  etc.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="196"><space rend="indent1"/><gloss>burning</gloss></note>
+ 
+ 
+ <note type="footnote" n="197"><space rend="indent1"/><gloss>illuminated</gloss></note>
+ 
+ 
+ <note type="footnote" n="198"><space rend="indent1"/>Credo in deum, <gloss>“I believe in God”</gloss></note>
+ 
+ 
+ <note type="footnote" n="199"><space rend="indent1"/>Te deum laudamus, <gloss>“We praise you, Lord”</gloss></note>
+ 
+ </div><div type="chapter" n="33"><head type="rubric">Epilogue</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 24r]</locus> O all ye servantes of <persName>God</persName><note type="enote-indicator" n="187">N</note>  unto whose handes this devoute lytell treatyse shall come, yf ye fynde swetnesse or devocyon in <persName>Jhesu Cryste</persName> therby, laude ye <persName>God</persName> therfore, and of your charyté praye for the Anker<note target="#200" type="footnotelink">G</note>  of <placeName>London</placeName> wall, wretched <persName>Symon</persName>, that to the honour of <persName>Jhesu Cryst</persName> and of the virgyn his moder <persName>Mary</persName> hath compyled this mater in Englysshe for your ghostly conforte that understande no Latyn.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/><persName><foreign xml:lang="lat">Deo</foreign></persName><foreign xml:lang="lat"> gratias</foreign>.<note target="#201" type="footnotelink">G</note> <note type="enote-indicator" n="188">N</note> </ab>
+ <ab><milestone n="3" unit="prose-textblock"/>Here endeth the treatyse called the <title>Fruyte of Redempcyon</title>, whiche devoute treatyse I <persName>Rycharde</persName>, unworthye bysshop of <placeName>London</placeName>,<note type="enote-indicator" n="189">N</note>  have studyously radde and overseen, and the same approve as moche as in me is to be radde of the true servauntes of swete <persName>Jhesu</persName>, to theyr grete consolacyon and ghostly conforte, and to the merytes of the devoute fader, compounder of the same.</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>Enprynted by <persName>Wynkyn de Worde</persName>, the <date>yere of lorde God MCCCCC and xiiii</date>.<note target="#202" type="footnotelink">G</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="200"><space rend="indent1"/><gloss>Anchorite</gloss></note>
+ 
+ 
+ <note type="footnote" n="201"><space rend="indent1"/>Deo gratias, <gloss>“Thanks be to God”</gloss></note>
+ 
+ 
+ <note type="footnote" n="202"><space rend="indent1"/>MCCCCC and xiiii, <gloss>1514</gloss></note>
+ 
+ </div></body></text></TEI>

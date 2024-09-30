@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Parsons-Prayer-13-Antidotarius-App-FP-Prose-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Appendix: Rubrics from Weydenbosch, Antidotarius Animae</title><author>Weydenbosch, Nicholas</author><editor>Parsons, Ben</editor><editor role="translator">Parsons, Ben</editor><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-03">Copyedited and proofread</resp><resp from="2023-02" to="2023-03">Entered corrections for print edition</resp><resp from="2023-02" to="2023-03">Formatted for print edition</resp><resp from="2023-02" to="2023-03">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Fein, Susanna</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2023-03" to="2024-02">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-04" to="2023-03">Copyedited and proofread</resp><resp from="2022-04" to="2024-02">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-02" to="2024-02">Formatted for XML export</resp><resp from="2022-04" to="2023-03">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2023-03">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Emmarae Stein</persName><orgName>University of Rochester</orgName><resp>Social Media Manager, Editorial Staff</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Appulby, Simon</author><author>Unknown</author><editor>Parsons, Ben</editor><title>Two Middle English Prayer Cycles: Holkham Prayers and Meditations and Simon Appulby, The Fruyte of Redempcyon</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/parsons-prayer/blob/main/parsons-prayer-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="enm">English, Middle (1100-1500)</language><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Parsons-Prayer-13-Antidotarius-App-FP-Prose"/><div type="versotext" xml:lang="lat">
+ <p style="appendix-headnote1">Rubrics from Weydenbosch, <hi rend="italic">Antidotarius Animae</hi>. The Hague, Koninklijke Bibliotheek, 150 E 23, fols. 18r–33v.</p>
+ <ab style="prose-incipit"><locus type="foliation">[fol. 18r]</locus> Sequuntur orationes seu contemplationes multum devote cum gratiarum actionibus de omnibus beneficiis a deo humano generi impensis et spetialiter in opere nostre redemptionis incarnationis et passionis christi.</ab>
+ <list rend="numbered">
+ <item style="indent1">Primo ponitur oratio excitativa humane mentis ad laudandum deum.</item>
+ <item style="indent1">Laus sancte trinitatis propter seipsam.</item>
+ <item style="indent1"><locus type="foliation">[fol. 18v]</locus> De creatione celi et terre et omnium que in eis sunt.</item>
+ <item style="indent1">De creatione hominis et lapsu eius miserabili.</item>
+ <item style="indent1">De reparatione hominis et permissione adventus christi.</item>
+ <item style="indent1"><locus type="foliation">[fol. 19r]</locus> De redemptione humani generis per verbi incarnati misterium.</item>
+ <item style="indent1"><locus type="foliation">[fol. 19v]</locus> De electione gloriosissime virgis Marie in matrem divini et mirabili conceptione christi.</item>
+ <item style="indent1">De cooperatione omnium trium personatum in divinis quo ad mysterium incarnationis.</item>
+ <item style="indent1"><locus type="foliation">[fol. 20r]</locus> De virtutibus beatem Marie virginis quibus mervit esse mater domini.</item>
+ <item style="indent1">De nativitate et paupertate Jesu.</item>
+ <item style="indent1">De diversis incommodis indigentiis infantilibus de quibus vagitibus: lactatione et nutritione esurientis Jesu.</item>
+ <item style="indent1"><locus type="foliation">[fol. 20v]</locus> De dolorosa circumcisione innocentis Jesu, et de nova impositione dulcissimi nominis eius.</item>
+ <item style="indent1">De apparitione Jesu et devota sanctorum regum oblatione, purificatione beate Marie, et presentatione pueri Jesu in templo.</item>
+ <item style="indent1">De persecutione Jhesum fuga eius in egyptum, et de sanctis innocentibus ab herode occisia.</item>
+ <item style="indent1"><locus type="foliation">[fol. 21r]</locus> De inventione Jesu in templo, et de sancta et occulta vita eius.</item>
+ <item style="indent1">De baptismo Jesu et eius ieiunio in deserto.</item>
+ <item style="indent1"><locus type="foliation">[fol. 21v]</locus> De predicatione et salutari doctrina domini Jhesu deque gloriosis eius signis, exemplis, ac bonis moribus, variis quibus tribulationibus in hic mundo.</item>
+ <item style="indent1"><locus type="foliation">[fol. 22r]</locus> De resuscitatione laszari et humili ingressu in civitate hierusalem in die palmatorum, et ejectione vendentium et ementium de templo.</item>
+ <item style="indent1"><locus type="foliation">[fol. 22v]</locus> De consilio judeorum adversus christum, et de eius venditione de que eius cena novissima ablutione pedum et sacramenti eucharistie institutione.</item>
+ <item style="indent1"><locus type="foliation">[fol. 23r]</locus> De sermone domini Jesu habito cum discipulis post cena.</item>
+ <item style="indent1"><locus type="foliation">[fol. 23v]</locus> De oratione Jesu pro discipulis ac de egressu eius in montem oliveti, de quem pavorem eius et tristicia et trina oratione ad patrem ac sudore sanguineo.</item>
+ <item style="indent1"><locus type="foliation">[fol. 24r]</locus> De spontaneo transitu Jesu ad passionem, ipsi usquam traditione per Judam traditorem, et de sanatione servi cui abscidit Petrus auriculam.</item>
+ <item style="indent1"><locus type="foliation">[fol. 24v]</locus> De derelictione Jesu in manu hostili, fuga discipulorum, de quam dira comprehensione alligationem et deductione eius ad Annam sacerdotem et Caypham et de percussione et consputione eius.</item>
+ <item style="indent1"><locus type="foliation">[fol. 25v]</locus> De presentatione vincti Jesu coram pylato, et de irrisione eius ab herode et exercitu eius de que improbo clamore judeorum “crucifige eum,” et de expoliatione et flagellatione eius.</item>
+ <item style="indent1"><locus type="foliation">[fol. 26v]</locus> De expoliatione, illusione, coronatione, et percussione capitis Jesu.</item>
+ <item style="indent1"><locus type="foliation">[fol. 27r]</locus> De injusta condemnatione Jesu ad morte crucis.</item>
+ <item style="indent1"><locus type="foliation">[fol. 27v]</locus> De bajulatione crucis ad locus Calvarie et crucifixione Jesu.</item>
+ <item style="indent1"><locus type="foliation">[fol. 28r]</locus> De vulneratione ac extentione Jesu Christi in cruce, et de supplicatione per inimicis suis.</item>
+ <item style="indent1"><locus type="foliation">[fol. 28v]</locus> De obprobriis judeorum et contumeliis exhibitis Jesu in cruce, et de verbo ad latronem in crucem dicto.</item>
+ <item style="indent1"><locus type="foliation">[fol. 29r]</locus> De compassione virginis et matris Marie, et mutua commendatione eius Johanni.</item>
+ <item style="indent1"><locus type="foliation">[fol. 29v]</locus> De valido clamore Jesum cruce “<foreign>hely hely lamazabathani</foreign>.”</item>
+ <item style="indent1">De tribus horis quibua pende|bat <locus type="foliation">[fol. 30r]</locus> Jesus vivens in cruce, et de multiplicibus opprobriis et contumeliis ibidem passis.</item>
+ <item style="indent1"><locus type="foliation">[fol. 30v]</locus> De siti Iesu in cruce et amaro eius poculo, de quo verbo consummationis et expiratione Jesu.</item>
+ <item style="indent1">De miraculis quod contigerunt in passione domini, et de dira perferatione lateris Jesu.</item>
+ <item style="indent1"><locus type="foliation">[fol. 31r]</locus> De eo quo corpus Jesu iam mortuum tribus horis pependit in cruce.</item>
+ <item style="indent1"><locus type="foliation">[fol. 31v]</locus> De depositione Jesu de cruce et veneranda sepultura eius, et de descensu anime Jesu ab inferna et patrum inde liberatione.</item>
+ <item style="indent1"><locus type="foliation">[fol. 32r]</locus> De gloriosa resurrectione domini Jesu, et eius multiformi apparitione et familiari convictu et loquela cum discipulis.</item>
+ <item style="indent1"><locus type="foliation">[fol. 32v]</locus> De admirabili ascensione domini Jesu.</item>
+ <item style="indent1">De missione sancti spiritus in die sancto penthecostes.</item>
+ <item style="indent1">De sancto adventu domini Jesu ad judicium et de condigna remuneratione et glorificatione justorum et de punitione impiorum.</item>
+ <item style="indent1"><locus type="foliation">[fol. 33r]</locus> Graciarium actiones de singulis beneficiis particularibus alicui homini singulari a deo impensis.</item>
+ </list>
+ <postscript><ab><locus type="foliation">[fol. 33v]</locus> Explicit totus processus de vita passione resurrectione et ascensione domini nostri Jesu Christi necnon spiritus sancti missione. Omnibus quod aliis beneficiis homini a deo collatis.</ab></postscript>
+ </div>
+ <div type="rectotext" xml:lang="en">
+ <ab style="prose-incipit">There follow most devout prayers or contemplations, with pleas of thankfulness for all the benefits given to humankind by God and — especially useful for our redemption — on the Incarnation and Passion of Christ.</ab>
+ <list rend="numbered">
+ <item style="indent1">First is set a prayer exciting the human mind to praise for God.</item>
+ <item style="indent1">Praise for the Holy Trinity in its own right.</item>
+ <item style="indent1">On the creation of heaven and all that is in it.</item>
+ <item style="indent1">On the creation of man and his wretched fall.</item>
+ <item style="indent1">On the renewal of humanity and granting of Christ’s arrival.</item>
+ <item style="indent1">On the redemption of humankind through the mystery of the Incarnation of the Word.</item>
+ <item style="indent1">On the selection of the most glorious Virgin Mary as mother of God and the miraculous conception of Christ.</item>
+ <item style="indent1">On the collaboration of all three divine persons in the mystery of the Incarnation.</item>
+ <item style="indent1">On the virtues of the Blessed Virgin Mary by which she deserved to be mother of the lord.</item>
+ <item style="indent1">On the birth and the poverty of Jesus.</item>
+ <item style="indent1">On the various troublesome hardships of the infant Jesus; on his cries, suckling, and ravenous feeding.</item>
+ <item style="indent1">On the doleful circumcision of the innocent Jesus, and on the new application of his sweetest name.</item>
+ <item style="indent1">On the appearance of Jesus and the devout Oblation of the sainted kings, the Purification of the blessed Mary, and the Presentation of the child Jesus in the Temple.</item>
+ <item style="indent1">On the persecution of Jesus, his flight to Egypt, and the holy innocents murdered by Herod.</item>
+ <item style="indent1">On the discovery of Jesus in the temple, and on his holy and unrecorded life.</item>
+ <item style="indent1">On the baptism of Jesus and his fasting in the desert.</item>
+ <item style="indent1">On the preaching and beneficial teaching of lord Jesus, his glorious signs, examples and good habits, and various tribulations in this world.</item>
+ <item style="indent1">On the resurrection of Lazarus, and the humble entry into the city of Jerusalem on the day of palms, and the expulsion of the traders and the cleansing of the Temple.</item>
+ <item style="indent1">On the conspiracy of the Jews against Christ, and of his selling, his Supper, the most novel washing of feet, and the institution of the sacrament of the Eucharist.</item>
+ <item style="indent1">On the conversation that was held between lord Jesus and the disciples after the Supper.</item>
+ <item style="indent1">On the prayer of Jesus for the disciples and on his departure for the Mount of Olives, on his fear and sadness and threefold prayer to the Father, and his sweating blood.</item>
+ <item style="indent1">On the voluntary journey of Jesus to his Passion, where he was seized through the treachery of Judas, and on the healing of the servant whose ear Peter cut off.</item>
+ <item style="indent1">On the surrendering of Jesus into the hands of his enemies and the flight of the disciples; on his dreadful arrest, accusation and delivery before Annas the priest and Caiaphas, and his being beaten and spat upon.</item>
+ <item style="indent1">On the presentation of Jesus, bound, before Pilate, and his mockery before Herod and his affliction, and on the wicked cries of the Jews “Crucify him,” and his being stripped and beaten.</item>
+ <item style="indent1">On the stripping, mocking, crowning, and beating of the head of Jesus.</item>
+ <item style="indent1">On the unjust condemnation of Jesus to death on the cross.</item>
+ <item style="indent1">On the transportation of the cross to the place of Calvary and the crucifixion of Jesus.</item>
+ <item style="indent1">On the wounding and stretching out of Jesus Christ on the cross, and on his supplication for his enemies.</item>
+ <item style="indent1">On the insults of the Jews and abuses shown to Jesus on the cross, and of the words he spoke to the thief on the cross.</item>
+ <item style="indent1">On the compassion of the Virgin and mother Mary, and his commendation of her to John in return.</item>
+ <item style="indent1">On the vigorous cry of Jesus on the cross, “<foreign>Eloi, eloi, lamma sabacthani</foreign>?” [Aramaic for “My Lord, my Lord, why have you forsaken me?”].</item>
+ <item style="indent1">On the three hours for which Jesus hung still living on the cross, and on the many insults and derisions he endured.</item>
+ <item style="indent1">On the thirst of Jesus on the cross and his cup of bitterness, and on the word <foreign xml:lang="lat">consummatus</foreign> and the death of Jesus.</item>
+ <item style="indent1">On the marvels that occurred during the Passion of the lord, and on the dreadful piercing of the side of Jesus.</item>
+ <item style="indent1">On the body of Jesus which, now dead, hung for three hours on the cross.</item>
+ <item style="indent1">On the deposition of Jesus from the cross and reverence at his tomb, and on the descent of the soul of Jesus to hell and liberation of the patriarchs from that time.</item>
+ <item style="indent1">On the glorious Resurrection of lord Jesus, and his multiple appearances, and intimate association and conversation with the disciples.</item>
+ <item style="indent1">On the miraculous Ascension of the Lord Jesus.</item>
+ <item style="indent1">On the mission of the Holy Spirit on the holy day of Pentecost.</item>
+ <item style="indent1">On the sacred coming of the lord Jesus in judgment, and on the condign reward and glorification of the just, and of the punishment of the wicked.</item>
+ <item style="indent1">Acts of thanksgiving, with regards to particular benefits for any particular person through the generosity of God.</item>
+ </list>
+ <postscript><ab>Here ends the entire progression of the life, Passion, Resurrection, and Ascension of our Lord Jesus Christ, and also the mission of the Holy Spirit. All of the other blessings of man by God have been discussed.</ab></postscript>
+ </div></body></text></TEI>

@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Parsons-Prayer-06-Holkham-Prose-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Holkham Prayers and Meditations</title><author>Unknown</author><editor>Parsons, Ben</editor><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-11" to="2024-05">Audited documents prior to print/export</resp><resp from="2023-02" to="2023-03">Copyedited and proofread</resp><resp from="2023-02" to="2023-03">Entered corrections for print edition</resp><resp from="2023-02" to="2023-03">Formatted for print edition</resp><resp from="2023-02" to="2023-03">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Fein, Susanna</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-03" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2022-04" to="2022-07">Copyedited and proofread</resp><resp from="2022-04" to="2022-07">Ensured adherence to METS Style Guide</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2022-07">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2022-07">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-01" to="2024-05">Audited documents prior to print/export</resp><resp from="2022-09" to="2022-10">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2022-09" to="2024-02">Entered corrections for print edition</resp><resp from="2022-09" to="2022-10">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2023-03" to="2024-02">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2023-11" to="2023-11">Collected metadata</resp><resp from="2022-04" to="2023-03">Copyedited and proofread</resp><resp from="2022-04" to="2024-02">Ensured adherence to METS Style Guide</resp><resp from="2023-11" to="2024-02">Entered corrections for digital edition</resp><resp from="2023-11" to="2024-02">Entered corrections for print edition</resp><resp from="2024-02" to="2024-02">Formatted for XML export</resp><resp from="2022-04" to="2022-07">Reviewed and suggested glosses</resp><resp from="2022-04" to="2023-03">Reviewed edition for consistency and audience</resp><resp from="2022-04" to="2022-07">Reviewed edition for content and scholarship</resp><resp from="2022-04" to="2023-03">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>Daniel Kephart</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>James Norris</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Emmarae Stein</persName><orgName>University of Rochester</orgName><resp>Social Media Manager, Editorial Staff</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Appulby, Simon</author><author>Unknown</author><editor>Parsons, Ben</editor><title>Two Middle English Prayer Cycles: Holkham Prayers and Meditations and Simon Appulby, The Fruyte of Redempcyon</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/parsons-prayer/blob/main/parsons-prayer-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="enm">English, Middle (1100-1500)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Parsons-Prayer-06-Holkham-Prose"/>
+
+ <div type="chapter" n="1"><head type="rubric">The Author’s Prologue</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 1r]</locus> Religious sustir,<note type="tnote-indicator" n="1">T</note>  in as mechil as ye have desirid<note type="enote-indicator" n="1">N</note>  and preyed me divers tymes that I wolde write yow the festis<note target="#1" type="footnotelink">G</note> <note type="tnote-indicator" n="2">T</note>  and the passion of oure lord <persName>Jhesu Crist</persName>,<note type="tnote-indicator" n="3">T</note>  therfore now at this tyme to folwe<note type="tnote-indicator" n="4">T</note>  yowre desire, aftir myn simple conyng,<note target="#2" type="footnotelink">G</note>  I wole writin hem<note target="#3" type="footnotelink">G</note>  to yow, in whiche ye may usen<note type="tnote-indicator" n="5">T</note>  bothe preyeres and meditacions,<note type="tnote-indicator" n="6">T</note>  yef yt<note type="tnote-indicator" n="7">T</note>  liken yow<note target="#4" type="footnotelink">G</note>  to folewe my lewde<note target="#5" type="footnotelink">G</note>  techinges.<note type="tnote-indicator" n="8">T</note>  I make it but schortli,<note target="#6" type="footnotelink">G</note> <note type="enote-indicator" n="2">N</note>  for I hope my<note type="tnote-indicator" n="9">T</note>  lord the Holi Gost wole techin the ovirplus<note target="#7" type="footnotelink">G</note>  bettir than man<note type="tnote-indicator" n="10">T</note>  <locus type="foliation">[fol. 1v]</locus> can devise. And at every preiere I sette a <foreign xml:lang="lat">Pater noster</foreign>,<note target="#8" type="footnotelink">G</note> <note type="enote-indicator" n="3">N</note> as for the most principal preire of alle other prieris, whiche is an abcé<note type="enote-indicator" n="4">N</note>  and former<note target="#9" type="footnotelink">G</note>  of alle other orisons. And also for ye schulde whan ye seie thoo<note target="#10" type="footnotelink">G</note>  wordes “<foreign xml:lang="lat">Fiat voluntas tua</foreign>”<note target="#11" type="footnotelink">G</note> <note type="enote-indicator" n="5">N</note>  to have it deepli in mende, and alwey putte yowr wil in <persName>Godes</persName> wil<note type="enote-indicator" n="6">N</note>  in alle yowre preyeris and desiris. Oure lord that made that preiere makith alle other preieris, for be<note target="#12" type="footnotelink">G</note>  his grace<note type="tnote-indicator" n="11">T</note>  it is doon, and therfore of alle thing that wretin and seide,<note type="enote-indicator" n="7">N</note>  that sownith<note target="#13" type="footnotelink">G</note>  in to goode from<note type="tnote-indicator" n="12">T</note>  onli be the worschepe and preysing.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And I preye<note type="tnote-indicator" n="13">T</note>  yow hertili<note target="#14" type="footnotelink">G</note>  that <locus type="foliation">[fol. 2r]</locus> whanne ye ben in soule presentli<note target="#15" type="footnotelink">G</note>  with yowre spouse that is <persName>Jhesu</persName>, god and man, takith me with yow in yowre preieres. O, myn sustir, preie my lord<note type="tnote-indicator" n="14">T</note>  <persName>God </persName>the Trinité<note type="enote-indicator" n="8">N</note>  that for his gret bounté<note target="#16" type="footnotelink">G</note>  and for his endeles mercy have mercy and pité on me, sinful, and make me a good woman. For ful ofte sinne and wrechidnes withdrawith my gosteli syht<note target="#17" type="footnotelink">G</note>  from his glorious presence, and therfore yow and othere of his special children I preie to purchace me sum grace of that benigne lord in whom al grace is in.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>Fertheremore, sustir, much as a<note type="tnote-indicator" n="15">T</note>  <locus type="foliation">[fol. 2v]</locus> man may se that it is not faire ne semli<note target="#18" type="footnotelink">G</note>  for a gret lord to comyn into a foul hows, but first the hous muste be swepid<note type="enote-indicator" n="9">N</note>  and mad fair and clene and honestli araied;<note target="#19" type="footnotelink">G</note>  rith so<note target="#20" type="footnotelink">G</note>  it is not fair ne<note target="#21" type="footnotelink">G</note>  semli for oure lord <persName>God</persName> to comyn in to oure soule, ne we to make us homly<note target="#22" type="footnotelink">G</note>  with him with famulier<note target="#23" type="footnotelink">G</note>  speche and loving daliaunce,<note target="#24" type="footnotelink">G</note>  yef ony spot of sinne be with inne us wilfulli, til the house of oure conscience be clene swepid be confession and maad fair be contricion, and the soule honestli arraied with meknesse and alle other gostli vertues, or ellis to stonde in <locus type="foliation">[fol. 3r]</locus> good wil and desir to have alle gode vertues. And seke and preie therfore, and be the endeles mercy of oure lord <persName>God</persName> that good wil<note target="#25" type="footnotelink">G</note>  schal been acceptid as for dede,<note target="#26" type="footnotelink">G</note>  yef a man seke besili<note target="#27" type="footnotelink">G</note>  ther-aftir. And whanne we may noyt have oure confessour to be confessid whiche time as we fele us defautife<note target="#28" type="footnotelink">G</note>  with sinnes than must we make a general confession<note type="enote-indicator" n="10">N</note>  to <persName>God</persName>, the wheche general confession may be clepid<note target="#29" type="footnotelink">G</note>  the sweping awey the filthe of oure sinnes<note type="enote-indicator" n="11">N</note>  in a corner. And that with contricion wil be ful helpli<note target="#30" type="footnotelink">G</note>  to us and sufficient, though we have do rith gret <locus type="foliation">[fol. 3v]</locus> defautes,<note target="#31" type="footnotelink">G</note>  til we may be confessid and assoilid;<note target="#32" type="footnotelink">G</note>  and whan we of oure confession be confessid and assoilid, than is the filthe of oure corner clene swept awey. And therfore, my gode sustir, at the beginning of these meditaciones<note type="enote-indicator" n="12">N</note>  and preieres with a contriyt herte and low<note target="#33" type="footnotelink">G</note>  spirit, a fervent wil to amende yow of alle defautis, seith thus to <persName>God</persName> in this wise for a general confession:</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>O holy <persName>God</persName>, miytful<note target="#34" type="footnotelink">G</note>  Trinité, I knoweleche<note target="#35" type="footnotelink">G</note>  to yow that have displesid <locus type="foliation">[fol. 4r]</locus> yow thorw sinne, in whiche I have fallen and sinnyd:<note type="enote-indicator" n="13">N</note>  in pride, in wrathe,<note type="tnote-indicator" n="16">T</note>  in envie, in coveytise,<note target="#36" type="footnotelink">G</note>  in gloteiné, in slewthe, and in lecherie.<note type="enote-indicator" n="14">N</note>  Myne five wittis<note target="#37" type="footnotelink">G</note> <note type="enote-indicator" n="15">N</note>  I have mispendid<note target="#38" type="footnotelink">G</note>  and yowre comaundementis brokyn, and of alle thise sinnes that ye knowe me gilti, in whiche I have sinnid, in wil, word, thought, and ded, wherthorw I have offendid yow, gode lord, benigne <persName>God</persName>. I yelde me coupable<note target="#39" type="footnotelink">G</note>  to yow, besechyng yowr mercy, and preye yow of foryevenes, and oure lady Seinte <persName>Marie</persName> and al the company of <placeName>hevene</placeName>. O glo|riouse <locus type="foliation">[fol. 4v]</locus> Trinité, I woot<note target="#40" type="footnotelink">G</note>  wel that for the grete multitude of sinnes and defautes that is in me I am noght worthi to come in to yowre presence to aske ony boone.<note target="#41" type="footnotelink">G</note>  But the grete multitude of yowre mercy whiche hath noon ende<note type="enote-indicator" n="16">N</note>  ne noumbre, that grauntid the woman of <placeName>Caninee</placeName><note type="enote-indicator" n="17">N</note>  the preiere that sche besoughte, and to many anothir also opinli han schewid yowre mercy, and noght onli for hem, but also for<note target="#42" type="footnotelink">G</note>  alle sinful that wole forsake here<note target="#43" type="footnotelink">G</note>  sinnes schulde trustli<note target="#44" type="footnotelink">G</note>  ful hope to yowre mercy. Lord, ful of pité, this makith me hardy<note target="#45" type="footnotelink">G</note>  to preie and speke to yow, putting alwey <locus type="foliation">[fol. 5r]</locus> my wil to yowre wil in al myn asking. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><note type="enote-indicator" n="18">N</note> <foreign xml:lang="lat"> gratia</foreign>.<note target="#46" type="footnotelink">G</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="1"><space rend="indent1"/><gloss>holy days</gloss></note>
+ 
+ 
+ <note type="footnote" n="2"><space rend="indent1"/><gloss>understanding</gloss></note>
+ 
+ 
+ <note type="footnote" n="3"><space rend="indent1"/><gloss>them, referring back to “the festis and the passion”</gloss></note>
+ 
+ 
+ <note type="footnote" n="4"><space rend="indent1"/>yef yt liken yow, <gloss>if it please you</gloss></note>
+ 
+ 
+ <note type="footnote" n="5"><space rend="indent1"/><gloss>unlearned</gloss></note>
+ 
+ 
+ <note type="footnote" n="6"><space rend="indent1"/><gloss>in brief</gloss></note>
+ 
+ 
+ <note type="footnote" n="7"><space rend="indent1"/><gloss>remainder</gloss></note>
+ 
+ 
+ <note type="footnote" n="8"><space rend="indent1"/>Pater noster, <gloss>the Lord’s Prayer</gloss></note>
+ 
+ 
+ <note type="footnote" n="9"><space rend="indent1"/><gloss>guide (template)</gloss></note>
+ 
+ 
+ <note type="footnote" n="10"><space rend="indent1"/><gloss>those</gloss></note>
+ 
+ 
+ <note type="footnote" n="11"><space rend="indent1"/>Fiat voluntas tua, <gloss>“Thy will be done”</gloss></note>
+ 
+ 
+ <note type="footnote" n="12"><space rend="indent1"/><gloss>by</gloss></note>
+ 
+ 
+ <note type="footnote" n="13"><space rend="indent1"/><gloss>leads</gloss></note>
+ 
+ 
+ <note type="footnote" n="14"><space rend="indent1"/><gloss>from the heart</gloss></note>
+ 
+ 
+ <note type="footnote" n="15"><space rend="indent1"/><gloss>in person</gloss></note>
+ 
+ 
+ <note type="footnote" n="16"><space rend="indent1"/><gloss>benevolence</gloss></note>
+ 
+ 
+ <note type="footnote" n="17"><space rend="indent1"/>gosteli syht, <gloss>spiritual vision</gloss></note>
+ 
+ 
+ <note type="footnote" n="18"><space rend="indent1"/><gloss>appropriate</gloss></note>
+ 
+ 
+ <note type="footnote" n="19"><space rend="indent1"/>honestli araied, <gloss>properly supplied</gloss></note>
+ 
+ 
+ <note type="footnote" n="20"><space rend="indent1"/>rith so, <gloss>in the same way</gloss></note>
+ 
+ 
+ <note type="footnote" n="21"><space rend="indent1"/><gloss>nor</gloss></note>
+ 
+ 
+ <note type="footnote" n="22"><space rend="indent1"/><gloss>intimately</gloss></note>
+ 
+ 
+ <note type="footnote" n="23"><space rend="indent1"/><gloss>as though closely acquainted</gloss></note>
+ 
+ 
+ <note type="footnote" n="24"><space rend="indent1"/><gloss>communion</gloss></note>
+ 
+ 
+ <note type="footnote" n="25"><space rend="indent1"/><gloss>intent</gloss></note>
+ 
+ 
+ <note type="footnote" n="26"><space rend="indent1"/>as for dede, <gloss>done in fact</gloss></note>
+ 
+ 
+ <note type="footnote" n="27"><space rend="indent1"/><gloss>scrupulously</gloss></note>
+ 
+ 
+ <note type="footnote" n="28"><space rend="indent1"/><gloss>at fault</gloss></note>
+ 
+ 
+ <note type="footnote" n="29"><space rend="indent1"/><gloss>called</gloss></note>
+ 
+ 
+ <note type="footnote" n="30"><space rend="indent1"/><gloss>beneficial</gloss></note>
+ 
+ 
+ <note type="footnote" n="31"><space rend="indent1"/>rith gret defautes, <gloss>very great faults</gloss></note>
+ 
+ 
+ <note type="footnote" n="32"><space rend="indent1"/><gloss>absolved</gloss></note>
+ 
+ 
+ <note type="footnote" n="33"><space rend="indent1"/><gloss>humble</gloss></note>
+ 
+ 
+ <note type="footnote" n="34"><space rend="indent1"/><gloss>all-powerful</gloss></note>
+ 
+ 
+ <note type="footnote" n="35"><space rend="indent1"/><gloss>acknowledge</gloss></note>
+ 
+ 
+ <note type="footnote" n="36"><space rend="indent1"/><gloss>avarice</gloss></note>
+ 
+ 
+ <note type="footnote" n="37"><space rend="indent1"/><gloss>senses</gloss></note>
+ 
+ 
+ <note type="footnote" n="38"><space rend="indent1"/><gloss>squandered</gloss></note>
+ 
+ 
+ <note type="footnote" n="39"><space rend="indent1"/><gloss>responsible</gloss></note>
+ 
+ 
+ <note type="footnote" n="40"><space rend="indent1"/><gloss>know</gloss></note>
+ 
+ 
+ <note type="footnote" n="41"><space rend="indent1"/>ony boone, <gloss>any favor</gloss></note>
+ 
+ 
+ <note type="footnote" n="42"><space rend="indent1"/><gloss>because</gloss></note>
+ 
+ 
+ <note type="footnote" n="43"><space rend="indent1"/><gloss>their</gloss></note>
+ 
+ 
+ <note type="footnote" n="44"><space rend="indent1"/><gloss>faithfully</gloss></note>
+ 
+ 
+ <note type="footnote" n="45"><space rend="indent1"/><gloss>boldly</gloss></note>
+ 
+ 
+ <note type="footnote" n="46"><space rend="indent1"/>Ave Maria gratia, <gloss>Hail Mary, (full of) grace</gloss></note>
+ 
+ </div><div type="chapter" n="2"><head type="rubric">1: Prayer for Grace</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Blisful Trinité, worchepid and thankith, glorified and magnified mote ye ever be for alle yowre holy vertues, and for alle yowre worthi names,<note type="enote-indicator" n="19">N</note>  and for alle yowr willes<note target="#47" type="footnotelink">G</note>  and werkis. A! goode lord, teche me and make me to thanke yow and magnifie yow in yowr festes, and mekeli to have in mende the grete dedes that ye have for al mankinde, and also the grete peines that yowr manhed<note target="#48" type="footnotelink">G</note>  suffrede here for oure love. O Holi Trinité, in reverence and remembraunce<note type="enote-indicator" n="20">N</note>  of yow: <foreign xml:lang="lat">Pater noster</foreign>. <locus type="foliation">[fol. 5v]</locus> <foreign xml:lang="lat">Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="47"><space rend="indent1"/><gloss>wishes</gloss></note>
+ 
+ 
+ <note type="footnote" n="48"><space rend="indent1"/><gloss>incarnated body</gloss></note>
+ 
+ </div><div type="chapter" n="3"><head type="rubric">2: The Annunciation</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, <persName>God</persName> ful of myht, that ye sente yowre gracious<note target="#49" type="footnotelink">G</note>  message<note type="enote-indicator" n="21">N</note> be the aungel <persName>Gabriel</persName> to the virgine <persName>Marie</persName>. O lady, for the grete joye<note type="enote-indicator" n="22">N</note>  that ye hadde in the salutacion whan <persName>Gabriel</persName> yow grette<note target="#50" type="footnotelink">G</note>  and seide that <persName>Godis</persName> sone schulde be born of yow. Preye my lord the Trinité to foryeve me my sinnes, al be love and in love, and make me to lovyn al that he loveth and hate al that he hatith.<note type="enote-indicator" n="23">N</note>  <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="49"><space rend="indent1"/><gloss>imparting God’s grace</gloss></note>
+ 
+ 
+ <note type="footnote" n="50"><space rend="indent1"/><gloss>greeted</gloss></note>
+ 
+ </div><div type="chapter" n="4"><head type="rubric">3: The Incarnation</head>
+ <ab><milestone n="1" unit="prose-textblock"/>O benigne lord, I thanke and magnifie yow, that ye toke flesche and blod<note type="enote-indicator" n="24">N</note>  of that glorious <locus type="foliation">[fol. 6r]</locus> virgine <persName>Marie</persName> for manes soule redempcion. A! ladi, for the greite joyye that ye hadde at al times whanne ye, swete mayde, felt hym stere<note target="#51" type="footnotelink">G</note>  in yowre precious wombe<note type="enote-indicator" n="25">N</note>  knowing wel that he was verray<note target="#52" type="footnotelink">G</note>  <persName>Goddes</persName> sone. Preie to my lord the Trinité that he make myn soule and herte clene that I myhte fele hym stere in me be hys devine grace. <foreign xml:lang="lat">Pater noster</foreign>. <foreign xml:lang="lat">Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="51"><space rend="indent1"/><gloss>stir</gloss></note>
+ 
+ 
+ <note type="footnote" n="52"><space rend="indent1"/><gloss>truly</gloss></note>
+ 
+ </div><div type="chapter" n="5"><head type="rubric">4: The Visitation</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, graciouse quene of <placeName>hevene</placeName> and <placeName>erthe</placeName>, and empresse of <placeName>helle</placeName>,<note type="enote-indicator" n="26">N</note>  that wente to seinte <persName>Elizabeth</persName> yow cosine<note target="#53" type="footnotelink">G</note> <note type="enote-indicator" n="27">N</note>  and tolde here goode tidinges, and sche <locus type="foliation">[fol. 6v]</locus> also tolde yow here joye.<note type="enote-indicator" n="28">N</note>  And thanne ye bothyn<note target="#54" type="footnotelink">G</note>  thankid and magnified <persName>God</persName> for his yeftis<note target="#55" type="footnotelink">G</note>  of grace, and ye lady madin the psalme of <foreign xml:lang="lat">Magnificat</foreign><note type="enote-indicator" n="29">N</note>  at that time. O virgine, preie yowr sone, my lord <placeName>hevene</placeName> kyng, that he sende me alwey good cumpanie and holi comunicacion<note target="#56" type="footnotelink">G</note> <note type="enote-indicator" n="30">N</note>  in whiche we may in gret reverence thanke and magnifie that Trinité for alle his beenfetes.<note target="#57" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="53"><space rend="indent1"/><gloss>kinswoman</gloss></note>
+ 
+ 
+ <note type="footnote" n="54"><space rend="indent1"/><gloss>both</gloss></note>
+ 
+ 
+ <note type="footnote" n="55"><space rend="indent1"/><gloss>gifts</gloss></note>
+ 
+ 
+ <note type="footnote" n="56"><space rend="indent1"/><gloss>fellowship</gloss></note>
+ 
+ 
+ <note type="footnote" n="57"><space rend="indent1"/><gloss>gifts (favors)</gloss></note>
+ 
+ </div><div type="chapter" n="6"><head type="rubric">5: The Nativity</head>
+ <ab><milestone n="1" unit="prose-textblock"/>O blisful <persName>Jhesu</persName>, I thanke and magnifie yowre gloriouse birthe,<note type="enote-indicator" n="31">N</note>  whiche was clene in al pureté, and for yowre holi innocence. <locus type="foliation">[fol. 7r]</locus> O dere worthi lord, graunte me grace to have clennesse and pureté of bodi and soule. Putte awey fro myn herte alle angres,<note type="enote-indicator" n="32">N</note>  and rancour, alle evil conseitis<note target="#58" type="footnotelink">G</note>  and evil ymaginacions and conjectinges,<note target="#59" type="footnotelink">G</note>  and make me milde<note target="#60" type="footnotelink">G</note> <note type="tnote-indicator" n="17">T</note>  and meke, pacient and benigne<note target="#61" type="footnotelink">G</note>  that I may vertuousli love and serve yow, <persName>Jhesu God</persName> in whom arn alle vertues. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="58"><space rend="indent1"/><gloss>opinions</gloss></note>
+ 
+ 
+ <note type="footnote" n="59"><space rend="indent1"/><gloss>fantasies</gloss></note>
+ 
+ 
+ <note type="footnote" n="60"><space rend="indent1"/><gloss>humble</gloss></note>
+ 
+ 
+ <note type="footnote" n="61"><space rend="indent1"/><gloss>kind</gloss></note>
+ 
+ </div><div type="chapter" n="7"><head type="rubric">6: The Annunciation to the Shepherds</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Mercyful <persName>Jhesu</persName>, I thanke and magnifie yow for the song that the aungelis sungen: “<foreign xml:lang="lat">Gloria in excelsis </foreign><persName><foreign xml:lang="lat">deo</foreign></persName><foreign xml:lang="lat"> et in terra pax</foreign>.”<note target="#62" type="footnotelink">G</note> <note type="enote-indicator" n="33">N</note>  O goode lord, have mercy and pité on alle yowre creatures of this <placeName>erthe</placeName> whi|che <locus type="foliation">[fol. 7v]</locus> is yowre wil to be preied fore. Alle rithful livers,<note target="#63" type="footnotelink">G</note>  yeve<note target="#64" type="footnotelink">G</note>  hem good perseveraunce, and encres<note target="#65" type="footnotelink">G</note>  of grace and vertues; and alle sinful liveres, amende hem of here sinne and drawe hem to goodnesse. A! debonour<note target="#66" type="footnotelink">G</note>  <persName>God Jhesu</persName>, graunte grace, pees, and unité, love and charité among al Cristene peple, and sende perfit pees in to my soule that I may pesibeli<note target="#67" type="footnotelink">G</note>  resten in yowre bounté. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="62"><space rend="indent1"/>Gloria in excelsis deo in terra pax, <gloss>“Glory to God on high and peace on earth”</gloss></note>
+ 
+ 
+ <note type="footnote" n="63"><space rend="indent1"/>rithful livers, <gloss>those who live righteously</gloss></note>
+ 
+ 
+ <note type="footnote" n="64"><space rend="indent1"/><gloss>give</gloss></note>
+ 
+ 
+ <note type="footnote" n="65"><space rend="indent1"/><gloss>increase</gloss></note>
+ 
+ 
+ <note type="footnote" n="66"><space rend="indent1"/><gloss>gentle</gloss></note>
+ 
+ 
+ <note type="footnote" n="67"><space rend="indent1"/><gloss>peaceably</gloss></note>
+ 
+ </div><div type="chapter" n="8"><head type="rubric">7: Adoration of the Shepherds</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Myhtful <persName>Jhesu</persName>, I thanke and magnifie yow that thorw exciting<note target="#68" type="footnotelink">G</note>  of angelis the schepherdes wentin and worchepidin yow.<note type="enote-indicator" n="34">N</note>  O goode lord, have mercy on <locus type="foliation">[fol. 8r]</locus> alle yowre schepherdes of holi chirche: the pope, and alle the cardinalis,<note type="tnote-indicator" n="18">T</note>  archibisschopes, bisschopes, prelates, and curates, and alle that any have to reule and to governe. Yeve hem grace, gloriouse lord <persName>God</persName>, so to governe here owin soulis, and also hem alle that thei have in governaunce, as most may be worchepe and plesing to yow, and profit to here soulis. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="68"><space rend="indent1"/><gloss>direction (urging)</gloss></note>
+ 
+ </div><div type="chapter" n="9"><head type="rubric">8: The Circumcision</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jesu</persName>, ful of comforte and joye, I thanke and magnifie yow for yowre holy circumcision.<note type="enote-indicator" n="35">N</note>  O goode lord, yong ye felt peyne. Ful yong and tendere ye were at that tyme <locus type="foliation">[fol. 8v]</locus> whan ye were circumcisid, where that ye schadden<note target="#69" type="footnotelink">G</note>  first yowre precious blod.<note type="enote-indicator" n="36">N</note>  A! swete <persName>Jhesu</persName>, with that precious blod and peine, clense and hele my sinful soule, and thorw yowr goodnes foryeve me alle the sinnes that I dede in my yonge age and childhood. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="69"><space rend="indent1"/><gloss>shed</gloss></note>
+ 
+ </div><div type="chapter" n="10"><head type="rubric">9: Adoration of the Magi</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Glorious <persName>Jhesu</persName>, I thanke and magnifie yow: worchepid and magnified be ye evirmore that the thre kynges presentid yow<note type="enote-indicator" n="37">N</note>  with thre presentis, in whiche was gret signifiaunce.<note target="#70" type="footnotelink">G</note> <note type="enote-indicator" n="38">N</note>  A! Holi Trinité, to yow I offere alle Cristen kinges and emperoures: for yowre gret pité receive hem alle in to yowre mercy, <locus type="foliation">[fol. 9r]</locus> fulfille<note target="#71" type="footnotelink">G</note>  hem with yowr vertues<note type="tnote-indicator" n="19">T</note>  and graunte grace so to reule hem self and here temys<note target="#72" type="footnotelink">G</note>  as most may be most plesable to yow. O myhtful <persName>God</persName>, speciali I preie yow to kepe and love, reule and counseile oure kyng:<note type="enote-indicator" n="39">N</note>  fulfille hym with yowre Holi Goost and yeve hym good sped<note target="#73" type="footnotelink">G</note>  in alle his werkes, and make hym to withstonde and eschewe al that in any wise myhte displese yow. Holy <persName>God</persName>, sende hym myht and strengthe to have the victorie of all his gostli and bodily enemys, and yeve hym good lif and longe, and graunte so to love<note type="tnote-indicator" n="20">T</note>  yow that whanne he departith from this <placeName>world</placeName> his soule may <locus type="foliation">[fol. 9v]</locus> soone be receivid in to yowre presence, where everlasting lif is and blisse. O swete lord, to yow I presente my soule, body, and herte, the king of al richesse<note target="#74" type="footnotelink">G</note>  that been so free<note target="#75" type="footnotelink">G</note>  and large.<note target="#76" type="footnotelink">G</note>  Make my pore yefte riche with yowr holi vertues, make it holy and good and receive it for yowre greet curteisy.<note target="#77" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="70"><space rend="indent1"/><gloss>symbolism</gloss></note>
+ 
+ 
+ <note type="footnote" n="71"><space rend="indent1"/><gloss>imbue</gloss></note>
+ 
+ 
+ <note type="footnote" n="72"><space rend="indent1"/><gloss>heirs (progeny)</gloss></note>
+ 
+ 
+ <note type="footnote" n="73"><space rend="indent1"/><gloss>success</gloss></note>
+ 
+ 
+ <note type="footnote" n="74"><space rend="indent1"/><gloss>splendor</gloss></note>
+ 
+ 
+ <note type="footnote" n="75"><space rend="indent1"/><gloss>generous</gloss></note>
+ 
+ 
+ <note type="footnote" n="76"><space rend="indent1"/><gloss>liberal</gloss></note>
+ 
+ 
+ <note type="footnote" n="77"><space rend="indent1"/><gloss>beneficence</gloss></note>
+ 
+ </div><div type="chapter" n="11"><head type="rubric">10: The Presentation</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName> ful of benignité,<note target="#78" type="footnotelink">G</note>  I thanke and magnifie yow that ye were on <date>Candelmasse day</date><note type="enote-indicator" n="40">N</note>  offrid to yowre holy fadir of <placeName>hevene</placeName> in the temple,<note type="enote-indicator" n="41">N</note>  where that seint <persName>Symeon</persName> receivid yow in hys armes, and made the psalme “<foreign xml:lang="lat">Nunc dimittis</foreign>.”<note target="#79" type="footnotelink">G</note> <note type="enote-indicator" n="42">N</note>  O good lord receive alle <locus type="foliation">[fol. 10r]</locus> oure preieris, wepinges, desires and longinges maade to yow, and alle oure assercions<note target="#80" type="footnotelink">G</note>  that we offre to yow, as ye were receivid and acceptid of <persName>God</persName> yowre fadir and of seint <persName>Symeon</persName>. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="78"><space rend="indent1"/><gloss>kindness</gloss></note>
+ 
+ 
+ <note type="footnote" n="79"><space rend="indent1"/>Nunc dimittis, <gloss>“Now you dismiss”</gloss></note>
+ 
+ 
+ <note type="footnote" n="80"><space rend="indent1"/><gloss>declarations</gloss></note>
+ 
+ </div><div type="chapter" n="12"><head type="rubric">11: The Flight and Return</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gracious <persName>Jhesu</persName>, I thanke and magnifie yow that ye wer aftir that tyme flemid<note target="#81" type="footnotelink">G</note>  in to <placeName>Egypte</placeName>;<note type="enote-indicator" n="43">N</note>  and whanne <persName>Herodes</persName> was deed, ye wer<note type="tnote-indicator" n="21">T</note>  clepid<note target="#82" type="footnotelink">G</note>  hom ayen of <persName>God </persName>yowr fadir be his aungel.<note type="enote-indicator" n="44">N</note>  O myhtful Trinité, whan we be flemid fro yow thorw sinne and ignoraunce, clepe us sone hom ayen to yow be wey of rithful levyng.<note target="#83" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="81"><space rend="indent1"/><gloss>fled</gloss></note>
+ 
+ 
+ <note type="footnote" n="82"><space rend="indent1"/><gloss>called</gloss></note>
+ 
+ 
+ <note type="footnote" n="83"><space rend="indent1"/><gloss>living</gloss></note>
+ 
+ </div><div type="chapter" n="13"><head type="rubric">12: The Holy Family</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 10v]</locus> Merciful <persName>Jhesu</persName>, I thanke and magnifie yow for al the lowli service that ye, meke <persName>Jhesu</persName>, dede to my lady yowre blissid modir, and also to hym that was clepid yowre fadir <persName>Joseph</persName>. Also swete <persName>Jhesu</persName>, I yelde yow thankinges that ye were alwey to hym buxum<note target="#84" type="footnotelink">G</note> <note type="enote-indicator" n="45">N</note>  and debonore. O goode lord, Holi Trinité, make me ever to be lowli and buxum to yow and to my soveraynes<note target="#85" type="footnotelink">G</note>  for yow, in wil, word, thouyt and deede. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="84"><space rend="indent1"/><gloss>obedient</gloss></note>
+ 
+ 
+ <note type="footnote" n="85"><space rend="indent1"/><gloss>superiors</gloss></note>
+ 
+ </div><div type="chapter" n="14"><head type="rubric">13: The Infancy of Jesus</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Dere worthi <persName>Jhesu</persName>, I thanke and magnifie yow for alle the yeres of yowre age. O goode <locus type="foliation">[fol. 11r]</locus> lord, with the yeres of yowre vertuous levinge,<note type="enote-indicator" n="46">N</note>  restore and fulfille alle the yeres that I have dispendid<note target="#86" type="footnotelink">G</note>  in sinne, and yeve me grace hensforth to spende every yer, day and houre vertuousli,<note type="tnote-indicator" n="22">T</note>  as most may be to yow plesing. And al that fautith<note target="#87" type="footnotelink">G</note>  in me of gostli<note type="tnote-indicator" n="23">T</note>  vertues and of wel spending of tyme, youre gracious bounté fulfille it for me. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="86"><space rend="indent1"/><gloss>frittered away</gloss></note>
+ 
+ 
+ <note type="footnote" n="87"><space rend="indent1"/><gloss>falls short</gloss></note>
+ 
+ </div><div type="chapter" n="15"><head type="rubric">14: The Joys of the Virgin</head>
+ <ab><milestone n="1" unit="prose-textblock"/>O mayde and modir,<note type="enote-indicator" n="47">N</note>  blissid lady <persName>Marie</persName>, for alle the grete joyes<note type="enote-indicator" n="48">N</note>  that ye hadden here on <placeName>erthe</placeName> of youre dere beloved sone, and have now in <placeName>hevene</placeName> of his glorious presence. Lady, pray my lord the <locus type="foliation">[fol. 11v]</locus> Trinité that have mercy on me, and make me a good woman, and graunte me grace that I may alwey be more preysable<note target="#88" type="footnotelink">G</note>  to the siht of hym than to the siht of the peple, in reverence and remembrance, lady, of alle youre joyes. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="88"><space rend="indent1"/><gloss>commendable</gloss></note>
+ 
+ </div><div type="chapter" n="16"><head type="rubric">15: The Finding in the Temple</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Mihtful <persName>Jhesu</persName>, I thanke and magnifie yow that ye tauhte in the temple the maystres<note type="enote-indicator" n="49">N</note>  of the Phariseis in youre yonge age that thei alle wondrede<note target="#89" type="footnotelink">G</note>  of youre wit and wisdom, for that tyme, blissid <persName>Jhesu</persName>, ye were but twelve yer old. O goode lorde ful of grace, I preie yow with my pore herte that ye yeve hem alle grace <locus type="foliation">[fol. 12r]</locus> of wit and wisdom that prechin and thechin<note target="#90" type="footnotelink">G</note>  youre word, and fulfille hem so with the goodnes of youre Holi Gost that here<note target="#91" type="footnotelink">G</note>  wordes mowen<note target="#92" type="footnotelink">G</note>  vertuousli entren in to the soules that hereth<note type="tnote-indicator" n="24">T</note>  it, where thorw thei mowen hate synne and eschewe it, and yeve hem to good lif. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="89"><space rend="indent1"/><gloss>wondered</gloss></note>
+ 
+ 
+ <note type="footnote" n="90"><space rend="indent1"/><gloss>teach</gloss></note>
+ 
+ 
+ <note type="footnote" n="91"><space rend="indent1"/><gloss>their</gloss></note>
+ 
+ 
+ <note type="footnote" n="92"><space rend="indent1"/><gloss>might</gloss></note>
+ 
+ </div><div type="chapter" n="17"><head type="rubric">16: The Sorrows of Mary</head>
+ <ab><milestone n="1" unit="prose-textblock"/>A, goode lady, gloriouse virgine, than was youre herte ful woo and sorweful whan ye hadde lost youre dere swete sone<note type="enote-indicator" n="50">N</note>  three dayes, and cowden<note target="#93" type="footnotelink">G</note>  not finde hym. O lady, for that sorwe, and for the grete sorwis<note type="enote-indicator" n="51">N</note>  and compassion that ye hadden<note type="tnote-indicator" n="25">T</note>  of al the woo and peynys<note target="#94" type="footnotelink">G</note>  <locus type="foliation">[fol. 12v]</locus> that he in this wrechid <placeName>world</placeName> suffrid: have pité, lady, and compassion of alle that stonden in tribulacion and temptacions. And preie my lord the Trinité, in whom is al myht and power, to do what he wole in <placeName>hevene</placeName>, <placeName>erthe</placeName> and <placeName>helle</placeName>, that for his endeles mercy sende hem alleggeaunce<note target="#95" type="footnotelink">G</note>  of peynes and grace of victorie that thei be not overcome in here temptacions and tribulacions, and yeve hem strengthe and comfort of the Holy Gost. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="93"><space rend="indent1"/><gloss>could</gloss></note>
+ 
+ 
+ <note type="footnote" n="94"><space rend="indent1"/><gloss>pains</gloss></note>
+ 
+ 
+ <note type="footnote" n="95"><space rend="indent1"/><gloss>relief</gloss></note>
+ 
+ </div><div type="chapter" n="18"><head type="rubric">17: The Marriage at Cana</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName> ful of alle vertues, I thanke and magnifie yow that ye at the preiere of youre gloriouse modir <locus type="foliation">[fol. 13r]</locus> turnid watir to wyn.<note type="enote-indicator" n="52">N</note>  O goode lord, for that lady love betwene whose preciouse sides fourty wikes<note target="#96" type="footnotelink">G</note>  ye lay, and aftir youre birthe ful tendirli kept yow and nurschede<note target="#97" type="footnotelink">G</note>  yow and fedde yow with swete mylke, graunte me continually youre grace and turne my vices in to vertues. O blisful <persName>Jhesu</persName>, for youre endeles mercy stable<note target="#98" type="footnotelink">G</note>  my mende in al goodnesse and festene<note target="#99" type="footnotelink">G</note>  my herte to yow and make me evere to liven rithfulli aftir youre wil and plesing. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="96"><space rend="indent1"/><gloss>weeks</gloss></note>
+ 
+ 
+ <note type="footnote" n="97"><space rend="indent1"/><gloss>nourished</gloss></note>
+ 
+ 
+ <note type="footnote" n="98"><space rend="indent1"/><gloss>establish</gloss></note>
+ 
+ 
+ <note type="footnote" n="99"><space rend="indent1"/><gloss>fasten</gloss></note>
+ 
+ </div><div type="chapter" n="19"><head type="rubric">18: The Baptism</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Benigne <persName>Jhesu</persName>, I thanke and magnifie yow for youre holy bapteme<note type="enote-indicator" n="53">N</note>  that ye were baptisid of <locus type="foliation">[fol. 13v]</locus> Seint <persName>Johnn</persName> in the water of <placeName>flome Jordan</placeName>.<note target="#100" type="footnotelink">G</note>  A! good lord <persName>Jhesu</persName>, there the Holi Gost with hevenli lith<note target="#101" type="footnotelink">G</note>  alihted on yow,<note type="enote-indicator" n="54">N</note>  and the voys of <persName>God</persName> the fadir seide to yow:<note type="enote-indicator" n="55">N</note>  “Thow art my dere sone of whom I am wel apaied.”<note target="#102" type="footnotelink">G</note>  O mihtful <persName>God</persName>, the bapteme of youre holy sone: restore oure bapteme that we have thorw sinne brokin. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="100"><space rend="indent1"/><gloss>river</gloss></note>
+ 
+ 
+ <note type="footnote" n="101"><space rend="indent1"/><gloss>light</gloss></note>
+ 
+ 
+ <note type="footnote" n="102"><space rend="indent1"/><gloss>pleased</gloss></note>
+ 
+ </div><div type="chapter" n="20"><head type="rubric">19: The Temptation</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Merciful <persName>Jhesu</persName>, I thanke and magnifie yow for the grete fastinges that ye fourti daies fastid.<note type="enote-indicator" n="56">N</note>  And also I yelde yow thankinges, swete <persName>Jhesu</persName>, that ope<note target="#103" type="footnotelink">G</note>  the time of yowre abstinence ye suffrede the fend to tempte yow whan ye <locus type="foliation">[fol. 14r]</locus> were solitarie in desert,<note type="enote-indicator" n="57">N</note>  in comfort of us that been temptid. O goode lord, have pité and compassion on hem alle that wilfulli for youre love beith solitarie: ancres, reclusis, and hermites, and alle estatis reclusid.<note target="#104" type="footnotelink">G</note>  Fulfille hem with perfiyth grace that thei may leven<note target="#105" type="footnotelink">G</note>  vertuousli, and yeve hem myht and strengthe to wistonde alle temptacions of the flesch, of the <placeName>world</placeName>, and of the feend.<note type="enote-indicator" n="58">N</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="103"><space rend="indent1"/><gloss>at (during)</gloss></note>
+ 
+ 
+ <note type="footnote" n="104"><space rend="indent1"/><gloss>enclosed (cloistered)</gloss></note>
+ 
+ 
+ <note type="footnote" n="105"><space rend="indent1"/><gloss>live</gloss></note>
+ 
+ </div><div type="chapter" n="21"><head type="rubric">20: The Penance of Jesus</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gloriouse <persName>Jhesu</persName>, I thanke and magnifie yow for alle your grete wakinges, and for alle the grete hunger, thurst, and cold and hard lyynges, and bare foot goinges<note type="enote-indicator" n="59">N</note>  that <locus type="foliation">[fol. 14v]</locus> ye, debonere <persName>Jhesu</persName>, in this wepyng valeie<note type="enote-indicator" n="60">N</note>  nyht and day suffrid. A! lord <persName>Jhesu</persName>, what nede hadde ye that were so pure and good to doon penaunce? Sothli ye nedid not as for yow self, for ye agilt<note target="#106" type="footnotelink">G</note>  nevere for which ye schulden don ony penaunce. But love only constreinyd yow to doon it for oure nede and helthe, for elles we hadde not be sufficient to don penaunce as we for oure sinnes deserve. Also merciful <persName>Jhesu</persName>, ye dede it to exite<note target="#107" type="footnotelink">G</note>  us to do the same, for ye yaf<note target="#108" type="footnotelink">G</note>  us emsaumple<note target="#109" type="footnotelink">G</note>  to doon penaunce for your love as ye deden for oure.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Penaunce is to us ful profitable and gretli plesith yow, <locus type="foliation">[fol. 15r]</locus> for holy writ seith that hevene aprochith to the penitentis.<note type="enote-indicator" n="61">N</note>  Penaunce with preiere and contricion is weye<note target="#110" type="footnotelink">G</note>  and ledere<note target="#111" type="footnotelink">G</note> <note type="enote-indicator" n="62">N</note>  to gete us grace of yow and foryenesse<note target="#112" type="footnotelink">G</note>  of oure sinnes. Penaunce discreteli<note target="#113" type="footnotelink">G</note>  doon is oure sacrifise to yow for oure misdedis, and be youre mercyful goodnesse it clensith us of oure sinnes and relesith us of grete peynes that we schulde have in <placeName>purgatorie</placeName>,<note type="enote-indicator" n="63">N</note>  and so the sonere to be with you in everlasting blisse. O Holi Trinité, sithin that penaunce is so plesing to yow and is weie<note target="#114" type="footnotelink">G</note> <note type="tnote-indicator" n="26">T</note>  and meene<note target="#115" type="footnotelink">G</note>  to bringe us to youre love, make me to do penaunce so that I may thorw <locus type="foliation">[fol. 15v]</locus> youre grace make dewe satisfaction for my sinnes with preiere, penaunce, and contricion and with alle other goode dedis profith<note target="#116" type="footnotelink">G</note>  groundid in yow. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="106"><space rend="indent1"/><gloss>were guilty</gloss></note>
+ 
+ 
+ <note type="footnote" n="107"><space rend="indent1"/><gloss>inspire</gloss></note>
+ 
+ 
+ <note type="footnote" n="108"><space rend="indent1"/><gloss>gave</gloss></note>
+ 
+ 
+ <note type="footnote" n="109"><space rend="indent1"/><gloss>example</gloss></note>
+ 
+ 
+ <note type="footnote" n="110"><space rend="indent1"/><gloss>manner (road)</gloss></note>
+ 
+ 
+ <note type="footnote" n="111"><space rend="indent1"/><gloss>guide (ladder)</gloss></note>
+ 
+ 
+ <note type="footnote" n="112"><space rend="indent1"/><gloss>forgiveness</gloss></note>
+ 
+ 
+ <note type="footnote" n="113"><space rend="indent1"/><gloss>thoughtfully</gloss></note>
+ 
+ 
+ <note type="footnote" n="114"><space rend="indent1"/><gloss>highway</gloss></note>
+ 
+ 
+ <note type="footnote" n="115"><space rend="indent1"/><gloss>method</gloss></note>
+ 
+ 
+ <note type="footnote" n="116"><space rend="indent1"/><gloss>prove</gloss></note>
+ 
+ </div><div type="chapter" n="22"><head type="rubric">21: The Manners and Gaze of the Lord</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gracious <persName>Jhesu</persName>, I thanke and magnifie yow for alle your holi maneres, cheres, cuntenaunces,<note target="#117" type="footnotelink">G</note>  and for alle youre graciouses lokynges of youre pitable yen.<note target="#118" type="footnotelink">G</note>  I yelde yow thankynges with myn poure herte. O myhtful Trinité, governe ever more myne maneres, cheres, cuntenaunces, and myn yen syghte<note target="#119" type="footnotelink">G</note>  so that it be alwey meke, devout and benigne, and yeve me grace, glorious <persName>God</persName>, so <locus type="foliation">[fol. 16r]</locus> deepli to wade vertuousli in youre swete love that ye be continualy in myn thowgth<note target="#120" type="footnotelink">G</note>  and I therwith evere to be glad withoutyn dissolucion,<note target="#121" type="footnotelink">G</note>  and sobre<note target="#122" type="footnotelink">G</note>  withoute hevynesse.<note target="#123" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="117"><space rend="indent1"/><gloss>facial expressions</gloss></note>
+ 
+ 
+ <note type="footnote" n="118"><space rend="indent1"/><gloss>eyes</gloss></note>
+ 
+ 
+ <note type="footnote" n="119"><space rend="indent1"/>yen syghte, <gloss>eyesight</gloss></note>
+ 
+ 
+ <note type="footnote" n="120"><space rend="indent1"/><gloss>thought</gloss></note>
+ 
+ 
+ <note type="footnote" n="121"><space rend="indent1"/><gloss>debauchery</gloss></note>
+ 
+ 
+ <note type="footnote" n="122"><space rend="indent1"/><gloss>temperate</gloss></note>
+ 
+ 
+ <note type="footnote" n="123"><space rend="indent1"/><gloss>sorrow</gloss></note>
+ 
+ </div><div type="chapter" n="23"><head type="rubric">22: The Samaritan Woman at the Well</head>
+ <ab><milestone n="1" unit="prose-textblock"/>O <persName>Jhesu</persName> ful of benignité, I yelde yow thankynges that ye so meke and mildeli spak a good while with the woman Samaritan that come to the welle<note type="enote-indicator" n="64">N</note>  ther<note target="#124" type="footnotelink">G</note>  ye sat to fetche watyr. And ye, benigne <persName>Jhesu</persName>, bad here yeve yow drinke and seide to here, who<note target="#125" type="footnotelink">G</note>  that drank of the water of lif that ye yevin that thei schulde not thurstyn perpetueli; for the watir, ye seiden, is the welle that hem schal lede to everlastyng lif. <locus type="foliation">[fol. 16v]</locus> And thus fulhomli<note target="#126" type="footnotelink">G</note>  ye spak with here a good while and told here her privé secrees.<note target="#127" type="footnotelink">G</note> <note type="enote-indicator" n="65">N</note>  O good lord, come in to my soule, tel and schew me the derkhed<note target="#128" type="footnotelink">G</note>  of defaute<note type="tnote-indicator" n="27">T</note>  that priveli lurkyn withinne me, suffre me not to make of vertu vice ne of vice vertu, voide<note target="#129" type="footnotelink">G</note>  fro me alle evil custumes and yeve me cler syht of trewe undirstonding and sothfast<note target="#130" type="footnotelink">G</note>  knowinge so that I may fully amende me of alle myne defautes. A! gracious <persName>Jhesu</persName>, graunte me also the water of lif that I thurste not endelesli, and make me drunke in youre swete love wherthorw<note target="#131" type="footnotelink">G</note>  I may at the laste come to ever|lasting <locus type="foliation">[fol. 17r]</locus> lif. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="124"><space rend="indent1"/><gloss>where</gloss></note>
+ 
+ 
+ <note type="footnote" n="125"><space rend="indent1"/><gloss>whoever</gloss></note>
+ 
+ 
+ <note type="footnote" n="126"><space rend="indent1"/><gloss>in a very friendly manner</gloss></note>
+ 
+ 
+ <note type="footnote" n="127"><space rend="indent1"/><gloss>secrets</gloss></note>
+ 
+ 
+ <note type="footnote" n="128"><space rend="indent1"/><gloss>darkness</gloss></note>
+ 
+ 
+ <note type="footnote" n="129"><space rend="indent1"/><gloss>purge</gloss></note>
+ 
+ 
+ <note type="footnote" n="130"><space rend="indent1"/><gloss>truthful</gloss></note>
+ 
+ 
+ <note type="footnote" n="131"><space rend="indent1"/><gloss>whereby</gloss></note>
+ 
+ </div><div type="chapter" n="24"><head type="rubric">23: The Sermon on the Mount</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Blisful <persName>Jhesu</persName>, I thanke and magnifie yow for alle youre holy sermones, and also that ye baptised the pepil,<note type="enote-indicator" n="66">N</note>  and for ye chese youre twelve aposteles<note type="enote-indicator" n="67">N</note>  and namid hem aposteles. And at that tyme, swete <persName>Jhesu</persName>, ye deliverede hem the comaundementis of the newe lawe,<note type="enote-indicator" n="68">N</note>  and not be maner of distresse<note target="#132" type="footnotelink">G</note>  or manas,<note target="#133" type="footnotelink">G</note>  but be maner of beheste.<note target="#134" type="footnotelink">G</note>  And also, benigne <persName>Jhesu</persName>, I yelde yow thankinges for the eiyte blessinges<note target="#135" type="footnotelink">G</note>  that ye than yaf and seide in this wise: “Blissid be the pouere spirituels:<note target="#136" type="footnotelink">G</note>  for the kyngdom of <placeName>hevene</placeName> is heres.<note type="enote-indicator" n="69">N</note>  Blissid be the debonaires:<note target="#137" type="footnotelink">G</note>  <locus type="foliation">[fol. 17v]</locus> for thei schal have lond — that is to saye, everlesting lif. Blissid be thei that wepin: for thei schuln be comfortid. Blissid be thei that desiren rithwisnesse<note target="#138" type="footnotelink">G</note>  as mete and drinke: for thei schal be fulfillid. Blissid be the merciables:<note target="#139" type="footnotelink">G</note>  for thei schal have mercy. Blissid be thei that have clene hertis: for thei schul se <persName>God</persName>. Blissid be thei that been pesible:<note target="#140" type="footnotelink">G</note>  for their schul been clepid <persName>Godis</persName> sones. Blessid be thei that suffrin persecucion for rithwisnes: for the reume<note target="#141" type="footnotelink">G</note>  of <persName>God</persName> is heris.” O goode lord, chese me and name me for on<note target="#142" type="footnotelink">G</note>  of youre chosin children, and graunte me these heye vertues <locus type="foliation">[fol. 18r]</locus> wherthorw I may, <persName>Jhesu</persName>, yow plesin; and yeve me grace day and nyht evere to be yowre trewe servant withoutyn variaunce.<note target="#143" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="132"><space rend="indent1"/><gloss>coercion</gloss></note>
+ 
+ 
+ <note type="footnote" n="133"><space rend="indent1"/><gloss>threat</gloss></note>
+ 
+ 
+ <note type="footnote" n="134"><space rend="indent1"/><gloss>petition</gloss></note>
+ 
+ 
+ <note type="footnote" n="135"><space rend="indent1"/>eiyte blessinges, <gloss>eight beatitudes</gloss></note>
+ 
+ 
+ <note type="footnote" n="136"><space rend="indent1"/>pouere spirituales, <gloss>poor in spirit</gloss></note>
+ 
+ 
+ <note type="footnote" n="137"><space rend="indent1"/><gloss>kind and meek people</gloss></note>
+ 
+ 
+ <note type="footnote" n="138"><space rend="indent1"/><gloss>righteousness</gloss></note>
+ 
+ 
+ <note type="footnote" n="139"><space rend="indent1"/><gloss>merciful people</gloss></note>
+ 
+ 
+ <note type="footnote" n="140"><space rend="indent1"/><gloss>peace-loving</gloss></note>
+ 
+ 
+ <note type="footnote" n="141"><space rend="indent1"/><gloss>realm</gloss></note>
+ 
+ 
+ <note type="footnote" n="142"><space rend="indent1"/><gloss>one</gloss></note>
+ 
+ 
+ <note type="footnote" n="143"><space rend="indent1"/><gloss>deviation</gloss></note>
+ 
+ </div><div type="chapter" n="25"><head type="rubric">24: The Conversion of Mary Magdalene</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName> ful of debonerté,<note target="#144" type="footnotelink">G</note>  I thanke and magnifie yow that ye clepid and receyvid the seventi and two disciples,<note type="enote-indicator" n="70">N</note>  and for ye healede the pepile<note type="enote-indicator" n="71">N</note>  of ydropesies<note target="#145" type="footnotelink">G</note>  and palsies<note type="enote-indicator" n="72">N</note>  and of rennyng blod.<note type="enote-indicator" n="73">N</note>  And speciali I yeve yow thankinges that ye, benigne <persName>Jhesu</persName>, suffrede <persName>Marie Maudeleyne</persName> whan sche was holde so sinful that sche hadde seven fendis<note target="#146" type="footnotelink">G</note>  withinne here<note type="enote-indicator" n="74">N</note>  to aproche to youre holy feet in the hous of the Phariseye, and ther <locus type="foliation">[fol. 18v]</locus> sche wepte for here misdedis and wessch youre feet<note type="enote-indicator" n="75">N</note>  with here terys,<note target="#147" type="footnotelink">G</note>  and wipid hem with here heer. Also I thanke yow, gode lord, that ye mercyfulli foryaf here alle her sinnes. O dereworthi <persName>Jhesu</persName>, suffre me thowgh I be wikkid, werst of alle othire, to aprochin to youre holy feet, and yeve me grace there to abide and wepe for my grete misdedis, til youre merciful herte foryeve me alle min sinnes.<note type="tnote-indicator" n="28">T</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="144"><space rend="indent1"/><gloss>kindness</gloss></note>
+ 
+ 
+ <note type="footnote" n="145"><space rend="indent1"/><gloss>edema (painful swelling of the limbs caused by fluid retention)</gloss></note>
+ 
+ 
+ <note type="footnote" n="146"><space rend="indent1"/><gloss>devils</gloss></note>
+ 
+ 
+ <note type="footnote" n="147"><space rend="indent1"/><gloss>tears</gloss></note>
+ 
+ </div><div type="chapter" n="26"><head type="rubric">25: Jesus and Mary Magdalene</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, <persName>Jhesu</persName> ful of grace, that ye have no despit<note target="#148" type="footnotelink">G</note>  ne indignacion of the sinful that wele forsake here sinnes, but in gret chareté <locus type="foliation">[fol. 19r]</locus> ye receyve hem to youre grace. O lord of pureté and of clennesse, ye arn not skeymous<note target="#149" type="footnotelink">G</note>  of hem thowgh thei have been fowle and al defacid<note target="#150" type="footnotelink">G</note>  thorw sinnes, but anoon<note target="#151" type="footnotelink">G</note>  as thei been contrit ye make hem fair and brith,<note target="#152" type="footnotelink">G</note>  and famuliarli<note target="#153" type="footnotelink">G</note>  in hem ther make youre habitacion. O lord, gret is your bounté, blissid and preisid, thankid and heried,<note target="#154" type="footnotelink">G</note>  glorified and magnified be ye evere therfore. Also swete <persName>Jhesu</persName>, I yelde yow thankinges that ye so debonerli excused <persName>Marie Maudeleyne</persName> thries<note type="enote-indicator" n="76">N</note>  there to the Phariseies whan she wepte<note type="tnote-indicator" n="29">T</note>  at youre feet. Anothir time ye, meke <persName>Jhesu</persName>, excusid here what <locus type="foliation">[fol. 19v]</locus> tyme here sustir <persName>Martha</persName> compleinid to yow that sche wolden not helpyn here. Ful graciousli ye seiden thanne to <persName>Martha</persName> that <persName>Marie</persName> hadde chosin the betir partye,<note type="enote-indicator" n="77">N</note>  which schulde nevere be benomyn<note target="#155" type="footnotelink">G</note>  here. The thridde tyme, benigne <persName>Jhesu</persName>, ye excusid here<note type="enote-indicator" n="78">N</note>  whan <persName>Judas</persName> grucchid<note target="#156" type="footnotelink">G</note>  the precious oynement that sche spendid on yow.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>O gode lord, yeve me grace to have perfith charité to alle myn even Cristen<note target="#157" type="footnotelink">G</note> <note type="enote-indicator" n="79">N</note>  and schilde<note target="#158" type="footnotelink">G</note>  me that I nevere have despit ne disdein of hem for senne but love the persones and hate the sinne.<note type="enote-indicator" n="80">N</note>  O charitable <persName>God</persName>, make me to folwe youre pureté and youre vertues. <locus type="foliation">[fol. 20r]</locus> <persName>Jhesu</persName> myn joye and myn comfort, myn hope and al myn hele,<note target="#159" type="footnotelink">G</note>  fulfille me with your goodnesse and sadli stable me therinne. <persName>Jhesu</persName> myn strengthe and myn socour, schilde me from alle bodili and gostli periles. And gracious lord, for the gret pité and mercy that ye hadde of <persName>Marie Maudeleyne</persName> and also for the gret love that sche hadde to yow here in <placeName>erthe</placeName> and hath now in <placeName>hevene</placeName>, blissid Trinité, be holde me with youre pitable yen and graunte me yowre love.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>O allas, I sinful, how dar I thus holi spekin with my lord <persName>God</persName> that with his myht <placeName>hevene</placeName> and <placeName>erthe</placeName> made and alle thing of nowht?<note target="#160" type="footnotelink">G</note>  Certeinli I, sinful <locus type="foliation">[fol. 20v]</locus> wreche, am not worthi to speke to hym, ne to hevyn<note target="#161" type="footnotelink">G</note>  up myn eyn to <placeName>hevene</placeName>, but as a sinful worm<note type="enote-indicator" n="81">N</note>  down to the <placeName>erthe</placeName>, as sche that is not worthi to preise <persName>God</persName>, ne to nemine<note target="#162" type="footnotelink">G</note>  his name, for the profith<note target="#163" type="footnotelink">G</note>  seith the preising of <persName>God</persName> is not fair in a sinful mouth.<note type="enote-indicator" n="82">N</note>  O merciful lord, Holi Trinité: mercy, mercy. My sinnes putten me often tymes abake so that I dar not spekyn ne come in to youre presence, but youre mercy which hath no ende ne noumbre drawith me alwey forth and makith me to been homli and familier with yow; wherfore benigne <persName>God</persName>, I yelde yow thankinge, <locus type="foliation">[fol. 21r]</locus> and thankid be ye as often as alle hertis can or may devise. And myhtful lord, I beseche yow: sithin I am not worthi to preise yow, make me worthi and able therto, and youre owyn goodnesse preise, blisse and magnifie yow in me, so that what evere I write, thinke or speke of yow and for yow, be it youre werk and not myn. And seie to me, and to alle that have forsake the <placeName>world</placeName> for yow,<note type="enote-indicator" n="83">N</note>  as ye seide to <persName>Martha</persName> of <placeName>Maudeleyne</placeName>, that we have chose the betir partye that nevere schal be benomyn<note target="#164" type="footnotelink">G</note>  us. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="148"><space rend="indent1"/><gloss>contempt</gloss></note>
+ 
+ 
+ <note type="footnote" n="149"><space rend="indent1"/><gloss>disgusted</gloss></note>
+ 
+ 
+ <note type="footnote" n="150"><space rend="indent1"/><gloss>disfigured</gloss></note>
+ 
+ 
+ <note type="footnote" n="151"><space rend="indent1"/><gloss>as soon</gloss></note>
+ 
+ 
+ <note type="footnote" n="152"><space rend="indent1"/><gloss>bright</gloss></note>
+ 
+ 
+ <note type="footnote" n="153"><space rend="indent1"/><gloss>like a close friend</gloss></note>
+ 
+ 
+ <note type="footnote" n="154"><space rend="indent1"/><gloss>celebrated</gloss></note>
+ 
+ 
+ <note type="footnote" n="155"><space rend="indent1"/><gloss>denied</gloss></note>
+ 
+ 
+ <note type="footnote" n="156"><space rend="indent1"/><gloss>begrudged</gloss></note>
+ 
+ 
+ <note type="footnote" n="157"><space rend="indent1"/>even Cristen, <gloss>fellow Christians</gloss></note>
+ 
+ 
+ <note type="footnote" n="158"><space rend="indent1"/><gloss>protect</gloss></note>
+ 
+ 
+ <note type="footnote" n="159"><space rend="indent1"/><gloss>health</gloss></note>
+ 
+ 
+ <note type="footnote" n="160"><space rend="indent1"/>of nowht, <gloss>out of nothing</gloss></note>
+ 
+ 
+ <note type="footnote" n="161"><space rend="indent1"/><gloss>raise</gloss></note>
+ 
+ 
+ <note type="footnote" n="162"><space rend="indent1"/><gloss>pronounce</gloss></note>
+ 
+ 
+ <note type="footnote" n="163"><space rend="indent1"/><gloss>prophet</gloss></note>
+ 
+ 
+ <note type="footnote" n="164"><space rend="indent1"/><gloss>denied</gloss></note>
+ 
+ </div><div type="chapter" n="27"><head type="rubric">26: Feeding the Multitudes</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Myhtful <persName>Jhesu</persName>, I thanke and magnifie yow that ye fedde the foure thouzande peple<note type="enote-indicator" n="84">N</note>  and mo<note target="#165" type="footnotelink">G</note>  <locus type="foliation">[fol. 21v]</locus> with five looves and to<note target="#166" type="footnotelink">G</note>  fisschis so plenteuousli that thei lefte twelve beer-lepis<note target="#167" type="footnotelink">G</note>  ful of relef<note target="#168" type="footnotelink">G</note>  whan thei hadde etyn. Anothir tyme, goode lord, ye fedde a gret multitude of peple with seven looves and with lityl fissch;<note type="enote-indicator" n="85">N</note>  wherfore I yelde yow thankinges, blissid and worchepid mote<note target="#169" type="footnotelink">G</note>  ye evere ben. O Holi Trinité, ful of myht and mercy, in whom is al plenté and largenesse<note target="#170" type="footnotelink">G</note>  with youre swete love and gostli virtues and joyes in yow, fede and nurische my nedy soule that is ful ofte hungry and disolat, bare and nakid of gostli godes. A! lord, have pité on my povert and on my gret nede.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Mercy|ful<note type="tnote-indicator" n="30">T</note>  <locus type="foliation">[fol. 22r]</locus> <persName>God</persName>, ye knowen wel as be rith<note target="#171" type="footnotelink">G</note>  to the most poure the almesse muste be doon and ye, goode lord, mowin do no wrong. And therfore as be rith, ye muste nedis yeve it me that am the moste poure of gostli fruytes<note type="enote-indicator" n="86">N</note>  and moste nede have and hungir. <persName>Jhesu</persName>, fede me with youre presence, fulfille me al of yow, for of lesse may not myn povert passe.<note target="#172" type="footnotelink">G</note>  <persName>Jhesu God</persName> and man, arraie me with youre graciousce vertues and yve<note target="#173" type="footnotelink">G</note>  me yow in al: than have I al that I desire and al that me nedith. O allas goode lord, what have I seide? I aske to have youre almasse<note target="#174" type="footnotelink">G</note>  of grace and yow be rith<note target="#175" type="footnotelink">G</note>  of my povert, <locus type="foliation">[fol. 22v]</locus> and how dar I do so? I, that am a wikkid worm, a stinking careyne,<note target="#176" type="footnotelink">G</note>  a sinful caytif,<note target="#177" type="footnotelink">G</note>  a wretchid sinnere ful of felonie. O mercyful lord, more is in me than myn gret povert of wanting of youre grace and vertues. Ther is in me gret multitude of sinne and wretchidnes that first muste be voidid or<note target="#178" type="footnotelink">G</note>  than I may atteyne to so heye a yefte;<note target="#179" type="footnotelink">G</note>  for lord, ye arn al pureté and al goodnesse, and I am al filthe<note type="enote-indicator" n="87">N</note>  and al wikkidnesse, and how mihte thise two contrarious<note target="#180" type="footnotelink">G</note>  dwelle togider?<note target="#181" type="footnotelink">G</note>  But gracious lord, this onli comfortith me, that youre myht and mercy may in a moment of tyme clense me of <locus type="foliation">[fol. 23r]</locus> al filthe of sinne and foryeve me alle offensis; it is youre rith to be merciful of sinners. Therfore glorious lord, be wey of rith of youre vertues I crave, and aske to have youre mercy and grace, and than also to have yow in al clennesse and pureté in me. Dere <persName>God</persName>, graunte it me for youre grete benignité. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="165"><space rend="indent1"/><gloss>more</gloss></note>
+ 
+ 
+ <note type="footnote" n="166"><space rend="indent1"/><gloss>two</gloss></note>
+ 
+ 
+ <note type="footnote" n="167"><space rend="indent1"/><gloss>large baskets (see <hi rend="italic">MED bere-lepe</hi>)</gloss></note>
+ 
+ 
+ <note type="footnote" n="168"><space rend="indent1"/><gloss>leftovers</gloss></note>
+ 
+ 
+ <note type="footnote" n="169"><space rend="indent1"/><gloss>must</gloss></note>
+ 
+ 
+ <note type="footnote" n="170"><space rend="indent1"/><gloss>abundance</gloss></note>
+ 
+ 
+ <note type="footnote" n="171"><space rend="indent1"/>be rith, <gloss>by rights</gloss></note>
+ 
+ 
+ <note type="footnote" n="172"><space rend="indent1"/>for of lesse may not myn povert passe, <gloss>since my poverty will not pass for any less</gloss></note>
+ 
+ 
+ <note type="footnote" n="173"><space rend="indent1"/><gloss>give</gloss></note>
+ 
+ 
+ <note type="footnote" n="174"><space rend="indent1"/><gloss>alms</gloss></note>
+ 
+ 
+ <note type="footnote" n="175"><space rend="indent1"/>be rith, <gloss>on account of</gloss></note>
+ 
+ 
+ <note type="footnote" n="176"><space rend="indent1"/><gloss>carcass</gloss></note>
+ 
+ 
+ <note type="footnote" n="177"><space rend="indent1"/><gloss>wretch</gloss></note>
+ 
+ 
+ <note type="footnote" n="178"><space rend="indent1"/><gloss>before</gloss></note>
+ 
+ 
+ <note type="footnote" n="179"><space rend="indent1"/><gloss>gift</gloss></note>
+ 
+ 
+ <note type="footnote" n="180"><space rend="indent1"/><gloss>contraries</gloss></note>
+ 
+ 
+ <note type="footnote" n="181"><space rend="indent1"/><gloss>together</gloss></note>
+ 
+ </div><div type="chapter" n="28"><head type="rubric">27: Calming the Storm</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gracious <persName>Jhesu</persName>, I thanke and magnifie yow for alle the windes and tempestes<note type="enote-indicator" n="88">N</note>  that ye, swete <persName>Jhesu</persName>, apesedin<note target="#182" type="footnotelink">G</note>  and cecedin<note target="#183" type="footnotelink">G</note>  divers times, whan youre aposteles werin apoint<note target="#184" type="footnotelink">G</note>  in the see to plunge. O goode lord, kepe me whiles I am in <locus type="foliation">[fol. 23v]</locus> this <placeName>world</placeName>, that weel may be likinid to the see, ful of noyous wawis,<note target="#185" type="footnotelink">G</note>  and my sinful body to a boot,<note target="#186" type="footnotelink">G</note>  my soule therinne travailid with perilous tempestis. A! debonere <persName>Jhesu</persName>, save me as ye savedin <persName>Petir</persName> in the watir from drinching<note target="#187" type="footnotelink">G</note>  that I plonge not ne perissche thorwe my malice in this trobli<note target="#188" type="footnotelink">G</note>  watir of tribulacions and temptacions. O dere lord, comforte me with youre voies and seie to me “<foreign xml:lang="lat">Noli timere</foreign>,”<note target="#189" type="footnotelink">G</note> <note type="enote-indicator" n="89">N</note>  and lede my soule in saftee til it come to that glorious <placeName>hevene</placeName> ther is everlasting sekirnes,<note target="#190" type="footnotelink">G</note>  joye, blisse and reste. <foreign xml:lang="lat">Pater noster qui es in</foreign>.<note target="#191" type="footnotelink">G</note>  <foreign xml:lang="lat">Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="182"><space rend="indent1"/><gloss>calmed</gloss></note>
+ 
+ 
+ <note type="footnote" n="183"><space rend="indent1"/><gloss>quelled</gloss></note>
+ 
+ 
+ <note type="footnote" n="184"><space rend="indent1"/>werin apoint, <gloss>were about</gloss></note>
+ 
+ 
+ <note type="footnote" n="185"><space rend="indent1"/>noyous wawis, <gloss>hazardous waves</gloss></note>
+ 
+ 
+ <note type="footnote" n="186"><space rend="indent1"/><gloss>boat</gloss></note>
+ 
+ 
+ <note type="footnote" n="187"><space rend="indent1"/><gloss>drowning</gloss></note>
+ 
+ 
+ <note type="footnote" n="188"><space rend="indent1"/><gloss>troubled</gloss></note>
+ 
+ 
+ <note type="footnote" n="189"><space rend="indent1"/>Noli timere, <gloss>“Do not be afraid”</gloss></note>
+ 
+ 
+ <note type="footnote" n="190"><space rend="indent1"/><gloss>security</gloss></note>
+ 
+ 
+ <note type="footnote" n="191"><space rend="indent1"/>Pater noster qui es in, <gloss>Our Father who is in, i.e., the first five words of the Lord’s Prayer</gloss></note>
+ 
+ </div><div type="chapter" n="29"><head type="rubric">28: The Mocking of Jesus</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 24r]</locus> Gracious <persName>Jhesu</persName>, I thanke and magnifie yow for alle the skornis, despites, schames,<note type="enote-indicator" n="90">N</note>  wronges and reproves that ye in this <placeName>world</placeName> suffred. And I yelde yow thankinges, swete <persName>Jhesu</persName>, that ye ful charitabli excusid yowre aposteles whan the Phariseyes reprovid hem and accusid hem.<note type="tnote-indicator" n="31">T</note>  Ones was what tyme thei tokin the eeres of the whete<note type="enote-indicator" n="91">N</note>  as thei wente be the wey and affrayed<note target="#192" type="footnotelink">G</note>  it in here handes and etyn the greynes<note target="#193" type="footnotelink">G</note>  on a day of <date>Sabat</date>.<note target="#194" type="footnotelink">G</note>  Anothir time ye, meke <persName>Jhesu</persName>, excusid hem whan the Phariseyes accusid hem and pleinid to yow that thei wente to mete with <locus type="foliation">[fol. 24v]</locus> unwasshin handes.<note type="enote-indicator" n="92">N</note>  O goode lord, <persName>God</persName> have pité and compassion on youre servauntis of holi chirche, for many enemys, accusers and deniers<note type="enote-indicator" n="93">N</note>  thei have now in these dayes. But benigne <persName>Jhesu</persName>, excuse hem to youre holi fadir of <placeName>hevene</placeName> of here defautes, and yeve hem grace mekli to suffren schame, skornys, despitis,<note target="#195" type="footnotelink">G</note>  wronges and repreves when it comith to hem pureli for the love of yow. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="192"><space rend="indent1"/><gloss>crushed</gloss></note>
+ 
+ 
+ <note type="footnote" n="193"><space rend="indent1"/><gloss>grains</gloss></note>
+ 
+ 
+ <note type="footnote" n="194"><space rend="indent1"/><gloss>Sabbath</gloss></note>
+ 
+ 
+ <note type="footnote" n="195"><space rend="indent1"/><gloss>insults</gloss></note>
+ 
+ </div><div type="chapter" n="30"><head type="rubric">29: The Woman Taken in Adultery</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Blisful <persName>Jhesu</persName>, I thanke and magnifie<note type="tnote-indicator" n="32">T</note>  yow for the myht and mercy that ye schewedin to the woman that was foundin in avow|trie,<note target="#196" type="footnotelink">G</note> <note type="enote-indicator" n="94">N</note>  <locus type="foliation">[fol. 25r]</locus> whan the maistir of the Phariseyes browten here to yow and askid what thei schulden doon with here. For thei seiden that <persName>Moises</persName> hadde comoundid<note type="enote-indicator" n="95">N</note>  that swich she<note target="#197" type="footnotelink">G</note>  schulde been stonid. And this thei dede for yef<note target="#198" type="footnotelink">G</note>  ye hadde seide stone here, thei schulde have askried<note target="#199" type="footnotelink">G</note>  yow for cruel, for the pepil that helde yow so pitous<note target="#200" type="footnotelink">G</note>  schulde have loved yow the lesse; and yef ye hadde seide let here go quyt,<note target="#201" type="footnotelink">G</note>  thei to have take yow as him that hadde doon ayens <persName>Moyses</persName> lawis. But ye, meke <persName>Jhesu</persName>, that knewe al here malice wrowhte al anothir,<note target="#202" type="footnotelink">G</note>  and whanne ye saw the woman <locus type="foliation">[fol. 25v]</locus> come ye enclinid and lokid doun, and wrot in the erthe for the woman schulde not be aschamid. Ye savid here also that day fro deth. A! gentil lord ful of curtesie, I yelde yow thankinges for this dede that ye, meke <persName>Jhesu</persName>, of youre gret benignité deede.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>And thei than fersli askid yow what thei schulde doo with the woman, and ye fersli lokid on hem and bad which of hem that was withoutyn sinne schulde castin on here the first ston. And forth riht<note target="#203" type="footnotelink">G</note>  ye enclinid to the erthe anothir tyme and wrot in the erthe, and everich of hem saw there here owin sinnes,<note type="enote-indicator" n="96">N</note>  <locus type="foliation">[fol. 26r]</locus> and for schame anoon they stal awaei be on and on,<note target="#204" type="footnotelink">G</note>  til ther was never on in that place but ye and the woman. And thanne ful debonerli ye seide to here: “woman where been thei that accusid thee, dampnid<note target="#205" type="footnotelink">G</note>  thee noman.” “Noo lord,” quod sche, “noman.” And than ye, mercyable <persName>God</persName>, seide to here that ye wolde not dampne here, and bad here go and welne<note target="#206" type="footnotelink">G</note>  to sinne nomore. O goode lord, I preye yow that alle thoo that hatin and despisen folkis of holi chirche, and beth glad to finde hem with defautes, writ in the ground of here hertis,<note type="enote-indicator" n="97">N</note>  and opne the eye of here soules that thei may here owyn <locus type="foliation">[fol. 26v]</locus> sinnes and defautes see,<note type="tnote-indicator" n="33">T</note>  that thei may be aschamid of here pride and, goode lord, yeve hem grace to have verray contricion of alle here sinnes and to amende hem of here misdedis. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="196"><space rend="indent1"/><gloss>adultery</gloss></note>
+ 
+ 
+ <note type="footnote" n="197"><space rend="indent1"/>swich she, <gloss>such as she</gloss></note>
+ 
+ 
+ <note type="footnote" n="198"><space rend="indent1"/><gloss>if</gloss></note>
+ 
+ 
+ <note type="footnote" n="199"><space rend="indent1"/><gloss>denounced</gloss></note>
+ 
+ 
+ <note type="footnote" n="200"><space rend="indent1"/><gloss>merciful</gloss></note>
+ 
+ 
+ <note type="footnote" n="201"><space rend="indent1"/><gloss>free</gloss></note>
+ 
+ 
+ <note type="footnote" n="202"><space rend="indent1"/>wrowhte al anothir, <gloss>did something completely different</gloss></note>
+ 
+ 
+ <note type="footnote" n="203"><space rend="indent1"/>forth rith, <gloss>right away</gloss></note>
+ 
+ 
+ <note type="footnote" n="204"><space rend="indent1"/>be on and on, <gloss>one by one</gloss></note>
+ 
+ 
+ <note type="footnote" n="205"><space rend="indent1"/><gloss>condemned</gloss></note>
+ 
+ 
+ <note type="footnote" n="206"><space rend="indent1"/><gloss>intend</gloss></note>
+ 
+ </div><div type="chapter" n="31"><head type="rubric">30: The Woman of Canaan’s Daughter</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, <persName>Jhesu</persName> ful of grace, that ye chasid the fendis awey and legions of fendes<note type="enote-indicator" n="98">N</note>  fro men and women. And speciali I yelde yow thankinges for the womanes douyter of <placeName>Cananee</placeName>,<note type="enote-indicator" n="99">N</note>  that ye chasid the fend from here at the preyng of here modir. O lord, mercyable <persName>Jhesu</persName>, but first ye made daunger<note target="#207" type="footnotelink">G</note>  whan ye seide to here that it <locus type="foliation">[fol. 27r]</locus> was not leful<note target="#208" type="footnotelink">G</note>  to take the bred that was ordeynyd to the children and yeven it to the houndes, and sche answerde: “lord, noo, but houndes may ete the crummes that fallin doun from the lordis bord<note target="#209" type="footnotelink">G</note>  out of children handes.” A! benigne <persName>Jhesu</persName>, it plesid yow ful mechil<note target="#210" type="footnotelink">G</note>  the meke answere of this woman, which made yow ful myldeli to saye: “O woman, mochil is thi feith; be it as thow witt.”<note target="#211" type="footnotelink">G</note> <note type="enote-indicator" n="100">N</note> </ab>
+ <ab><milestone n="2" unit="prose-textblock"/>A dere <persName>Jhesu</persName>, therfore ye made so straunge<note target="#212" type="footnotelink">G</note>  atte beginnyng of here preiere for sche schulde gete here the more mede<note target="#213" type="footnotelink">G</note>  and thanke of yow, and also yeve us exsaumple that we schulde mekli abide in preiere though firste we finde straunge|ness <locus type="foliation">[fol. 27v]</locus> and have not oure preieres anoon<note target="#214" type="footnotelink">G</note>  whan we wolde.<note target="#215" type="footnotelink">G</note>  For your bounté wele not werne<note target="#216" type="footnotelink">G</note>  us oure preieres, and it be skilfulli<note target="#217" type="footnotelink">G</note>  askid yef we abide mekeli therupon. O mercyful Trinité, thowgh I be most unworthi and am an hound thorw bestli condicions, and werse than an hound as in ther that I have wrethed<note target="#218" type="footnotelink">G</note>  yow, yet goode lord I preie yow yeve me crumes of youre mercy and grace and the bred of everlasting life, and make me with al feith and mekenesse continualli to abide in preiere, that myne preieres mowyn<note target="#219" type="footnotelink">G</note>  been herd and grauntid of yow, as was <locus type="foliation">[fol. 28r]</locus> the womanes of <placeName>Cananee</placeName>. <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="207"><space rend="indent1"/><gloss>resistance</gloss></note>
+ 
+ 
+ <note type="footnote" n="208"><space rend="indent1"/><gloss>lawful</gloss></note>
+ 
+ 
+ <note type="footnote" n="209"><space rend="indent1"/><gloss>table</gloss></note>
+ 
+ 
+ <note type="footnote" n="210"><space rend="indent1"/>ful mechil, <gloss>very much</gloss></note>
+ 
+ 
+ <note type="footnote" n="211"><space rend="indent1"/><gloss>know</gloss></note>
+ 
+ 
+ <note type="footnote" n="212"><space rend="indent1"/><gloss>obscure</gloss></note>
+ 
+ 
+ <note type="footnote" n="213"><space rend="indent1"/><gloss>reward</gloss></note>
+ 
+ 
+ <note type="footnote" n="214"><space rend="indent1"/><gloss>immediately</gloss></note>
+ 
+ 
+ <note type="footnote" n="215"><space rend="indent1"/><gloss>would</gloss></note>
+ 
+ 
+ <note type="footnote" n="216"><space rend="indent1"/><gloss>withhold</gloss></note>
+ 
+ 
+ <note type="footnote" n="217"><space rend="indent1"/><gloss>reasonably</gloss></note>
+ 
+ 
+ <note type="footnote" n="218"><space rend="indent1"/><gloss>displeased</gloss></note>
+ 
+ 
+ <note type="footnote" n="219"><space rend="indent1"/><gloss>might</gloss></note>
+ 
+ </div><div type="chapter" n="32"><head type="rubric">31: The Transfiguration</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Benigne <persName>Jhesu</persName>, I thanke and magnifie yow for youre gloriouse Transfiguracion<note type="enote-indicator" n="101">N</note>  which was a blisful sight ful of swetnesse, whan youre gracious face schon wiht as the sunne and youre clothing wex<note target="#220" type="footnotelink">G</note>  whit as snow;<note type="enote-indicator" n="102">N</note>  and there <persName>Moyses</persName> and <persName>Helie</persName> aperid and spak to yow. A! <persName>Petir</persName>,<note type="enote-indicator" n="103">N</note>  this sight was ful plesing to yow. Ye taasted a litil of this hevenli joye and made yow desiren there to have dwellid, whane ye seide to oure lord: “Sire, it is good here to abide; yef ye welin,<note target="#221" type="footnotelink">G</note>  we schal make here thre tabernacles, on for <locus type="foliation">[fol. 28v]</locus> yow, anothir for <persName>Moyses</persName>, the thridde for <persName>Helie</persName>.” O dere <persName>Jhesu</persName>, but ye ches rather to suffre for oure redempcion peynes and deth than for to abide there or in youre kingdom of blisse til ye hadde bowth<note target="#222" type="footnotelink">G</note>  us with youre precious blod, and therfore I yelde yow thankinges. Swete <persName>Jhesu</persName>, blissid and worchepid, glorified and magnified be ye evere therfore. And whiles ye spak with <persName>Moyses</persName> and with <persName>Helie</persName> a brith cloude come and sprad yow, and a voyes of <persName>God</persName> youre fadir cam fro the cloude and seide: “This is my dere sone,<note type="enote-indicator" n="104">N</note>  of whom I am weel plesid — herith him.” O I preie <locus type="foliation">[fol. 29r]</locus> yow, goode lord, that thus were transfigurid, transforme my soule out of worldli lust and joye in gostli merthe and meledie<note type="enote-indicator" n="105">N</note>  of yow, in yow, for yow, and make me here your vois and wordes, and wel to folwe ther aftir that I be alwey to yow redi and attendaunt. <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="220"><space rend="indent1"/><gloss>grew</gloss></note>
+ 
+ 
+ <note type="footnote" n="221"><space rend="indent1"/><gloss>desire</gloss></note>
+ 
+ 
+ <note type="footnote" n="222"><space rend="indent1"/><gloss>redeemed</gloss></note>
+ 
+ </div><div type="chapter" n="33"><head type="rubric">32: The Raising of Lazarus</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName>, ful of grace, I thanke and magnifie yow for alle youre holi preieris that ye have preied to your fadir of <placeName>hevene</placeName> to yeven us exsample to preie, and for al the speche that ye spak on <placeName>erthe</placeName>. And also I yelde yow thankinges, swete benigne <persName>Jhesu</persName>, that ye rered <persName>Lazar</persName> <locus type="foliation">[fol. 29v]</locus> fro deth to live, that foure dayes hadde leyen<note type="enote-indicator" n="106">N</note>  in the monument. And othir two also ye rerid to live afore that tyme, the princes dowter <persName>Jayre</persName><note type="enote-indicator" n="107">N</note>  and the wedewis<note target="#223" type="footnotelink">G</note>  sone<note type="enote-indicator" n="108">N</note>  that was born<note target="#224" type="footnotelink">G</note>  ded on bere,<note target="#225" type="footnotelink">G</note>  wherfore I yelde yow thankinges. O dere lord, youre holi preieres excite me alwei to preieres, and schilde me from evil,<note type="enote-indicator" n="109">N</note> <note type="tnote-indicator" n="34">T</note>  deth and dedli sinne. And arere<note target="#226" type="footnotelink">G</note>  my soule awey in to contemplacion, where that I may undirstonde, beholde, see, and fele youre swetnes and youre secres.<note target="#227" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="223"><space rend="indent1"/><gloss>widow’s</gloss></note>
+ 
+ 
+ <note type="footnote" n="224"><space rend="indent1"/><gloss>carried</gloss></note>
+ 
+ 
+ <note type="footnote" n="225"><space rend="indent1"/><gloss>bier</gloss></note>
+ 
+ 
+ <note type="footnote" n="226"><space rend="indent1"/><gloss>carry</gloss></note>
+ 
+ 
+ <note type="footnote" n="227"><space rend="indent1"/><gloss>secrets</gloss></note>
+ 
+ </div><div type="chapter" n="34"><head type="rubric">33: The Entry into Jerusalem</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow <persName>Jhesu</persName>, ful of blisse, for youre riding <locus type="foliation">[fol. 30r]</locus> on <date>Palme Soneday</date> upon the asse and here fole to the Citee of <placeName>Jerusalem</placeName>; and then it was fulfillid the prophecie that seit: “<foreign xml:lang="lat">Noli timere filia <placeName>Syon</placeName> ecce rex tuus venit super pullum asinii</foreign>.”<note target="#228" type="footnotelink">G</note> <note type="enote-indicator" n="110">N</note>  A! swete <persName>Jhesu</persName>, the peple dede yow gret worchip that day, and comyn ayenst<note target="#229" type="footnotelink">G</note>  yow with gret processions, and leyde here clothis and palme brounchis and brounchis of olive and the weye undir the asses feet that ye, meke <persName>Jhesu</persName>, sat upon. And thei sungen songes of worschip and herryng<note target="#230" type="footnotelink">G</note>  to yow, and as ye wittenessin yow self, but yif thei hadden don so<note target="#231" type="footnotelink">G</note>  the stones schulden <locus type="foliation">[fol. 30v]</locus> have cried.<note type="enote-indicator" n="111">N</note>  O lord, mechil<note target="#232" type="footnotelink">G</note>  is youre myht. Iblissid be ye, and worchepid in alle youre miyhtful werkis. Benigne <persName>Jhesu</persName>, I thanke and magnifie yow also for the gret pité and compassion that ye hadden for the destruxion of that cité, for which ful tendreli ye weptin.<note type="enote-indicator" n="112">N</note>  O ye tendre hertid lord, ful of pité and compassion, that wepte so longe afore er than it fel, for <placeName>Jersalem</placeName> schulde been destroid speciali for sinne that schulde cause that destruccion.<note type="enote-indicator" n="113">N</note>  A! goode <persName>Jhesu</persName>, verray god and man: have pité and compassion of al holi cherche which is youre spouse, and suffre it not to been <locus type="foliation">[fol. 31r]</locus> destroied but, merciful Trinité, amende hem<note target="#233" type="footnotelink">G</note>  of here sinnes and governe hem in al grace and vertues, and alwei save hem and supporte hem in alle tymes of nede, to youre everlasting glorie and magnifiyng. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="228"><space rend="indent1"/>Noli timere filia Syon ecce rex tuus venit super pullum asinii, <gloss>“Fear not, daughter of Sion: behold, thy king cometh, sitting on an ass’s colt”</gloss></note>
+ 
+ 
+ <note type="footnote" n="229"><space rend="indent1"/><gloss>toward</gloss></note>
+ 
+ 
+ <note type="footnote" n="230"><space rend="indent1"/><gloss>praise</gloss></note>
+ 
+ 
+ <note type="footnote" n="231"><space rend="indent1"/>but yif thei hadden don so, <gloss>if they had not done so</gloss></note>
+ 
+ 
+ <note type="footnote" n="232"><space rend="indent1"/><gloss>great</gloss></note>
+ 
+ 
+ <note type="footnote" n="233"><space rend="indent1"/><gloss>i.e., members of the church</gloss></note>
+ 
+ </div><div type="chapter" n="35"><head type="rubric">34: The Cleansing of the Temple</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gracious <persName>Jhesu</persName>, I thanke and magnifie yow, that ye divers times chacid out of the temple<note type="enote-indicator" n="114">N</note>  the beyeres and the selleres, principalli on <date>Palme Soneday</date>. Ye beet hem and drof hem owt of the temple for the gret jelosie<note target="#234" type="footnotelink">G</note> <note type="enote-indicator" n="115">N</note>  that ye haddyn<note type="tnote-indicator" n="35">T</note>  of youre fadris hows.<note type="enote-indicator" n="116">N</note>  Also I yelde yow thankinges, swete <persName>Jhesu</persName>, that ye wolde been worchepid of innocent children <locus type="foliation">[fol. 31v]</locus> which sungen before yow: “<foreign xml:lang="lat">Osanna filio </foreign><persName><foreign xml:lang="lat">David</foreign></persName><foreign xml:lang="lat"> benedictus qui venit in nomine domini rex <placeName>israel</placeName></foreign>.”<note target="#235" type="footnotelink">G</note> <note type="enote-indicator" n="117">N</note>  And there thei fulfillid the prophecie that <persName>David</persName> seide in the sauter, “<foreign xml:lang="lat">Ex ore infantium et lactentium perfecisti</foreign>.”<note target="#236" type="footnotelink">G</note> <note type="enote-indicator" n="118">N</note>  O goode<note target="#237" type="footnotelink">G</note>  us alle that ye han chosin to be youre temple, chase from us pride, coveitise and alle sinnes, and gadre<note target="#238" type="footnotelink">G</note>  alle oure wittes togedir from alle worldli<note type="tnote-indicator" n="36">T</note>  vanitees and vein beholdinges, and stable it sadli<note target="#239" type="footnotelink">G</note>  in the mende of yow, and yeve us grace continuali to do worchepe and reverence to yow, as we owin to doon. And make oure soule, bodi, and herte alwei clene <locus type="foliation">[fol. 32r]</locus> and able it to been youre temple, fulfille it in alle vertues that ye may reste fully and dwelle in us, and we in yow, <persName>Jhesu</persName> ful of bounté. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="234"><space rend="indent1"/><gloss>fervor (devotion)</gloss></note>
+ 
+ 
+ <note type="footnote" n="235"><space rend="indent1"/>Osanna filio David benedictus qui venit in nomine domini rex israel, <gloss>“Hosanna to the son of David, blessed is he that cometh in the name of the Lord, the king of Israel”</gloss></note>
+ 
+ 
+ <note type="footnote" n="236"><space rend="indent1"/>Ex ore infantium et lactentium perfecisti, <gloss>“Out of the mouth of infants and of sucklings thou hast perfected praise”</gloss></note>
+ 
+ 
+ <note type="footnote" n="237"><space rend="indent1"/><gloss>refine</gloss></note>
+ 
+ 
+ <note type="footnote" n="238"><space rend="indent1"/><gloss>muster</gloss></note>
+ 
+ 
+ <note type="footnote" n="239"><space rend="indent1"/>stable it sadli, <gloss>fix it firmly</gloss></note>
+ 
+ </div><div type="chapter" n="36"><head type="rubric">35: The Tears of the Lord</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName> ful of comfort, I thanke and magnifie yow for alle youre exercises,<note target="#240" type="footnotelink">G</note>  and for alle the teres<note type="enote-indicator" n="119">N</note>  that ye fro youre blissid eyen let falle in this woful valeye, and also for alle the steppis of youre holi feet<note type="enote-indicator" n="120">N</note>  I yelde yow thankinges. O goode lord, youre holi exercises withdrawe me from alle wikkidnes, and stere<note target="#241" type="footnotelink">G</note>  me alwey to al good, and youre holi teres scarifie<note target="#242" type="footnotelink">G</note>  oure teres, and youre gracious <locus type="foliation">[fol. 32v]</locus> vertues and steppis lede us continuali the riht wey to yow, <persName>God</persName> ful of myht and mercy. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="240"><space rend="indent1"/><gloss>hard work</gloss></note>
+ 
+ 
+ <note type="footnote" n="241"><space rend="indent1"/><gloss>lead</gloss></note>
+ 
+ 
+ <note type="footnote" n="242"><space rend="indent1"/><gloss>let blood as a medical treatment</gloss></note>
+ 
+ </div><div type="chapter" n="37"><head type="rubric">36: The Last Supper</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, <persName>Jhesu</persName> ful of glorie, for the maunde<note target="#243" type="footnotelink">G</note>  that ye madin on <date>Scher Thorusday</date><note type="enote-indicator" n="121">N</note>  amoyng youre apostelis, at the which maunde ye schewedin us gret ensample of mekenes that ye so mekely whesch here feet.<note type="enote-indicator" n="122">N</note>  Also ye yaf gret ensaumple of charité at that soper that ye, benigne <persName>Jhesu</persName>, so famulierli eet with hem, and charitabli tauyt hem and comfortid hem, O goode lord, and fedde hem with youre precious body . . .<note type="tnote-indicator" n="37">T</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="243"><space rend="indent1"/><gloss>the ceremonial washing of the disciples’ feet</gloss></note>
+ 
+ </div><div type="chapter" n="38"><head type="rubric">37: The Procession to Calvary</head>
+ <ab><milestone n="1" unit="prose-textblock"/><locus type="foliation">[fol. 33r]</locus> . . . nifie yow,<note type="tnote-indicator" n="38">T</note>  that ye baar the hevy cros<note type="enote-indicator" n="123">N</note>  up on youre sore brousid schuldren<note target="#244" type="footnotelink">G</note>  and woundid body. A! lord, sumtyme the cros betokenith penaunce, and sumtyme it signifieth contemplacion. O, goode <persName>God</persName>, yeve grace that I may helpe<note type="enote-indicator" n="124">N</note>  to bere youre cros, that is to say mekli to bere for your love alle hevy birthenys of charge that fallith to me, also to doon penaunce for the love of yow, as ye dede for me, and graunte me grace, blisful <persName>God</persName>, to been contemplatif as my degre askyth.<note target="#245" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="244"><space rend="indent1"/>brousid schuldren, <gloss>bruised shoulders</gloss></note>
+ 
+ 
+ <note type="footnote" n="245"><space rend="indent1"/>degre askyth, <gloss>vocation requires</gloss></note>
+ 
+ </div><div type="chapter" n="39"><head type="rubric">38: Saint Veronica</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Benigne <persName>Jhesu</persName>, I thanke and magnifie yow for the <locus type="foliation">[fol. 33v]</locus> prente of youre holi face that ye made to the woman <persName>Veronica</persName>,<note type="enote-indicator" n="125">N</note>  whiles <persName>Simon</persName> of <placeName>Siren</placeName><note type="enote-indicator" n="126">N</note>  was maad to berith the cros that ye bar. And that prente whiche is clepid the vernicle ye yaf us as for a love tokene<note type="enote-indicator" n="127">N</note>  to havyn youre blissid visage in remembraunce. O goode lord, ful of benignité, yeve me grace continueli to havyn youre gracious visage and youre passion in mende, considering the swete love and bounté that ye have doon for me, and for al mankende. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ </div><div type="chapter" n="40"><head type="rubric">39: The Crucifixion</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Rihtful <persName>Jhesu</persName>, I thanke and magnifie yow for the gret peine <locus type="foliation">[fol. 34r]</locus> that ye, meke <persName>Jhesu</persName>, suffrid at that time that youre clothis werin doon off, whan ye schulde been crucified. O goode lord, youre clothis clevid<note target="#246" type="footnotelink">G</note> <note type="enote-indicator" n="128">N</note>  to youre gracious body, for the blood of youre precious wowndes was dried and congelid therto, and therfore in the takinge awey it rered<note target="#247" type="footnotelink">G</note>  off bothe skin and flessh of youre blissid bak and sides. A! debonor <persName>Jhesu</persName>, than thei leide yow to the cros and bownde yow theron and with cordes thei drowen<note target="#248" type="footnotelink">G</note>  youre hondes<note type="enote-indicator" n="129">N</note>  and feet to the holes of the cros, and nailid hem therto with grete ruggid<note target="#249" type="footnotelink">G</note>  nailes.<note type="enote-indicator" n="130">N</note>  O <persName>Jhesu </persName>lord, ful of <locus type="foliation">[fol. 34v]</locus> al goodnesse, that were thus peinefulli festnid to the cros for love of mankende: have mercy and pité on al youre peple that ye have bowth<note target="#250" type="footnotelink">G</note>  so dere, and race<note target="#251" type="footnotelink">G</note>  from us al wikkidnesse, and knytte us so faste to yow with a love knotte<note type="enote-indicator" n="131">N</note>  that the knot be nevere onknyt, ne we fro yow disseverid. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="246"><space rend="indent1"/><gloss>clung</gloss></note>
+ 
+ 
+ <note type="footnote" n="247"><space rend="indent1"/><gloss>pulled</gloss></note>
+ 
+ 
+ <note type="footnote" n="248"><space rend="indent1"/><gloss>dragged</gloss></note>
+ 
+ 
+ <note type="footnote" n="249"><space rend="indent1"/><gloss>blunt</gloss></note>
+ 
+ 
+ <note type="footnote" n="250"><space rend="indent1"/><gloss>bought</gloss></note>
+ 
+ 
+ <note type="footnote" n="251"><space rend="indent1"/><gloss>erase</gloss></note>
+ 
+ </div><div type="chapter" n="41"><head type="rubric">40: Jesus’s Suffering on the Cross</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Merciful <persName>Jhesu</persName>, thanked and magnified be ye for that grete peine that ye, my lord, suffrid whan the cros fel with youre blissid body,<note type="enote-indicator" n="132">N</note>  for it was not set sufficientli in the morteyses.<note target="#252" type="footnotelink">G</note>  And thanne alle the cruel Jewis that werin there heven <locus type="foliation">[fol. 35r]</locus> yow up ayen, ye and the cros nailid faste togedir, and putten the foot of the cros ayens in the morteys so despitousli and cruely that it stoneyde, lusschede, and buschede<note target="#253" type="footnotelink">G</note>  al youre body, and with that bresure<note target="#254" type="footnotelink">G</note>  alle the veynis and senwes of youre blissid body to brusten,<note target="#255" type="footnotelink">G</note>  and youre precious woundes bleddin gret foyson.<note target="#256" type="footnotelink">G</note>  O myn herte, whi ne clevist on tweyne<note target="#257" type="footnotelink">G</note>  for pité of thin lord, that alle thise<note type="tnote-indicator" n="39">T</note>  cruel turmentis hadde? O, treuli I may seie that my herte is more hard than is the hard ston,<note type="enote-indicator" n="133">N</note>  for stones, lord, at youre deth to bursten and clevedin on tweine. Allas, I sinful <locus type="foliation">[fol. 35v]</locus> this is a foul schame to me that I am more boystous<note target="#258" type="footnotelink">G</note>  and hard to my lord <persName>God</persName> than is the ston. O benigne <persName>God</persName>, softe<note target="#259" type="footnotelink">G</note>  my herte with youre dere love: sende to me a sparkle of the Holi Gost and anoynte my hard herte with the precious licour of youre swete blood so that love, pité, and compassion may ever abide in me.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>A swete <persName>Jhesu</persName>, the aking of youre sides and the gret thurst and drinesse<note type="enote-indicator" n="134">N</note>  that ye hadde for lac of blod that was fro yow ronnen<note target="#260" type="footnotelink">G</note>  reund<note target="#261" type="footnotelink">G</note>  yow also ful sori. O good lord, that al this woo suffrid for me: what schal I do ayen<note target="#262" type="footnotelink">G</note>  <locus type="foliation">[fol. 36r]</locus> for yow? Nowht but love ye aske of me, for alle youre woful peynes and grevouse travailes. O allas, myn wretched herte, whi art thow so rude and unkende?<note target="#263" type="footnotelink">G</note>  Whi takist thou not this deepli and langourist for love? O <persName>Jhesu</persName> king of love, make me youre love to fele, and graunte me grace to love yow with al my myht, with al myn herte, and with al myn soule. And goode lorde, reule continuali myne thouytes and dedes aftir youre wil and plesing. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="252"><space rend="indent1"/><gloss>mortises, sockets, or grooves used in carpentry to fix one piece of wood to another</gloss></note>
+ 
+ 
+ <note type="footnote" n="253"><space rend="indent1"/>stoneyde, lusschede, and buschede, <gloss>stunned, dashed, and shoved</gloss></note>
+ 
+ 
+ <note type="footnote" n="254"><space rend="indent1"/><gloss>buffeting</gloss></note>
+ 
+ 
+ <note type="footnote" n="255"><space rend="indent1"/>to brusten, <gloss>burst</gloss></note>
+ 
+ 
+ <note type="footnote" n="256"><space rend="indent1"/><gloss>profusion</gloss></note>
+ 
+ 
+ <note type="footnote" n="257"><space rend="indent1"/>whi ne clevist on tweyne, <gloss>why [do you] not split in two</gloss></note>
+ 
+ 
+ <note type="footnote" n="258"><space rend="indent1"/><gloss>churlish</gloss></note>
+ 
+ 
+ <note type="footnote" n="259"><space rend="indent1"/><gloss>soften</gloss></note>
+ 
+ 
+ <note type="footnote" n="260"><space rend="indent1"/><gloss>running</gloss></note>
+ 
+ 
+ <note type="footnote" n="261"><space rend="indent1"/><gloss>grieved (tormented)</gloss></note>
+ 
+ 
+ <note type="footnote" n="262"><space rend="indent1"/><gloss>in return</gloss></note>
+ 
+ 
+ <note type="footnote" n="263"><space rend="indent1"/><gloss>ungrateful</gloss></note>
+ 
+ </div><div type="chapter" n="42"><head type="rubric">41: Jesus’s Words on the Cross</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Glorious <persName>Jhesu</persName>, I thanke and <locus type="foliation">[fol. 36v]</locus> magnifie yow, for alle the wordes that ye spak here on <placeName>erthe</placeName>, and speciali I yelde yow thankinges for alle the wordes that ye, swete <persName>Jhesu</persName>, spak whiles ye heng on the cros.<note type="enote-indicator" n="135">N</note>  O lord, kepe myn tunge from wikkid wordes and from alle thoo wordes that myhte hindren<note target="#264" type="footnotelink">G</note>  or sowne<note target="#265" type="footnotelink">G</note>  in to evil that I displese yow nowht with my tunge but make me for youre benignité alwei to saye swich wordes as most may be to youre worchepe plesing and heriyng,<note target="#266" type="footnotelink">G</note>  and to my even Cristen soules profiting. A! goode <persName>Jhesu</persName>, the eysel<note target="#267" type="footnotelink">G</note>  and the <locus type="foliation">[fol. 37r]</locus> galle<note target="#268" type="footnotelink">G</note> <note type="enote-indicator" n="136">N</note>  was put to youre mouth: lord, kepe myn mouth fro glotenie of mete and drinke, and yeve me grace to abstene me from alle spyces of sinne. <foreign xml:lang="lat">Pater noster</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="264"><space rend="indent1"/><gloss>obstruct</gloss></note>
+ 
+ 
+ <note type="footnote" n="265"><space rend="indent1"/><gloss>lead</gloss></note>
+ 
+ 
+ <note type="footnote" n="266"><space rend="indent1"/><gloss>praising</gloss></note>
+ 
+ 
+ <note type="footnote" n="267"><space rend="indent1"/><gloss>vinegar</gloss></note>
+ 
+ 
+ <note type="footnote" n="268"><space rend="indent1"/><gloss>bitter substance (bile)</gloss></note>
+ 
+ </div><div type="chapter" n="43"><head type="rubric">42: The Thirst of the Lord</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Blisful <persName>Jhesu</persName>, I thanke and magnifie yow for the grete desir that ye hadden to manes soule whan ye, debonere <persName>Jhesu</persName>, seiden: “<foreign xml:lang="lat">Sicio</foreign>.”<note target="#269" type="footnotelink">G</note> <note type="enote-indicator" n="137">N</note>  Ye desired thanne ful gretli to have manes soule owt of the fendes pousté,<note target="#270" type="footnotelink">G</note>  and fro the derknes that thei were in. For ye hadd raunsomyd hem<note type="tnote-indicator" n="40">T</note>  with that precious tresor which was blod and life. O goode <locus type="foliation">[fol. 37v]</locus> lord, leed my soule from derknesse of sinne, and make me to desire with love longinge to have yow alwey in myn herte, O Holi Trinité, and with al mekenesse and reverence stedfastli myn mynde in yow, with holy thouytes and goode ententes, and stable vertues in me. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="269"><space rend="indent1"/>Sicio, <foreign xml:lang="lat">“I thirst”</foreign></note>
+ 
+ 
+ <note type="footnote" n="270"><space rend="indent1"/><gloss>power</gloss></note>
+ 
+ </div><div type="chapter" n="44"><head type="rubric">43: The Harrowing of Hell</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Gracious <persName>Jhesu</persName>, I thanke and magnifie yow: blissid and worchepid be ye evirmore for your peineful deth, which desseverid your holy soule fro youre blissid body whan ye seiden “<foreign xml:lang="lat">Consummatum est</foreign>.”<note target="#271" type="footnotelink">G</note> <note type="enote-indicator" n="138">N</note>  A! goode <persName>Jhesu</persName>, thanne youre precious soule with the godhed descendid to <locus type="foliation">[fol. 38r]</locus> <placeName>helle</placeName><note type="enote-indicator" n="139">N</note>  and took owt <persName>Adam</persName> and <persName>Eve</persName>, and alle youre frendes that there werin, and browt hem to <placeName>paradyse</placeName>. O merciful dere lord, have pité and yeve mercy to alle the soules that been in the peynes of <placeName>purgatorie</placeName> and on hem alle that youre mercy abiden.<note target="#272" type="footnotelink">G</note>  Speciali I beseche yow, myn gracious lord <persName>God</persName>, for al myn kin and frendes that been owt of this <placeName>world</placeName> passid: myn fadir and myn modir, myn godfadir and god modres, myn bretherin, myn sustren, and for myne gostli fadres that I have been confessid to. And swete <persName>Jhesu</persName>, I preie yow for alle my|ne <locus type="foliation">[fol. 38v]</locus> goode doeres that been deede, the which I have been sustenid and fortherid<note target="#273" type="footnotelink">G</note>  by, also alle thoo that evere I hadde of comfort or ese, bodili or gostli. O myn soverein lord myhtful Trinité, graunte hem alle comfort and reles<note target="#274" type="footnotelink">G</note>  of peynes, and bringe hem to that blisse the which is alwey enduring. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="271"><space rend="indent1"/>Consummatum est, <gloss>“it is fulfilled” (“it is done”)</gloss></note>
+ 
+ 
+ <note type="footnote" n="272"><space rend="indent1"/><gloss>await</gloss></note>
+ 
+ 
+ <note type="footnote" n="273"><space rend="indent1"/><gloss>supported</gloss></note>
+ 
+ 
+ <note type="footnote" n="274"><space rend="indent1"/><gloss>release</gloss></note>
+ 
+ </div><div type="chapter" n="45"><head type="rubric">44: Saint Longinus</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Debonere <persName>Jhesu</persName>, I thanke and magnifie yow for that precious wounde that <persName>Longeus</persName><note type="enote-indicator" n="140">N</note>  made with a scharp spere, and persid to youre holi blissid herte, and fro that wownde ran watir and blood. O dereworthi<note target="#275" type="footnotelink">G</note>  <locus type="foliation">[fol. 39r]</locus> lord <persName>Jhesu</persName>, that precious blood and water clense the blindnesse of myn gostli eyen and herte, as it dede the eyen of <persName>Longeus</persName>, wher thorw he gat his sight and myhte weel seen, so that I may have<note type="tnote-indicator" n="41">T</note>  verray knowing of youre divine bounté and trewe sight, and knowing of my self and of alle my sinnes and defautes with perfith hope of youre mercy. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="275"><space rend="indent1"/><gloss>precious</gloss></note>
+ 
+ </div><div type="chapter" n="46"><head type="rubric">45: The Deposition</head>
+ <ab><milestone n="1" unit="prose-textblock"/>I thanke and magnifie yow, <persName>Jhesu</persName> ful of benignité, for alle youre miracleful werkes and gracious dedes, and in reverence and remembraunce of hem, and for alle wowndes <locus type="foliation">[fol. 39v]</locus> of youre precious body and woful peynes that ye, blissid <persName>Jhesu</persName>, for oure love suffrid, and were take doun off the cros and leyde in sepulcre. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ </div><div type="chapter" n="47"><head type="rubric">46: The Entombment</head>
+ <ab><milestone n="1" unit="prose-textblock"/>A! ladi seynte <persName>Marie</persName>, myn lordis dere modir, I preie yow glorious virgine, and also seint <persName>John</persName> the wangelist, and <persName>Marie Maudeleyne</persName>, <persName>Joseph</persName> of <placeName>Armathe</placeName> and <persName>Nichodeme</persName>,<note type="enote-indicator" n="141">N</note>  and al that holi cumpanie<note type="tnote-indicator" n="42">T</note>  that was at that holi beriyng<note target="#276" type="footnotelink">G</note>  of my lordes precious body, <persName>Crist Jhesu</persName>. I prey yow alle preiyeth for me to that holi <persName>God Jhesu</persName> that he take myn herte from al ertheli<note target="#277" type="footnotelink">G</note>  <locus type="foliation">[fol. 40r]</locus> thing and berie and close it spirituali<note type="tnote-indicator" n="43">T</note>  in him as his blissid body was beried<note type="enote-indicator" n="142">N</note>  in the sepulcre. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="276"><space rend="indent1"/><gloss>burial</gloss></note>
+ 
+ 
+ <note type="footnote" n="277"><space rend="indent1"/><gloss>worldly</gloss></note>
+ 
+ </div><div type="chapter" n="48"><head type="rubric">47: The Appearance to the Virgin Mary</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Blisful <persName>Jhesu</persName>, I thanke yow and blissid be ye of yow self. Worchepid and magnified be ye everemore of alle creaturis for youre glorious resurreccion that ye, goode lord, aroos myhtili<note type="tnote-indicator" n="44">T</note>  from deth to lif on <date>Ester day</date>, and aperid to youre dere modir,<note type="enote-indicator" n="143">N</note> and seide to here: “<foreign xml:lang="lat">Salve sancta parens</foreign>.”<note target="#278" type="footnotelink">G</note> <note type="enote-indicator" n="144">N</note>  O lady, for that gret joye that ye hadde whan ye saw youre dere worthi sone from deth to live arisen, and for the goodli daliaunce<note type="enote-indicator" n="145">N</note>  <locus type="foliation">[fol. 40v]</locus> that was thanne betwen yow bothe, O gloriouse virgine, and for the fervent love that youre blissid herte was with inflamind in his blisful presence: preie my lord the Trinité that in alle vertues and rihtful levyng he yeve me grace to have good perseveraunce in to myn lyves ende. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="278"><space rend="indent1"/>Salve sancta parens, <gloss>“Hail, holy mother”</gloss></note>
+ 
+ </div><div type="chapter" n="49"><head type="rubric">48: The Appearance to Mary Magdalene</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Benigne <persName>Jhesu</persName>, I thanke and magnifie yow that ye apperid also the day of youre Resurreccion to <persName>Marie Maudeleyne</persName>,<note type="enote-indicator" n="146">N</note>  which is a gret comfort to sinners. O lady <persName>Maudeleyne</persName>, for the gret joye that ye hadde<note type="enote-indicator" n="147">N</note>  thanne of his glorious <locus type="foliation">[fol. 41r]</locus> Resurreccion, of his presence and of his speche, whom ye loved so inwardli: preie myn lord <persName>Jhesu</persName> that mercifulli foryaf youre sinnes whan ye wepte at his feet that he for his gret goodnes foryeve me alle myne sinnes and make me evere to loven him parfithli.<note target="#279" type="footnotelink">G</note>  <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="279"><space rend="indent1"/><gloss>perfectly</gloss></note>
+ 
+ </div><div type="chapter" n="50"><head type="rubric">49: The Supper at Emmaus</head>
+ <ab><milestone n="1" unit="prose-textblock"/><persName>Jhesu</persName> ful of endeles goodnes, I thanke and magnifie yow for the appering that ye apperid to <persName>Cleophas</persName><note type="enote-indicator" n="148">N</note>  and his felawe on <date>Esterne<note type="tnote-indicator" n="45">T</note> Moneday</date>. And ful benigneli, goode lord, ye walkid with hem and brouht hem owt of here errour and wente with hem in to the <placeName>Castell of <locus type="foliation">[fol. 41v]</locus> Emaus</placeName>,<note type="enote-indicator" n="149">N</note>  and there ye sattin at a bord betwen hem two and brak the bred wher thorw thei knewyn yow. O benigne <persName>Jhesu</persName>, blissid and worchepid, glorified and magnified be ye evere more for alle the comfortis that thee have doon and schal doon in to the <date>day of Jugement</date> to youre chosin children. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ </div><div type="chapter" n="51"><head type="rubric">50: The Incredulity of Thomas</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Merciful <persName>Jhesu</persName>, I thanke and magnifie yow for alle the apperinges that thee apperid aftir yowre Resurreccion. And specialli I thanke yow, good lord, for youre appering to seynt <persName>Thomas</persName><note type="enote-indicator" n="150">N</note>  of <placeName>Inde</placeName>, at the which tyme ye yaf <locus type="foliation">[fol. 42r]</locus> youre blissing to alle hem that belevyd in yow and never saw yow. O dere benigne <persName>God</persName>, yeve us alle grace feithfulli and continualli to have parfith beleeve in yow wherthorw we may have youre blissing evir withoutyn ende. Amen. <foreign xml:lang="lat">Pater noster. Ave</foreign>.</ab>
+ </div><div type="chapter" n="52"><head type="rubric">51: The Ascension</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Myhtful <persName>Jhesu</persName>, I thanke and magnifie yow for youre merveilous Ascension,<note type="enote-indicator" n="151">N</note>  that ye stey<note target="#280" type="footnotelink">G</note>  to <placeName>hevene</placeName> on <date>holi Thursday</date><note type="tnote-indicator" n="46">T</note>  and sette yow on youre fadris riht<note type="tnote-indicator" n="47">T</note>  hand, and schul come ayen and deme the quike<note target="#281" type="footnotelink">G</note>  and the dede.<note type="enote-indicator" n="152">N</note>  O gracious lord, graunte me grace thanne to been on youre riht side and <locus type="foliation">[fol. 42v]</locus> seie to me with youre children: “<foreign xml:lang="lat">Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione</foreign><note type="tnote-indicator" n="48">T</note> <foreign xml:lang="lat"> <placeName>mundi</placeName></foreign>,”<note target="#282" type="footnotelink">G</note> <note type="enote-indicator" n="153">N</note>  that I may at that time be<note target="#283" type="footnotelink">G</note>  youre blisful bounté haven part of youre eritage, ever to love and herie yow in blisse evirlesting. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="280"><space rend="indent1"/><gloss>scaled </gloss></note>
+ 
+ 
+ <note type="footnote" n="281"><space rend="indent1"/>deme the quike, <gloss>judge the living</gloss></note>
+ 
+ 
+ <note type="footnote" n="282"><space rend="indent1"/>Venite benedicti Patris mei, possidete paratum vobis regnum a constitutione mundi, <gloss>“Come, ye blessed of my Father, possess you the kingdom prepared for you from the foundation of the world”</gloss></note>
+ 
+ 
+ <note type="footnote" n="283"><space rend="indent1"/><gloss>by means of</gloss></note>
+ 
+ </div><div type="chapter" n="53"><head type="rubric">52: Pentecost</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Glorious <persName>Jhesu</persName>, I thanke and magnifie yow for the sending doun of the Holi Gost<note type="enote-indicator" n="154">N</note>  to youre apostelis on <date>Witsunday</date>, which fulfilde with wit and wisdom<note type="enote-indicator" n="155">N</note>  and yaf hem strengthe to suffre for youre dere love peynes and turmentis and cruel deth. O blisful lord, ful of <locus type="foliation">[fol. 43r]</locus> swetnesse and ful of all bounté: sende us youre Holi Gost to fulfille us with wit and wisdom, where thorw we mowe wisli governe oure self as longe as the lif is withinne oure bodies, and also to yeven us strengthe, mekeli and myghtili, to suffren peynes and disseses for youre love and to with-stonde alle vices and never<note type="tnote-indicator" n="49">T</note>  to flitte<note target="#284" type="footnotelink">G</note>  from yow for lif ne for deth. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName><foreign xml:lang="lat"> gratia</foreign>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="284"><space rend="indent1"/><gloss>depart</gloss></note>
+ 
+ </div><div type="chapter" n="54"><head type="rubric">53: The Sacred Heart</head>
+ <ab><milestone n="1" unit="prose-textblock"/>A debonere <persName>Jhesu</persName>, I thanke and magnifie yow: worchepid and blissed be ye, goode lord, continueli in alle youre gracious vertues, and blissid and worchepid <locus type="foliation">[fol. 43v]</locus> been alle youre holy lymes<note target="#285" type="footnotelink">G</note>  and fetures, and alle youre bones and alle youre intrailes. And speciali I thanke and magnifie youre precious merciful herte.<note type="enote-indicator" n="156">N</note>  O blisful dere herte of myn lord <persName>Jhesu God</persName>: from yow comyth the brith schinyng bemes of deepe lyht of trewe understondyng. O gracious herte, from yow comyth the cler knowyng and stremys of swetnesse, the whiche is joye and comforth to oure mornyng<note target="#286" type="footnotelink">G</note>  soules. O benigne herte, that was so meke and pacient to suffre alle wornges,<note target="#287" type="footnotelink">G</note>  peynes and disseses that was put to yow: <locus type="foliation">[fol. 44r]</locus> blissid and thankid mote ye be. O merciful herte, ful of al godnes in whom is al precious gostli oynementis<note target="#288" type="footnotelink">G</note> <note type="enote-indicator" n="157">N</note>  to hele with oure sike soules. O herte debonere, from yow comyth al grace and vertues that is yeven to man and woman: glorified and magnified be ye evermore. O swete herte, ful of love: wownde myn herte in youre love and ravissche it<note type="enote-indicator" n="158">N</note>  al in yow. Schewe to me youre briht bemes<note target="#289" type="footnotelink">G</note>  of gostli undirstonding and streme me youre watres<note type="enote-indicator" n="159">N</note>  clere that gostli frutes<note type="tnote-indicator" n="50">T</note>  may growe in me, and alwey make me lowli to receiven youre spirituel sondes<note target="#290" type="footnotelink">G</note>  and mekeli to resig|ne<note target="#291" type="footnotelink">G</note>  <locus type="foliation">[fol. 44v]</locus> it to yow. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="285"><space rend="indent1"/><gloss>limbs</gloss></note>
+ 
+ 
+ <note type="footnote" n="286"><space rend="indent1"/><gloss>sorrowful</gloss></note>
+ 
+ 
+ <note type="footnote" n="287"><space rend="indent1"/><gloss>injustices</gloss></note>
+ 
+ 
+ <note type="footnote" n="288"><space rend="indent1"/><gloss>ointments</gloss></note>
+ 
+ 
+ <note type="footnote" n="289"><space rend="indent1"/><gloss>rays of light</gloss></note>
+ 
+ 
+ <note type="footnote" n="290"><space rend="indent1"/><gloss>messages</gloss></note>
+ 
+ 
+ <note type="footnote" n="291"><space rend="indent1"/><gloss>entrust</gloss></note>
+ 
+ </div><div type="chapter" n="55"><head type="rubric">54: The Benefits of the Lord</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Mihtful Trinité, ful of endeles glorie, I thanke and magnifie yow for alle the beenfetis that ye han doon to al mankende. And speciali I thanke yow that ye, gracious <persName>God</persName>, of yowre hey noblesse voucheth saf<note target="#292" type="footnotelink">G</note>  to been so mercyful to me, sinful. I thanke yow, benigne lord, of alle the beenfetes that ye withoutyn noumbre have doon to me, not withstonding that I am an unworthi, vicious,<note target="#293" type="footnotelink">G</note>  wrecchid creature. Yet I finde youre goodnesse ever redy to me: therfore I beseche youre modir Lady seynt <persName>Marie</persName>, and al the cumpany of <placeName>hevene</placeName>, <locus type="foliation">[fol. 45r]</locus> to thanke yow for my sake. O Holi Trinité, in <placeName>hevene</placeName> and in <placeName>erthe</placeName>, blissid and loved, worchepid and thankid, glorified and magnified be ye, blissid lord, continueli that lyvest and regnist in too, thre, and on,<note target="#294" type="footnotelink">G</note>  everlasting withouten ende. Amen. <foreign xml:lang="lat">Pater noster. Ave </foreign><persName><foreign xml:lang="lat">Maria</foreign></persName>.</ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="292"><space rend="indent1"/>hey noblesse voucheth saf, <gloss>exalted nobility consents</gloss></note>
+ 
+ 
+ <note type="footnote" n="293"><space rend="indent1"/><gloss>predisposed to vice</gloss></note>
+ 
+ 
+ <note type="footnote" n="294"><space rend="indent1"/>too, thre, and on, <gloss>two, three, and one</gloss></note>
+ 
+ </div><div type="chapter" n="56"><head type="rubric">The Author’s Epilogue</head>
+ <ab><milestone n="1" unit="prose-textblock"/>Ithankid be oure lord, good sustir, now have I ende that ye desired. I have write alwey at the beginninges of these preyeres and meditations thankynges and hereynges to <persName>God</persName>, for we owyn ever to thanke <persName>God</persName> for alle the grete werkis that he hath doon for man, and for alle yeftes and graces that of his benigne<note type="tnote-indicator" n="51">T</note>  goodnesse <locus type="foliation">[fol. 45v]</locus> to us yevith and sendith; and for alle gostli and bodili victories, for be his helpe and grace it is doon. And but yef we yelde<note target="#295" type="footnotelink">G</note>  thankinges to <persName>God</persName> for alle these before seide, we been unkende wherthorw we gretli displese him, as ye may pleinli se be emsample of king <persName>Ezechie</persName><note type="enote-indicator" n="160">N</note> that after a gret victorie that he hadde, he made no canticle<note target="#296" type="footnotelink">G</note>  thanking <persName>God</persName> of his victorie; and therfore was <persName>God</persName> displesed and sente him to sein<note target="#297" type="footnotelink">G</note>  be his prophete<note type="enote-indicator" n="161">N</note>  that he schulde dien. Wherfore I counseile alwey that ye in al mekenesse and reverence thanke and herie <persName>God</persName> at alle tymes for his beenfetis.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Ferthermore, myn sustir, mo <locus type="foliation">[fol. 46r]</locus> peynes I have wretin than I finde in the passion of the gospel, the whiche was be revelacion of <persName>God</persName> schewid to a religious persone.<note type="enote-indicator" n="162">N</note>  Alle the evangelistes witnessin<note type="enote-indicator" n="163">N</note>  weel in here writing that ther was more of oure lord <persName>Crist Jhesu</persName> than thei wretin of him, and therfore it may leeffuli<note target="#298" type="footnotelink">G</note>  been seide or wretin thing that hath be schewid be <persName>Godes</persName> goodnesse, al though it be not in the gospel. Also I write in divers places “us” and “we” for ye schulde at swich places take youre even Cristen with yow in youre preieres, for whan we preie for us self it plesith <persName>God</persName> <locus type="foliation">[fol. 46v]</locus> gretli that we take oure even Cristen with us. And treuli, sustir, yef we do so he of his gret goodnesse wole thanne here oure preiere the sonere.<note target="#299" type="footnotelink">G</note> </ab>
+ <ab><milestone n="3" unit="prose-textblock"/>I have set yow in this writing of lesse pris<note target="#300" type="footnotelink">G</note>  that I hope ye been in the syght of <persName>God</persName>, for this cause: for thoug a man or womman be never so good a lever,<note target="#301" type="footnotelink">G</note>  and though thei have never so mochil grace of <persName>God</persName>, gostli and bodili, thei schulde alwey sette lest<note target="#302" type="footnotelink">G</note>  of hem self, and holde hem self most sinful and lest worthe of alle othire. But summe ther beth that seyn that thei can not holden hem self most sinful of alle othire, for thei seye that othir <locus type="foliation">[fol. 47r]</locus> han doon grete dedli sinnes that thei dede nevere. And to hem that sein so I answere: yef thei wolde opin the eye of sothfastnesse,<note target="#303" type="footnotelink">G</note>  it were ful litil maystrie<note target="#304" type="footnotelink">G</note>  to holden hem self most sinful of alle othir. For yef the most perfith liver that is this day on lyve,<note target="#305" type="footnotelink">G</note>  and lest sinne hath doon, and he hadde standin in the same occasions that the most sinful man stood in, and therto he hadde had the same temptacions and that same disposicion, and the grace of <persName>God</persName> withdrawe from hym, he schulde have do as evil as he or worse. And therfore as of his owin propreté<note target="#306" type="footnotelink">G</note>  he may holde <locus type="foliation">[fol. 47v]</locus> him self as most sinful, for it is but only of <persName>Godes</persName> goodnesse that kepith him fro the periles that othir fallin in.</ab>
+ <ab><milestone n="4" unit="prose-textblock"/>And also ther is anothir wey a man to holde him self as on of the most sinful, though he fele meche grace and vertu yoven to him, and is this: yef a man or woman for his holi levyng falle into pride beholding her vertues and goode dedis, and rejoyeth in hem self with pride, wenyng<note target="#307" type="footnotelink">G</note>  that thei be not so sinful as other been, ne doo not thoo evel dedes that othir doon, and in this deliten in hem self, and fallen thus in pride and veinglorie,<note type="enote-indicator" n="164">N</note>  <locus type="foliation">[fol. 48r]</locus> wilfuli holding weel be him self, thei ben more dispisable in the siht of <persName>God</persName> than thei that have sinnid in gret owtward sinnes. For I likene hem to the Pharisé that oure lord spekith of<note type="enote-indicator" n="165">N</note>  in the gospel. The Pharisé thowhte and seide to <persName>God</persName> that he dede goode dedis and was not so sinful as the publican,<note target="#308" type="footnotelink">G</note>  and in this he hadde pride and reyoiced in him self; and therfore he was refusid of <persName>God</persName>, and the sinful publican for his wekenesse and contricion was receyved<note type="tnote-indicator" n="52">T</note>  to grace. <persName>Lucifer</persName><note type="enote-indicator" n="166">N</note>  also he sinnid, not in owtward fleshchli sinnes which arn most abominable and repro|vable <locus type="foliation">[fol. 48v]</locus> in the siht of man, but he sinnid in pride onli, which is most reprevable<note target="#309" type="footnotelink">G</note>  in the siht of <persName>God</persName>: and therfore he that was so faire an aungel for his pride become the fowlest fend of <placeName>helle</placeName>. O, sithin that pride is so perilous that it fadith al gostli beuté<note target="#310" type="footnotelink">G</note> <note type="enote-indicator" n="167">N</note>  and gretli displesith <persName>God</persName>, it owith mechel to ben hatid and enchewid<note target="#311" type="footnotelink">G</note>  of every creature to be soore aferd<note target="#312" type="footnotelink">G</note>  therof. <persName>God</persName>, yeve us grace evere to flee therfro: and I seye yow trewli what creature that wole hatin it and eschewen it, he must evere holde him self werst of alle othir, and so I hope that ye do. But yet I write this to remembre<note target="#313" type="footnotelink">G</note>  bothe yow and othir <locus type="foliation">[fol. 49r]</locus> therupon, and especiali to excite my self to have it weel in mynde. And I am sekir<note target="#314" type="footnotelink">G</note>  who so holdith him self most sinful he hath neythir<note type="tnote-indicator" n="53">T</note>  skorn ne hatred ne disdein of noon of evyn Cristen for eny sinne that thei do or have doon, but thei have pité and compassion of hem and hate the sinnes and love the persones;<note type="enote-indicator" n="168">N</note>  and so mekenesse — who that wole takin it — causith charité and al goodnesse.</ab>
+ <ab><milestone n="5" unit="prose-textblock"/>And, sustir, bindith<note target="#315" type="footnotelink">G</note>  not yow self<note type="enote-indicator" n="169">N</note>  to seye al ovir the preieres every day, but seye summe on oon day and summe on anothir day as ye have leyser<note target="#316" type="footnotelink">G</note>  at tyme. And whoso that evir usith <locus type="foliation">[fol. 49v]</locus> mechil to seie it schal finde therinne grace, comforth, and strengthe. I wolde<note target="#317" type="footnotelink">G</note>  ye couden<note target="#318" type="footnotelink">G</note>  the sentence withoutyn the book, for and<note target="#319" type="footnotelink">G</note>  ye so coude ye schulden fele mochil more comforth and unyon in <persName>God</persName>, to seye it so inforth<note target="#320" type="footnotelink">G</note>  than for to seie it be scripture.<note type="enote-indicator" n="170">N</note>  And farith now weel, myn goode sustir: <persName>God</persName> yeve us bothe grace in al thing to do as it is most to his worschep and plesing. Amen.</ab>
+ <lg><l><milestone n="6" unit="prose-textblock"/><space rend="indent1"/>Syke<note target="#321" type="footnotelink">G</note>  and sorwe deeply,<note type="enote-indicator" n="171">N</note> </l><l><space rend="indent1"/>Wepe and mourne sadly,</l><l><space rend="indent1"/>Preye and thinke devoutly,</l><l><space rend="indent1"/>Love and longe continualy.</l></lg>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="295"><space rend="indent1"/>And but yef we yelde, <gloss>And if we do not yield</gloss></note>
+ 
+ 
+ <note type="footnote" n="296"><space rend="indent1"/><gloss>song of praise</gloss></note>
+ 
+ 
+ <note type="footnote" n="297"><space rend="indent1"/><gloss>say</gloss></note>
+ 
+ 
+ <note type="footnote" n="298"><space rend="indent1"/><gloss>legitimately</gloss></note>
+ 
+ 
+ <note type="footnote" n="299"><space rend="indent1"/><gloss>sooner</gloss></note>
+ 
+ 
+ <note type="footnote" n="300"><space rend="indent1"/><gloss>value</gloss></note>
+ 
+ 
+ <note type="footnote" n="301"><space rend="indent1"/><gloss>person who lives their life in a certain way</gloss></note>
+ 
+ 
+ <note type="footnote" n="302"><space rend="indent1"/><gloss>the least</gloss></note>
+ 
+ 
+ <note type="footnote" n="303"><space rend="indent1"/><gloss>truth</gloss></note>
+ 
+ 
+ <note type="footnote" n="304"><space rend="indent1"/><gloss>skill</gloss></note>
+ 
+ 
+ <note type="footnote" n="305"><space rend="indent1"/>on lyve, <gloss>alive</gloss></note>
+ 
+ 
+ <note type="footnote" n="306"><space rend="indent1"/><gloss>characteristic</gloss></note>
+ 
+ 
+ <note type="footnote" n="307"><space rend="indent1"/><gloss>believing</gloss></note>
+ 
+ 
+ <note type="footnote" n="308"><space rend="indent1"/><gloss>tax collector on behalf of the Romans</gloss></note>
+ 
+ 
+ <note type="footnote" n="309"><space rend="indent1"/><gloss>blameworthy</gloss></note>
+ 
+ 
+ <note type="footnote" n="310"><space rend="indent1"/><gloss>beauty</gloss></note>
+ 
+ 
+ <note type="footnote" n="311"><space rend="indent1"/><gloss>avoided</gloss></note>
+ 
+ 
+ <note type="footnote" n="312"><space rend="indent1"/>soore aferd, <gloss>very afraid</gloss></note>
+ 
+ 
+ <note type="footnote" n="313"><space rend="indent1"/><gloss>remind</gloss></note>
+ 
+ 
+ <note type="footnote" n="314"><space rend="indent1"/><gloss>certain</gloss></note>
+ 
+ 
+ <note type="footnote" n="315"><space rend="indent1"/><gloss>commit</gloss></note>
+ 
+ 
+ <note type="footnote" n="316"><space rend="indent1"/><gloss>leisure</gloss></note>
+ 
+ 
+ <note type="footnote" n="317"><space rend="indent1"/><gloss>prefer</gloss></note>
+ 
+ 
+ <note type="footnote" n="318"><space rend="indent1"/><gloss>know</gloss></note>
+ 
+ 
+ <note type="footnote" n="319"><space rend="indent1"/><gloss>if</gloss></note>
+ 
+ 
+ <note type="footnote" n="320"><space rend="indent1"/><gloss>from memory</gloss></note>
+ 
+ 
+ <note type="footnote" n="321"><space rend="indent1"/><gloss>Sigh</gloss></note>
+ 
+ </div></body></text></TEI>
